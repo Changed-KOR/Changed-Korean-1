@@ -1,0 +1,196 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+一个杯子
+> CONTEXT: Map010/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+又是我，这次你一订要听我的，因为我醉懂这些胶兽啦
+！黑色胶兽没有静态视力，所以看不到镜止不动的生物
+，你要抓住机会在黑脚兽们看不到的时候快点梨开！我
+吧它们绝对看不到的地方用笔图了颜色，加油吧！
+> CONTEXT: Map010/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+很明显有什么人想要帮助你，但他似乎没学会好好写字
+> CONTEXT: Map010/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你针的会来吗…你还活着吗？我什么也不知道，我已经
+等你太酒太酒了…你足够强壮吗？你是我所期望的那样
+吗？人类？
+> CONTEXT: Map010/events/26/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黄书，内容非常绿色
+> CONTEXT: Map010/events/31/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+很明显，这个显示屏不会播放电视节目
+> CONTEXT: Map010/events/34/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+写着看似专业实则潦草的字
+> CONTEXT: Map010/events/45/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/93/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/174/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+用防尘布盖起来的器械
+> CONTEXT: Map010/events/79/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/92/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黄书
+> CONTEXT: Map010/events/80/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+内容非常绿色
+> CONTEXT: Map010/events/80/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+揉的这么皱的纸上能有什么线索呢？
+> CONTEXT: Map010/events/94/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没电了的扫地机器人
+> CONTEXT: Map010/events/97/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那是…纯黑色的胶兽！
+> CONTEXT: Map010/events/127/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+它们好像还没发现你…
+> CONTEXT: Map010/events/127/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悄悄的溜过去…或许可行？
+> CONTEXT: Map010/events/127/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真的很没意思的试管
+> CONTEXT: Map010/events/152/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那些黑色的粘液生物并不是真正意义上的“生物”，我
+们所见到的只不过是它们本能的一种“拟态”
+> CONTEXT: Map010/events/154/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但它们的“拟态”无法让身体生成透明的晶状体，它们
+无法模拟正常生物的视觉系统
+> CONTEXT: Map010/events/154/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+因此它们的感知只能依靠动态捕捉和听力，它们不会对
+静止并且安静的东西做出反应
+> CONTEXT: Map010/events/154/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+此外，接触到从它们身上滴落的粘液时，它们的本体也
+能够感知的到,那些是被它们遗弃的已经老化了的身体，
+它们也有着一些基础的新陈代谢的能力
+> CONTEXT: Map010/events/154/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+因为这些粘液生物的外形与狼相似，而且它们的基因构
+成也确实带有狼的一部分，所以为了方便称呼，我们有
+时也叫它们“胶兽”
+> CONTEXT: Map010/events/154/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这批生物样本近期表现出的高度智慧使我惊讶极了，我
+在接到研究指令时不禁疑惑，这些胶兽真的是人造的？
+> CONTEXT: Map010/events/154/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+可惜，我接到了新的命令，要赶快处理掉这批“失败品
+”，这些胶兽样本无法满足我们原本的研究需求
+> CONTEXT: Map010/events/154/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+只能先把它们封装起来，放在暂时无人使用的办公室了
+> CONTEXT: Map010/events/154/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+废纸球
+> CONTEXT: Map010/events/160/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+皱纸
+> CONTEXT: Map010/events/162/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这里面有一只小小的胶兽
+> CONTEXT: Map010/events/190/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/190/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/190/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/190/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+电梯不工作了
+> CONTEXT: Map010/events/211/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+请你无论如河都一定要香信我，只要你不动，它们是绝
+对不会看剑你的！就蒜它们冲到了你的面前，也不要动
+，更不要跑，它们会听到你炮步的声音，相信我好吗…
+> CONTEXT: Map010/events/226/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

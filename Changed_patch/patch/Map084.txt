@@ -1,0 +1,182 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+打不开！
+> CONTEXT: Map084/events/10/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/11/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看起来很新鲜的橘子
+> CONTEXT: Map084/events/21/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/32/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+现在偷吃一定会被发现的
+> CONTEXT: Map084/events/21/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/31/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/32/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你小心翼翼的把录音机的音量调整到了最小
+> CONTEXT: Map084/events/22/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这些黑色胶兽原本是实验的失败品
+> CONTEXT: Map084/events/22/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+研究所沦陷之后它们从罐子里逃了出来
+> CONTEXT: Map084/events/22/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+之后又在建筑内开辟自己的家园与领地
+> CONTEXT: Map084/events/22/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+它们甚至把办公区改造成了寝室
+> CONTEXT: Map084/events/22/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这些黑色胶兽拥有相当的智慧
+> CONTEXT: Map084/events/22/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好在它们对我没有任何兴趣
+> CONTEXT: Map084/events/22/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看起来可以饮用的水
+> CONTEXT: Map084/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/47/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/52/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+现在偷偷喝一定会被发现的
+> CONTEXT: Map084/events/25/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一杯水
+> CONTEXT: Map084/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map084/events/76/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+现在偷喝一定会被发现的
+> CONTEXT: Map084/events/30/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这只小小的黑色胶兽睡得死死的
+> CONTEXT: Map084/events/61/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+要摸摸它吗？
+> CONTEXT: Map084/events/61/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+是
+> CONTEXT: Map084/events/61/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map080/events/120/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map064/events/20/pages/0/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map063/events/120/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map054/events/35/pages/0/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map046/events/69/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map048/events/120/pages/0/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map044/events/137/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map045/events/314/pages/3/69/Choice/0 < UNTRANSLATED
+> CONTEXT: Map041/events/10/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map041/events/10/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map037/events/14/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map023/events/200/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map019/events/102/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map017/events/224/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map015/events/1/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map009/events/23/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/26/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/94/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/96/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/97/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/98/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/99/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/100/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/101/pages/0/2/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+否
+> CONTEXT: Map084/events/61/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map080/events/120/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map064/events/20/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map063/events/120/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map054/events/35/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map046/events/69/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map048/events/120/pages/0/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map044/events/137/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map045/events/314/pages/3/69/Choice/1 < UNTRANSLATED
+> CONTEXT: Map041/events/10/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map041/events/10/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map037/events/14/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map023/events/200/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map019/events/102/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map017/events/224/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map015/events/1/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map009/events/23/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/26/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/94/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/96/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/97/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/98/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/99/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/100/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/101/pages/0/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空罐头瓶
+> CONTEXT: Map084/events/75/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map062/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/176/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/177/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map044/events/178/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/21/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/22/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/23/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
