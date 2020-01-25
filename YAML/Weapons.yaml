@@ -1,0 +1,21 @@
+---
+- 
+- !ruby/object:RPG::Weapon
+  agi: 0
+  animation_id: 0
+  atk: 0
+  critical_bonus: false
+  def: 0
+  description: ''
+  dual_attack: false
+  element_set: []
+  fast_attack: false
+  hit: 95
+  icon_index: 0
+  id: 1
+  name: ''
+  note: ''
+  price: 0
+  spi: 0
+  state_set: []
+  two_handed: false

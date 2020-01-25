@@ -1,0 +1,28 @@
+---
+- 
+- !ruby/object:RPG::Skill
+  absorb_damage: false
+  animation_id: 0
+  atk_f: 0
+  base_damage: 0
+  common_event_id: 0
+  damage_to_mp: false
+  description: ''
+  element_set: []
+  hit: 100
+  icon_index: 0
+  id: 1
+  ignore_defense: false
+  message1: ''
+  message2: ''
+  minus_state_set: []
+  mp_cost: 0
+  name: ''
+  note: ''
+  occasion: 0
+  physical_attack: false
+  plus_state_set: []
+  scope: 1
+  speed: 0
+  spi_f: 0
+  variance: 20
