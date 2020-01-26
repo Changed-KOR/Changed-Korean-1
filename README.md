@@ -9,6 +9,10 @@
  - Graphics : 그래픽 리소스 파일을 모아뒀습니다. 식자에 사용하세요. (깃허브 내에서 불러올 수 없고, 다운로드 받아서 작업하세요)
  - YAML : 게임에 직접 액세스하여 뜯어낸 YAML 파일입니다...만, special 버전 이후로는 정상 작동하지 않습니다.
 
+## 주의사항
+![image](https://user-images.githubusercontent.com/55882406/73133099-6f386f00-4067-11ea-8095-450e0dfff9a0.png)
+ - 텍스트박스 줄에는 완성형 한글 기준으로 20글자(안정)~25글자(최대)가 들어갑니다. 위의 테스트이미지를 참조해주세요.
+
 ## 참고 문헌 및 URL
  - RPGMakerTrans 사용법 : https://docs.google.com/document/d/14ixSSKn6AbIxkLGjj-tGQKRoqiF3j1XG_sagB1Q4ahE/edit?usp=sharing
  - rvpacker 사용법 / 이미지 추출하기  : https://docs.google.com/document/d/1nSK8Tok_4SKpKAgVit41PRtUAWjB37DkTOvaF1abtWI/edit?usp=sharing
@@ -19,3 +23,4 @@
  - 파일 커밋할 때 Summary에 닉네임 꼭 남겨주세요. 예를 들면 " <블랙치이> 시스템 용어 번역 " 등등...
  - 만약 이상한 커밋이나 브랜치가 있으면 알려주세요. MERGE 뜨면 *바로 알려주세요!!!*
  
+
