@@ -2,7 +2,7 @@
 > BEGIN STRING
 并没有能够打开的迹象
 > CONTEXT: Map001/events/3/pages/0/1/Dialogue < UNTRANSLATED
-열릴 기미가 보이지 않.
+열릴 기미가 보이지 않아..
 > END STRING
 
 > BEGIN STRING
