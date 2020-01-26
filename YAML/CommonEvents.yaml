@@ -1,9 +1,0 @@
----
-- 
-- !ruby/object:RPG::CommonEvent
-  id: 1
-  list:
-  - !ruby/object:RPG::EventCommand {i: 0, c: 0, p: []}
-  name: ''
-  switch_id: 1
-  trigger: 0
