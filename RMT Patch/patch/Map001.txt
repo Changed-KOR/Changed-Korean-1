@@ -23,7 +23,7 @@
 > BEGIN STRING
 门已经被粘液封住，看来你此次在劫难逃
 > CONTEXT: Map001/events/5/pages/3/7/Dialogue < UNTRANSLATED
-
+ 
 > END STRING
 
 > BEGIN STRING
