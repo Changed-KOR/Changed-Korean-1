@@ -93,6 +93,6 @@
 > BEGIN STRING
 别想再耍什么花样
 > CONTEXT: Map004/events/79/pages/0/15/Dialogue < UNTRANSLATED
-무슨 수작이든 간에,
+무슨 개수작지는 모르겠지만,
 더 이상 뭘 할 수도 없을 거다.
 > END STRING
