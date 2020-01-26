@@ -9,7 +9,8 @@
 门打开了，但这扇门并不是能让你从这里出去的那扇门
 啊！
 > CONTEXT: Map001/events/3/pages/2/0/Dialogue < UNTRANSLATED
-문이 열렸지만, 이 문으로 나갈 순 없을 것 같다.
+문이 열렸지만, 
+이 문으로 나갈 순 없을 것 같다.
 > END STRING
 
 > BEGIN STRING
@@ -426,20 +427,21 @@
 > BEGIN STRING
 我不清楚这位被验者是否会是一个隐患
 > CONTEXT: Map001/events/112/pages/0/7/Dialogue < UNTRANSLATED
-이 사람이 잠재적인 위협이 될 지는 의문이다.
+이 사람이 잠재적인 위협일지,
+아닐지는 의문이다.
 > END STRING
 
 > BEGIN STRING
 也许我应该切断维生系统的电力
 > CONTEXT: Map001/events/112/pages/0/9/Dialogue < UNTRANSLATED
-만일, 어쩌면... 내가, 긴급전력 시스템을
+만일, 어쩌면... 내가, 전력 시스템을
 꺼야 할 지도 모른다.
 > END STRING
 
 > BEGIN STRING
 不过我想尽量在不造成伤亡的同时解决问题
 > CONTEXT: Map001/events/112/pages/0/11/Dialogue < UNTRANSLATED
-하지만 가능한 한 사상자를 내지 않는 선에서
+하지만, 그래도 사상자를 내지 않는 선에서
 문제를 해결하고 싶다.
 > END STRING
 

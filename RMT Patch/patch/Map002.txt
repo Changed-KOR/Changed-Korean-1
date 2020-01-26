@@ -24,87 +24,97 @@
 睡梦之中你好像喝了不少这液体，大概正是这液体维持
 着你的生命吧
 > CONTEXT: Map002/events/10/pages/0/6/Dialogue < UNTRANSLATED
-
+잠결에 이 액체를 많이 마신 듯하다.
+아마 이 액체가 생명을 유지시켰으리라.
 > END STRING
 
 > BEGIN STRING
 你在这里不是孤独的，或许有些其他的什么东西仍在这
 周围徘徊着，还是赶快出去吧
 > CONTEXT: Map002/events/10/pages/1/0/Dialogue < UNTRANSLATED
-
+이곳에 나는 혼자가 아니다.
+배회하기보다는 이곳을 빨리 빠져나가자.
 > END STRING
 
 > BEGIN STRING
 通风管道的深处有一个发着光的开关
 > CONTEXT: Map002/events/15/pages/0/0/Dialogue < UNTRANSLATED
-
+통풍관 깊숙한 곳,
+빛을 발하는 스위치 하나가 있다.
 > END STRING
 
 > BEGIN STRING
 但这个小小的铁门只能由内打开
 > CONTEXT: Map002/events/15/pages/0/2/Dialogue < UNTRANSLATED
-
+하지만 이 작은 문은
+안쪽에서만 열 수 있는 듯하다.
 > END STRING
 
 > BEGIN STRING
 你向里望了望，随后放弃了爬进去的想法
 > CONTEXT: Map002/events/15/pages/0/4/Dialogue < UNTRANSLATED
-
+잠깐 안을 들여다보고는,
+기어들어갈 생각을 접었다.
 > END STRING
 
 > BEGIN STRING
 里面传出好像有东西在被拖拽着滑动的声音
 > CONTEXT: Map002/events/15/pages/0/7/Dialogue < UNTRANSLATED
-
+안쪽에서 무언가가 미끄러지듯
+움직이는 소리가 들려온다.
 > END STRING
 
 > BEGIN STRING
 还是不要靠近了吧…
 > CONTEXT: Map002/events/15/pages/0/9/Dialogue < UNTRANSLATED
-
+가까이 가지 않는 게 좋아..
 > END STRING
 
 > BEGIN STRING
 有窸窸窣窣爬动的声音
 > CONTEXT: Map002/events/15/pages/1/0/Dialogue < UNTRANSLATED
-
+꿈틀거리는 소리가 들려온다.
 > END STRING
 
 > BEGIN STRING
 你有点害怕
 > CONTEXT: Map002/events/15/pages/1/2/Dialogue < UNTRANSLATED
-
+당신은 두려움을 느꼈다.
 > END STRING
 
 > BEGIN STRING
 通风管道的深处有一个紧急制动开关
 > CONTEXT: Map002/events/15/pages/3/0/Dialogue < UNTRANSLATED
-
+환기 파이프 저 안쪽에,
+브레이크 스위치가 있는 것 같다.
 > END STRING
 
 > BEGIN STRING
 你吃力的把手伸进这个管道与电缆复杂交错的通风管道
 里，终于，你按到了那个开关
 > CONTEXT: Map002/events/15/pages/3/2/Dialogue < UNTRANSLATED
-
+당신은 파이프와 케이블이 교차하는
+통풍관 안에 손을 넣고 더듬었다.
+그리고 마침내 스위치를 눌렀다.
 > END STRING
 
 > BEGIN STRING
 门锁解除了
 > CONTEXT: Map002/events/15/pages/3/11/Dialogue < UNTRANSLATED
-
+문의 잠금이 해제되었다.
 > END STRING
 
 > BEGIN STRING
 里面的开关已经按下了
 > CONTEXT: Map002/events/15/pages/4/0/Dialogue < UNTRANSLATED
-
+이미 스위치를 눌렀다.
 > END STRING
 
 > BEGIN STRING
 想起刚才的遭遇，还是不要再往里张望了
 > CONTEXT: Map002/events/15/pages/4/2/Dialogue < UNTRANSLATED
-
+방금 당한 그 일을 생각하면...
+안을 들여다보지 않는 게 좋겠어.
 > END STRING
 
 > BEGIN STRING
@@ -132,7 +142,7 @@
 > BEGIN STRING
 你真的要碰一碰吗？
 > CONTEXT: Map002/events/26/pages/0/2/Dialogue < UNTRANSLATED
-
+정말로 만지시겠습니까?
 > END STRING
 
 > BEGIN STRING
@@ -239,31 +249,35 @@
 > BEGIN STRING
 考虑到现在的状况，还是不要触碰为好
 > CONTEXT: Map002/events/26/pages/0/72/Dialogue < UNTRANSLATED
-
+현재 상황을 감안해 본다면
+만지지 않는 게 좋을 것 같아.
 > END STRING
 
 > BEGIN STRING
 墙上的粘液好像在蠕动
 > CONTEXT: Map002/events/26/pages/1/0/Dialogue < UNTRANSLATED
-
+벽의 점액이 마치 꿈틀거리며
+미동하는 것 같다.
 > END STRING
 
 > BEGIN STRING
 完全不想去碰…
 > CONTEXT: Map002/events/26/pages/1/2/Dialogue < UNTRANSLATED
-
+전혀 손대고 싶지 않아..
 > END STRING
 
 > BEGIN STRING
 已经风干了的不明物质沉积在试管底部
 > CONTEXT: Map002/events/27/pages/0/0/Dialogue < UNTRANSLATED
-
+이미 분리된 미확인 물질은
+시험관 바닥에 가라앉아 있다.
 > END STRING
 
 > BEGIN STRING
 你很饿，但绝对不会想吃这个
 > CONTEXT: Map002/events/27/pages/0/2/Dialogue < UNTRANSLATED
-
+뭐든 먹을 수 있는 시장기지만...
+이건 절대 먹고 싶지 않아.
 > END STRING
 
 > BEGIN STRING
@@ -271,42 +285,42 @@
               本游戏包含部分跳杀、裸露
 > CONTEXT: Map002/events/36/pages/0/6/Dialogue < UNTRANSLATED
                이 게임은 픽션입니다.
-          공포 및 노출 표현이 포함되어 있습니다.
+          공포, 노출 표현이 포함되어 있습니다.
 > END STRING
 
 > BEGIN STRING
            检测到电力不足，总发电机已故障
 > CONTEXT: Map002/events/36/pages/0/30/Dialogue < UNTRANSLATED
-               [ 전력 부족이 감지됨. ]
-              [ 메인 발전기 고장 감지됨.]
+       [ 전력 부족이 감지됨. ]
+     [ 메인 발전기 고장 감지됨.]
 > END STRING
 
 > BEGIN STRING
            电梯电力已下线，办公区电力下线
 > CONTEXT: Map002/events/36/pages/0/33/Dialogue < UNTRANSLATED
-           [ 승강기 전원 공급을 중단. ]
-          [ 사무 구역 전원 공급을 중단. ]
+      [ 승강기 전원 공급을 중단. ]
+     [ 사무 구역 전원 공급을 중단. ]
 > END STRING
 
 > BEGIN STRING
            图书馆电力下线，维生舱即将下线
 > CONTEXT: Map002/events/36/pages/0/36/Dialogue < UNTRANSLATED
-          [ 도서실 구역 전원 공급을 중단. ]
-           [ 주거 구역 전원 공급을 중단. ]
+     [ 도서실 구역 전원 공급을 중단. ]
+      [ 주거 구역 전원 공급을 중단. ]
 > END STRING
 
 > BEGIN STRING
            为保证对象存活，紧急释出被验者
 > CONTEXT: Map002/events/36/pages/0/39/Dialogue < UNTRANSLATED
-               [ 생존자 확보를 위해,
-           피험자를 긴급 석방합니다. ]
+         [ 생존자 확보를 위해,
+       피험자를 긴급 석방합니다. ]
 > END STRING
 
 > BEGIN STRING
            备用电力上线中，请尽快寻求帮助
 > CONTEXT: Map002/events/36/pages/0/42/Dialogue < UNTRANSLATED
-               [ 예비 전력 연결 완료. 
-          가능한 한 빨리 도움을 요청하세요. ]
+          [ 예비 전력 연결됨. 
+     가능한 한 빨리 도움을 요청하세요. ]
 > END STRING
 
 > BEGIN STRING
@@ -347,7 +361,7 @@
 > CONTEXT: Map002/events/36/pages/0/79/Dialogue < UNTRANSLATED
 분명히 당신은 납치당한 것이다.
 한 무리의 사람에게 습격당해서, 이 건물로
-끌려온 당신의 기억이 말하듯.
+끌려온 당신의 기억이 그걸 입증한다.
 > END STRING
 
 > BEGIN STRING
@@ -577,5 +591,5 @@
 > BEGIN STRING
 你敢肯定，这个按钮真的绝对没有任何反应
 > CONTEXT: Map002/events/55/pages/2/2/Dialogue < UNTRANSLATED
-더 이상 눌러도 반응은 없을 터.
+더 이상 눌러도 반응이 없을 것 같아.
 > END STRING
