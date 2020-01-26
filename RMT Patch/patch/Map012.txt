@@ -1,0 +1,230 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+器皿
+> CONTEXT: Map012/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/26/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/43/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/44/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/60/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/61/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/62/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/63/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/64/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/65/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/66/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/67/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/71/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/82/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/83/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/89/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最初，没人会想到“苍白”病毒会有如此高的传染性…
+在我们注意到时，一切都太晚了
+> CONTEXT: Map012/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这种病毒凭借着人体内的一段基因中的免疫缺陷大肆屠
+杀，而我们毫无办法，一般的药物、疫苗对“苍白”而
+言完全没有任何效果
+> CONTEXT: Map012/events/14/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通常来说，如此致命的病毒会在消灭掉绝大多数人口之
+后因为失去传播途径而自然消亡，但“苍白”随着空气
+、海洋的传播反而愈发的肆虐
+> CONTEXT: Map012/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我们迫不得已启动了基因工程，希望能借此填补我们基
+因中的免疫缺陷…但一般的基因工程只会在子代身上体
+现，我们已经没有那么多时间了
+> CONTEXT: Map012/events/14/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这时候，有人提出了大胆的假设，某些寄生虫会对宿主
+的DNA进行修改，使宿主发生突变，这是否能作为研究的
+突破口呢？
+> CONTEXT: Map012/events/14/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这个想法不错，但要怎样的“寄生虫”才能办到？我们
+为此做了大量实验，但无一成功，就在这时，上层吩咐
+我们来到这栋建筑里去研究一种粘液生物
+> CONTEXT: Map012/events/14/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上层坚持宣称这些生物是为了这项基因工程而创造出的
+人造生物，它们最初就像是些被胶水包裹着的玻璃渣，
+而它们的确有着即刻更改基因的神奇能力
+> CONTEXT: Map012/events/14/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那些粘液生物可以通过覆盖人体、分解细胞的方式重新
+排序你的基因…但它们的效果过于显著，被验者最后全
+都被同化
+> CONTEXT: Map012/events/14/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黑色胶兽会把一段最原始的狼类生物基因整个替换进被
+验者的体内，所有被验者无一例外的都变成了黑色胶兽
+，而且是狼形的
+> CONTEXT: Map012/events/14/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最重要的是，被验者的意识也会与黑色胶兽融合，它们
+的身心都完全不再是曾经的自己了，我们将这种兽化的
+过程以及结果简称为“TRANSFUR”
+> CONTEXT: Map012/events/14/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+简而言之，治疗完成的人已经不再是人了，而是变成了
+粘液生物的一员，这可不是我们所期望的结果
+> CONTEXT: Map012/events/14/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+实验成功了，但也失败了…我们封存了这些黑色胶兽，
+一部分人继续研究少数可能会成功的黑色胶兽样本，另
+一部分人则去研究一种白色的突变体…
+> CONTEXT: Map012/events/14/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+如此庞大的信息量让你一时间放弃了思考，稍加思索之
+后，你开始努力回忆关于那个轰轰烈烈的“流感”的相
+关记忆，新闻上说，那只是一场普通的“流感”…
+> CONTEXT: Map012/events/14/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但也正是因为那个“流感”，你作为一个实验的被验者
+被绑架进了这个研究所，但你还没有被投入使用，实验
+就被迫中止了
+> CONTEXT: Map012/events/14/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粘液生物在这里横行，所有研究员都不知所踪，所有东
+西都杂乱无章的散落一地，一定有什么事情发生了
+> CONTEXT: Map012/events/14/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+衣帽架上有一条留言
+> CONTEXT: Map012/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/25/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+如果你能看到这个，那就正明你成功的穿越了黑色胶受
+的墓地，恭洗你！如果你看不到，那我所做的奴力就全
+都白费了…但我并不后悔，至少我有努力过改变现状…
+但我还是蛮怀希望的认为你会来
+> CONTEXT: Map012/events/25/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/25/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+谢谢你…神秘人
+> CONTEXT: Map012/events/25/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一堆垃圾
+> CONTEXT: Map012/events/28/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破碎的杯子
+> CONTEXT: Map012/events/33/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不太想要拆开看看的纸团
+> CONTEXT: Map012/events/34/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看似危险但实际上已经结晶、硬化了的黑色胶兽
+> CONTEXT: Map012/events/35/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这东西永远是最可怕的威胁
+> CONTEXT: Map012/events/42/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你拼命的挣扎，挥拳打中了那个小生物的要害，它扑腾
+着扇着翅膀逃走了
+> CONTEXT: Map012/events/51/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这里有个显而易见的通风口
+> CONTEXT: Map012/events/56/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+杯子
+> CONTEXT: Map012/events/58/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/76/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/46/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/212/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/213/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一页纸
+> CONTEXT: Map012/events/69/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

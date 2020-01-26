@@ -1,0 +1,162 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+检测到在逃被验者，胶兽化装置启动
+> CONTEXT: Map083/events/22/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/54/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/56/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/58/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/59/pages/4/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/60/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胶兽化完成，拘束在逃被验者
+> CONTEXT: Map083/events/22/pages/4/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/54/pages/4/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/56/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/58/pages/2/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/59/pages/4/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map083/events/60/pages/4/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不要再继续走了
+> CONTEXT: Map083/events/53/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我说了不要再继续向前走了
+> CONTEXT: Map083/events/53/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你是因为刚才的停电才醒来的吗
+> CONTEXT: Map083/events/53/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我现在没空处理你这个意外
+> CONTEXT: Map083/events/53/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+所以你最好就待在那里别动
+> CONTEXT: Map083/events/53/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我知道你现在对这一切都一无所知
+> CONTEXT: Map083/events/53/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但我并不想回答你的任何问题
+> CONTEXT: Map083/events/53/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+对了
+> CONTEXT: Map083/events/53/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我只需要把那个东西开启就可以了
+> CONTEXT: Map083/events/53/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+检测到在逃被验者信号，启动最终安全模式
+> CONTEXT: Map083/events/53/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+严禁被验者离开仓库保管区，违反者将被采取强制措施
+> CONTEXT: Map083/events/53/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那个混蛋居然用胶带把射线投射器封住了
+> CONTEXT: Map083/events/53/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看来他是铁了心的要让你去图书馆啊
+> CONTEXT: Map083/events/53/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但仅剩的这些也足够困住你了
+> CONTEXT: Map083/events/53/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正在检测被验者生命体活动信号
+> CONTEXT: Map083/events/53/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这些射线不会要你的命
+> CONTEXT: Map083/events/53/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但会以别的方式让你无法前进
+> CONTEXT: Map083/events/53/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你就在那里待着别动吧
+> CONTEXT: Map083/events/53/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+再见
+> CONTEXT: Map083/events/53/pages/1/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这些红外射线看上去会随着你的移动而移动，你只能想
+想办法找出红外射线的移动规律来绕过这些红外射线了
+> CONTEXT: Map083/events/53/pages/1/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那个在监视着你的人是谁？那个在暗中帮助你的神秘人
+又是谁？只有继续前进才能找到答案了
+> CONTEXT: Map083/events/53/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回去的门锁上了
+> CONTEXT: Map083/events/55/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+未检测到在逃被验者，因电力不足，模式自动关闭
+> CONTEXT: Map083/events/57/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

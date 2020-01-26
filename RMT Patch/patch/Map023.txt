@@ -1,0 +1,280 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+呃，只是废纸罢了
+> CONTEXT: Map023/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+呃，只是垃圾罢了
+> CONTEXT: Map023/events/6/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+呃，只是纸团罢了
+> CONTEXT: Map023/events/8/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面有东西在动…
+> CONTEXT: Map023/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/55/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/56/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/57/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/64/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/142/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/143/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/144/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/146/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/161/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/166/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/167/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/168/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/169/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/181/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/182/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/208/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我的红色记号笔佣光了…锁以我改用了绿色的！
+> CONTEXT: Map023/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+纸团
+> CONTEXT: Map023/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/32/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+只有这个空了
+> CONTEXT: Map023/events/33/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/164/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/199/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/205/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+呃，只是废纸
+> CONTEXT: Map023/events/47/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一个面具
+> CONTEXT: Map023/events/200/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拿起来看看吗？
+> CONTEXT: Map023/events/200/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你轻轻的拿起了那个面具，这面具比你想象中轻得多
+> CONTEXT: Map023/events/200/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+面具的表面泛着光并稍有一些透明，上面没有任何瑕疵
+> CONTEXT: Map023/events/200/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这东西和那些直立行走的的粘液生物一定有所联系…
+> CONTEXT: Map023/events/200/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你好奇的看了一会儿，然后被一股奇怪的触感吓了一跳
+，你的的确确的感受到手上有什么黏腻的东西划过
+> CONTEXT: Map023/events/200/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你有些不安，正要放下面具，却发现面具已经黏在手上
+> CONTEXT: Map023/events/200/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+就在这一瞬间，面具分泌出了大量的粘液，一些粘液直
+直的窜向你的脸，紧紧的吸附在你的脑袋上
+> CONTEXT: Map023/events/200/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大股大股的粘液从面具的背面涌出并顺着身体向下流淌
+，但是没有任何一滴粘液落在地上，这些有生命的粘液
+井然有序的贴在了你的皮肤上
+> CONTEXT: Map023/events/200/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脸旁的粘液开始收紧，面具被拉到了你的脸上，你拉了
+拉，发现根本就是徒劳，这东西严丝合缝，与你的面部
+融合了
+> CONTEXT: Map023/events/200/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你现在能透过面具上的孔看到粘液正准备把你全身上下
+都覆盖掉，你惊慌失措，试图把面具扯下来
+> CONTEXT: Map023/events/200/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+面具的背面仍然在不断的渗出粘液，有自我意识的粘液
+钻进你的鼻孔、嘴，甚至眼睛，你无法扯下这个面具，
+只能任由这些粘液深入你的身体
+> CONTEXT: Map023/events/200/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最终，在那一瞬间，你突然没有了戴着面具的感觉，身
+体很轻，你甩了甩手，这些粘液仍旧牢牢的黏在手上，
+你捏了捏自己，粘粘的
+> CONTEXT: Map023/events/200/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的五感已经不再处于面具的束缚之下，因为你的本体
+已经变成了这个“面具”，面具渗出的粘液取代了你的
+身体，你现在已经被这个面具同化，变成了黑色的胶兽
+> CONTEXT: Map023/events/200/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你不知道身上哪里还发生了些什么变化，你回过头，却
+看到房间里的其他“同伴”都在看着刚被同化的你
+> CONTEXT: Map023/events/200/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触电一样，刹那间你有了服从的想法…你缓缓的走过去，
+加入了它们…深入灵魂的本能呼唤在引导你加入它们
+> CONTEXT: Map023/events/200/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+欢迎…伙伴…
+> CONTEXT: Map023/events/200/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+呃，只是个杯子
+> CONTEXT: Map023/events/217/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/233/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+满满一杯香甜可口的空气
+> CONTEXT: Map023/events/236/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这东西有自我意识！
+> CONTEXT: Map023/events/238/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+数次试验后我们发现被验者的行为和思想都会被这东西
+影响，极大的影响！
+> CONTEXT: Map023/events/238/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+受到同化或寄生的人类，虽然已经免疫病毒，但心智也
+被控制、改变，不再是原来的自己
+> CONTEXT: Map023/events/238/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他们记得发生的所有事，还知道自己是谁，只不过就是
+…他们已不再是自己了
+> CONTEXT: Map023/events/238/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他们的大脑、思想已经完完全全和胶兽融合了
+> CONTEXT: Map023/events/238/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黑色的胶兽有着如同面具一样的“结晶”，这个“结晶
+”就像细胞中的细胞核一样重要，在它们的生命走向终
+结的时候，这个“结晶”会在原地“生根”变成结晶柱
+> CONTEXT: Map023/events/240/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+结晶柱看似透明坚硬，但实际上是由大量黑色粘液组成
+的压缩体
+> CONTEXT: Map023/events/240/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+时机成熟的时候，结晶柱会爆裂，分化成为数个新的黑
+色胶兽，这便是它们的繁殖方式之一了
+> CONTEXT: Map023/events/240/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+据我的观察，它们的结晶与狼的头骨极其相似，这也验
+证了它们为何如此执着的拟态成狼的外观了
+> CONTEXT: Map023/events/240/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我吧我所能找到的锁有研究资料都贴在了路上，我还把
+我所熊想到的能够帮助你活下去的建义都写了下来，我
+知道措别字很多，但你一定要看看我的键议，拜托了，
+请你一定要来…我相信我的努力一定会梆助到你的！
+> CONTEXT: Map023/events/242/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不知道布的下面是什么
+> CONTEXT: Map023/events/245/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
