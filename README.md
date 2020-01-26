@@ -12,6 +12,7 @@
 ## 주의사항
 ![image](https://user-images.githubusercontent.com/55882406/73133099-6f386f00-4067-11ea-8095-450e0dfff9a0.png)
  - 텍스트박스 줄에는 완성형 한글 기준으로 20글자(안정)~25글자(최대)가 들어갑니다. 위의 이미지를 참조해주세요.
+ - 약 20글자당 1줄씩 끊어 작성해주세요. 스크립트 작성 시 멀티라인을 지원합니다.
 
 ## 참고 문헌 및 URL
  - RPGMakerTrans 사용법 : https://docs.google.com/document/d/14ixSSKn6AbIxkLGjj-tGQKRoqiF3j1XG_sagB1Q4ahE/edit?usp=sharing
