@@ -1,0 +1,55 @@
+---
+- 
+- !ruby/object:RPG::Enemy
+  actions:
+  - !ruby/object:RPG::Enemy::Action
+    basic: 0
+    condition_param1: 0
+    condition_param2: 0
+    condition_type: 0
+    kind: 0
+    rating: 5
+    skill_id: 1
+  agi: 10
+  atk: 10
+  battler_hue: 0
+  battler_name: ''
+  def: 10
+  drop_item1: !ruby/object:RPG::Enemy::DropItem
+    armor_id: 1
+    denominator: 1
+    item_id: 1
+    kind: 0
+    weapon_id: 1
+  drop_item2: !ruby/object:RPG::Enemy::DropItem
+    armor_id: 1
+    denominator: 1
+    item_id: 1
+    kind: 0
+    weapon_id: 1
+  element_ranks: !ruby/object:Table
+    dim: 1
+    x: 2
+    y: 1
+    z: 1
+    data:
+    - 0000 0003
+  eva: 5
+  exp: 0
+  gold: 0
+  has_critical: false
+  hit: 95
+  id: 1
+  levitate: false
+  maxhp: 10
+  maxmp: 10
+  name: ''
+  note: ''
+  spi: 10
+  state_ranks: !ruby/object:Table
+    dim: 1
+    x: 2
+    y: 1
+    z: 1
+    data:
+    - 0000 0003
