@@ -2,17 +2,17 @@
 > BEGIN STRING
 WAKE
 > CONTEXT: System/terms/new_game/
-
+깨어난다
 > END STRING
 
 > BEGIN STRING
 EXIT
 > CONTEXT: System/terms/shutdown/
-
+끝낸다
 > END STRING
 
 > BEGIN STRING
 LOAD
 > CONTEXT: System/terms/continue/
-
+불러온다
 > END STRING
