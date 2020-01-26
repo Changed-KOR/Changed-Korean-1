@@ -270,41 +270,43 @@
                    本游戏纯属虚构
               本游戏包含部分跳杀、裸露
 > CONTEXT: Map002/events/36/pages/0/6/Dialogue < UNTRANSLATED
-                    이 게임은 픽션입니다.
-          부분적인 공포 및 노출이 포함되어 있습니다.
+               이 게임은 픽션입니다.
+          공포 및 노출 표현이 포함되어 있습니다.
 > END STRING
 
 > BEGIN STRING
            检测到电力不足，总发电机已故障
 > CONTEXT: Map002/events/36/pages/0/30/Dialogue < UNTRANSLATED
-          [ 전력 부족이 감지되었습니다. ]
-          [ 메인 발전기 고장이 감지되었습니다.]
+               [ 전력 부족이 감지됨. ]
+              [ 메인 발전기 고장 감지됨.]
 > END STRING
 
 > BEGIN STRING
            电梯电力已下线，办公区电力下线
 > CONTEXT: Map002/events/36/pages/0/33/Dialogue < UNTRANSLATED
-          [ 승강기 전원 공급을 중단합니다.]
-          [ 사무 구역 전원 공급을 중단합니다.]
+           [ 승강기 전원 공급을 중단. ]
+          [ 사무 구역 전원 공급을 중단. ]
 > END STRING
 
 > BEGIN STRING
            图书馆电力下线，维生舱即将下线
 > CONTEXT: Map002/events/36/pages/0/36/Dialogue < UNTRANSLATED
-          [ 도서실 구역 전원 공급을 중단합니다. ]
-          [ 주거 구역 전원 공급을 중단합니다. ]
+          [ 도서실 구역 전원 공급을 중단. ]
+           [ 주거 구역 전원 공급을 중단. ]
 > END STRING
 
 > BEGIN STRING
            为保证对象存活，紧急释出被验者
 > CONTEXT: Map002/events/36/pages/0/39/Dialogue < UNTRANSLATED
-          [ 생존자 확보를 위해 피험자를 긴급 석방합니다. ]
+               [ 생존자 확보를 위해,
+           피험자를 긴급 석방합니다. ]
 > END STRING
 
 > BEGIN STRING
            备用电力上线中，请尽快寻求帮助
 > CONTEXT: Map002/events/36/pages/0/42/Dialogue < UNTRANSLATED
-     [ 예비 전력 연결 완료. 가능한 한 빨리 도움을 받으십시오. ]
+               [ 예비 전력 연결 완료. 
+          가능한 한 빨리 도움을 요청하세요. ]
 > END STRING
 
 > BEGIN STRING
@@ -318,22 +320,25 @@
 > BEGIN STRING
 透过蒙胧的双眼，你发觉自己在一个非常陌生的房间
 > CONTEXT: Map002/events/36/pages/0/71/Dialogue < UNTRANSLATED
-빛에 익숙해지지 않은 눈으로 이상한 방의 모습이 들어온다.
+빛에 익숙해지지 않은 눈으로,
+이상한 방의 모습이 들어온다.
 > END STRING
 
 > BEGIN STRING
 你的手脚无力，脑袋昏沉，浑身湿透，最重要的是，你
 觉得自己饿到好似数年都没吃东西了
 > CONTEXT: Map002/events/36/pages/0/73/Dialogue < UNTRANSLATED
-손발에 힘이 들어가지 않고, 머리가 무겁다. 온몸은 흠뻑 젖었다.
-무엇보다도 오래 굶은 듯한 시장기가 당신을 닥친다.
+손발에 힘이 들어가지 않고, 머리가 무겁다.
+온몸은 물로 흠뻑 젖었다.
+무엇보다 오래 굶은 듯한 시장기가 당신을 닥친다.
 > END STRING
 
 > BEGIN STRING
 你一无所有，身上只穿了一条小短裤，就这样莫名其妙
 的出现在这里
 > CONTEXT: Map002/events/36/pages/0/76/Dialogue < UNTRANSLATED
-수중에 아무것도 없이, 달랑 반바지만 입은 채로 이곳에서 깨어났다.
+수중에 아무것도 없이, 달랑 반바지만 입은 채
+엉뚱하게도 이곳에서 깨어났다.
 > END STRING
 
 > BEGIN STRING
@@ -341,14 +346,16 @@
 也验证了这点，你被一群人袭击，之后又被带到了这里
 > CONTEXT: Map002/events/36/pages/0/79/Dialogue < UNTRANSLATED
 분명히 당신은 납치당한 것이다.
-한 무리의 사람에게 습격당해 이곳에 끌려온 당신의 기억이 말하듯.
+한 무리의 사람에게 습격당해서, 이 건물로
+끌려온 당신의 기억이 말하듯.
 > END STRING
 
 > BEGIN STRING
 你很迷茫，但你清楚的明白最首要的事情是从这个房间
 里逃出去
 > CONTEXT: Map002/events/36/pages/0/82/Dialogue < UNTRANSLATED
-당신은 매우 혼란스러웠지만, 어쨌든 이 방에서 탈출하는 게 먼저다.
+당신은 매우 혼란스러웠지만,
+어쨌든 이 방에서 탈출하는 게 먼저다.
 > END STRING
 
 > BEGIN STRING
@@ -384,13 +391,15 @@
 > BEGIN STRING
 一旦接触到就会马上失去自我！
 > CONTEXT: Map002/events/38/pages/0/8/Dialogue < UNTRANSLATED
-방법이야 어찌됐든, 조금이라도 만지는 순간 자아를 잃어버려!
+방법이야 어찌됐든 간에...
+조금이라도 만지는 순간 자아를 잃어버려!
 > END STRING
 
 > BEGIN STRING
 不想成为它们的一份子的话！
 > CONTEXT: Map002/events/38/pages/0/11/Dialogue < UNTRANSLATED
-그것들과 똑같은 존재가 되고 싶지 않다면!
+그것들과 똑같은 존재가
+되고 싶지 않다면!
 > END STRING
 
 > BEGIN STRING
@@ -415,20 +424,23 @@
 这篇笔记的笔迹很潦草，而且…从内容上看不像是绑架
 者能写出来的，这很明显是种警告
 > CONTEXT: Map002/events/38/pages/0/24/Dialogue < UNTRANSLATED
-엄청나게 휘갈겨쓴 듯, 조잡한 필체에다가 이 내용.. 납치는 아닌 듯하다.
+엄청나게 휘갈겨쓴 듯, 조잡한 필체.. 
+그리고 이 내용, 납치는 아닌 듯하다.
 사람이 쓴 것이라면 명백한 경고.
 > END STRING
 
 > BEGIN STRING
 智能排污系统会自动吸收掉处于下水道口上方的污水
 > CONTEXT: Map002/events/38/pages/0/32/Dialogue < UNTRANSLATED
-스마트 오염 제거 시스템은 자동으로 하수구 위의 오염물을 흡수하도록 설계되었습니다.
+스마트 오염 제거 시스템은, 자동으로
+하수구 위의 오염물을 흡수합니다.
 > END STRING
 
 > BEGIN STRING
 未处理的黏性物质、样本、化学品请不要倾倒到下水道
 > CONTEXT: Map002/events/38/pages/0/35/Dialogue < UNTRANSLATED
-전처리되지 않은 점성 물질, 샘플, 화학물질을 버리지 마십시오.
+전처리되지 않은 점성 물질, 샘플,
+화학물질을 버리지 마십시오.
 > END STRING
 
 > BEGIN STRING
@@ -441,7 +453,8 @@
 透过墙洞，你能清楚的看到墙体的里面布满了钢管、电
 线和支撑架
 > CONTEXT: Map002/events/41/pages/0/0/Dialogue < UNTRANSLATED
-벽에 난 구멍 속으로, 강철 프레임과 전선 등이 가득 차 있는 것이 보인다.
+벽에 난 구멍 속으로, 강철 프레임과
+전선 등이 가득 차 있는 것이 보인다.
 > END STRING
 
 > BEGIN STRING
@@ -453,37 +466,42 @@
 > BEGIN STRING
 当然，虽然你不胖，但你完全不可能钻进去
 > CONTEXT: Map002/events/41/pages/0/5/Dialogue < UNTRANSLATED
-그렇게 뚱뚱한 건 아니지만.. 절대 뚫고 갈 수 없을 것 같아.
+그렇게 뚱뚱한 건 아니지만.. 
+절대 뚫고 갈 수 없을 것 같아.
 > END STRING
 
 > BEGIN STRING
 有一点点温度的中空钢管，不知道有什么用处
 > CONTEXT: Map002/events/47/pages/0/0/Dialogue < UNTRANSLATED
-약간의 온기를 가진 중공 강관. 별 필요를 느끼진 않는다.
+약간의 온기를 가진 중공업용 강관. 
+별 필요를 느끼진 않는다.
 > END STRING
 
 > BEGIN STRING
 似乎是控制了旁边维生舱室的机器，已经开启了
 > CONTEXT: Map002/events/48/pages/0/0/Dialogue < UNTRANSLATED
-
+위생실 기계 제어반인 것 같다.
+이미 켜져 있다.
 > END STRING
 
 > BEGIN STRING
 上面的灰很厚，没有人为操作过的痕迹
 > CONTEXT: Map002/events/48/pages/0/2/Dialogue < UNTRANSLATED
-아무도 만지지 않았음을 입증하듯, 먼지가 두껍게 쌓여 있다.
+아무도 만지지 않았음을 입증하듯,
+먼지가 두껍게 쌓여 있다.
 > END STRING
 
 > BEGIN STRING
 一个下水道口，可以把废水、废料冲走
 > CONTEXT: Map002/events/50/pages/0/0/Dialogue < UNTRANSLATED
-하수도 입구에서 폐수 및 폐기물을 씻어낼 수 있다.
+하수도에서 폐수, 폐기물을 씻어낼 수 있다.
 > END STRING
 
 > BEGIN STRING
 看不清下面…但应该把那个东西给冲走了吧…
 > CONTEXT: Map002/events/50/pages/2/0/Dialogue < UNTRANSLATED
-프레임 아래는 보이지 않는다. 어찌됐든 그건 떠내려갔겠지...
+프레임 아래는 보이지 않는다. 
+어찌됐든 그건 떠내려갔겠지...
 > END STRING
 
 > BEGIN STRING
@@ -501,7 +519,7 @@
 > BEGIN STRING
 不管怎样，这里已经不安全了
 > CONTEXT: Map002/events/52/pages/3/6/Dialogue < UNTRANSLATED
-어쨌거나, 여기는 더 이상 안전하지 않다.
+어쨌든, 여기는 더 이상 안전하지 않다.
 > END STRING
 
 > BEGIN STRING
@@ -514,8 +532,8 @@
 康复训练计划：在被验者清醒后，请务必指
 导被验者在监视下完成此次康复训练
 > CONTEXT: Map002/events/54/pages/0/1/Dialogue < UNTRANSLATED
-재활훈련 계획 : 피험자가 정신을 차린 후에는 반드시 지시해 주세요.
-관계자 감시 하에 해당 훈련을 마치도록 유도합시다.
+재활훈련 계획 : 피험자가 정신을 차린 후에는
+관계자 감시 하에 훈련을 마치도록 유도합시다.
 > END STRING
 
 > BEGIN STRING
@@ -559,5 +577,5 @@
 > BEGIN STRING
 你敢肯定，这个按钮真的绝对没有任何反应
 > CONTEXT: Map002/events/55/pages/2/2/Dialogue < UNTRANSLATED
-아무리 이 버튼을 눌러도 반응하지 않을 것 같다.
+더 이상 눌러도 반응은 없을 터.
 > END STRING

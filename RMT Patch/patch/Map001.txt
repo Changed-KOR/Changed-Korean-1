@@ -198,21 +198,23 @@
 > BEGIN STRING
 一堆精致的…垃圾
 > CONTEXT: Map001/events/33/pages/0/0/Dialogue < UNTRANSLATED
-한 무더기의 정교한... 쓰레기일 뿐.
+한 무더기의 정교한... 쓰레기더미.
 > END STRING
 
 > BEGIN STRING
 仍然是锁的，仍然找不到打开方式
 > CONTEXT: Map001/events/43/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/44/pages/0/1/Dialogue < UNTRANSLATED
-여전히 잠겨 있고, 어떻게 여는 지 알 수 없어.
+여전히 잠겨 있다.
+그리고 어떻게 여는 지 알 수 없어.
 > END STRING
 
 > BEGIN STRING
 这台机器可以输入密码，似乎是连接着最右边仓库出口
 的大门
 > CONTEXT: Map001/events/49/pages/0/0/Dialogue < UNTRANSLATED
-비밀번호를 입력할 수 있는 기계. 맨 오른쪽 창고 문과 연동된 것 같다.
+비밀번호를 입력할 수 있는 기계.
+맨 오른쪽 창고 문과 연동된 것 같다.
 > END STRING
 
 > BEGIN STRING
@@ -237,7 +239,7 @@
 > BEGIN STRING
 最右边仓库大门的终端机器，需要输入密码
 > CONTEXT: Map001/events/49/pages/1/0/Dialogue < UNTRANSLATED
-맨 오른쪽 창고 문은, 비밀번호를 입력해야 열 수 있다.
+맨 오른쪽 창고문은 비밀번호를 입력해야 열 수 있다.
 > END STRING
 
 > BEGIN STRING
@@ -268,8 +270,9 @@
 实验再次失败了，我把那个房间封住了，但这次危机差
 点把这层楼都炸翻
 > CONTEXT: Map001/events/50/pages/0/3/Dialogue < UNTRANSLATED
-실험이 다시 실패했다. 결국 그 방을 봉쇄해야 했지만.. 이번 위기는 건물을
-전부 폭파시킬 뻔했다.
+실험이 다시 실패했다. 
+결국 그 방을 봉쇄해야 했지만.. 이번 위기는
+건물을 전부 폭파시킬 뻔했다.
 > END STRING
 
 > BEGIN STRING
@@ -277,21 +280,23 @@
 大块方地砖组成的图案就是秘密所在
 > CONTEXT: Map001/events/50/pages/0/7/Dialogue < UNTRANSLATED
 바닥 타일은 이미 사람을 불러 수리했다.
-커다란 네모 모양 타일을 비밀에 대한 단서로 마련해뒀다.
+커다란 네모 모양 타일을 비밀에 대한
+단서로 마련해뒀다.
 > END STRING
 
 > BEGIN STRING
 仓库的密码，就写在了整个大厅的地板上
 > CONTEXT: Map001/events/50/pages/0/11/Dialogue < UNTRANSLATED
-창고의 비밀번호는 홀 바닥에 쓰여져 있었다!
+창고의 비밀번호는 홀 바닥에 표시해 뒀다.
 > END STRING
 
 > BEGIN STRING
 仓库里有老鼠，所以我们从外面带进来一只猫，但昨天
 夜里它把我们的生物样本吃掉之后就不知所踪
 > CONTEXT: Map001/events/50/pages/0/14/Dialogue < UNTRANSLATED
-창고에 쥐가 끓는 바람에 고양이 한 마리를 데리고 들어왔다.
-하지만 고양이가 샘플을 먹었고... 어떻게 됐는지는 잘 모른다.
+창고에 쥐가 들어와 고양이 한 마리를 데리고 들어왔다.
+하지만 고양이가 샘플을 먹었고....
+그 고양이가 어떻게 됐는지는 잘 모른다.
 > END STRING
 
 > BEGIN STRING
@@ -314,8 +319,8 @@
 对不起，为了那个计划…只好牺牲掉你们了，要知道，
 生命对别人来说并不重要，尤其是现在这样的世道
 > CONTEXT: Map001/events/50/pages/0/26/Dialogue < UNTRANSLATED
-미안하군, 그 계획을 위해서는 당신들의 희생이 필요했어.
-무엇보다 지금과 같은 상황에서는 생명 따위 중요치 않아.
+미안하군, 계획을 위해서는 당신들의 희생이─
+...아냐, 지금은 생명 따위 중요치 않아.
 > END STRING
 
 > BEGIN STRING
@@ -327,7 +332,8 @@
 > BEGIN STRING
 当你站在机器前时，机器会扫描你的虹膜并做出记录
 > CONTEXT: Map001/events/59/pages/0/2/Dialogue < UNTRANSLATED
-당신이 기계 앞에 서면, 자동으로 홍채를 인식하여 기록한다.
+당신이 기계 앞에 서면,
+기계가 자동으로 홍채를 인식하여 "저장"한다.
 > END STRING
 
 > BEGIN STRING
@@ -345,13 +351,15 @@
 > BEGIN STRING
 绑匪在哪里？这里似乎毫无有人生活的痕迹
 > CONTEXT: Map001/events/61/pages/0/12/Dialogue < UNTRANSLATED
-납치범은 어디에 있는 걸까? 사람이 살았던 흔적은 없다.
+납치범은 어디에 있는 걸까?
+아무리 둘러봐도 사람이 살았던 흔적은 없다.
 > END STRING
 
 > BEGIN STRING
 你打了个寒颤，你有预感，这次冒险可能才刚刚开始
 > CONTEXT: Map001/events/61/pages/0/14/Dialogue < UNTRANSLATED
-당신은 몸서리를 쳤고, 언뜻 생각이 났다. 당신의 모험은 이제 막 시작이다.
+당신은 몸서리를 쳤고, 언뜻 생각이 났다. 
+당신의 모험은 이제 막 시작이다.
 > END STRING
 
 > BEGIN STRING
@@ -364,8 +372,9 @@
 有些看腻了的、重复了的东西，可以使用“F12”来跳过
 ，但是时常跳过也有可能错过一些东西呢…
 > CONTEXT: Map001/events/67/pages/0/1/Dialogue < UNTRANSLATED
-보기에 질리는 건 [F12] 키를 눌러 뛰어넘을 수 있다.
-하지만 무턱대고 건너뛰다 보면 무언가 놓칠 수 있다...
+반복 컷신은 [F12] 키를 눌러 뛰어넘을 수 있다.
+하지만 무턱대고 건너뛰다 보면,
+중요한 무언가를 놓칠 수 있다...
 > END STRING
 
 > BEGIN STRING
@@ -397,7 +406,8 @@
 > BEGIN STRING
 一整套的撬锁工具，但你并不知道如何使用
 > CONTEXT: Map001/events/108/pages/0/0/Dialogue < UNTRANSLATED
-자물쇠 해체 도구 한 꾸러미. 하지만 사용하는 법을 몰라.
+자물쇠 해체 도구 한 꾸러미. 
+하지만 사용하는 법을 몰라.
 > END STRING
 
 > BEGIN STRING
@@ -409,7 +419,8 @@
 > BEGIN STRING
 可惜我没有找到打开这个单向安全门的办法
 > CONTEXT: Map001/events/112/pages/0/5/Dialogue < UNTRANSLATED
-애석하게도, 이 단방향 해치를 열 방법을 아직 찾지 못했어.
+애석하게도, 이 단방향 해치를 열 방법을
+아직 난 찾지 못했다..
 > END STRING
 
 > BEGIN STRING
@@ -421,13 +432,15 @@
 > BEGIN STRING
 也许我应该切断维生系统的电力
 > CONTEXT: Map001/events/112/pages/0/9/Dialogue < UNTRANSLATED
-만일, 어쩌면... 내가, 긴급전력 시스템을 꺼야 할 지도 모른다.
+만일, 어쩌면... 내가, 긴급전력 시스템을
+꺼야 할 지도 모른다.
 > END STRING
 
 > BEGIN STRING
 不过我想尽量在不造成伤亡的同时解决问题
 > CONTEXT: Map001/events/112/pages/0/11/Dialogue < UNTRANSLATED
-하지만 가능한 한 사상자를 내지 않는 선에서 문제를 해결하고 싶다.
+하지만 가능한 한 사상자를 내지 않는 선에서
+문제를 해결하고 싶다.
 > END STRING
 
 > BEGIN STRING
@@ -439,5 +452,5 @@
 > BEGIN STRING
 从此处离开仓库保管区
 > CONTEXT: Map001/events/121/pages/0/0/Dialogue < UNTRANSLATED
-여기서 창고 구역을 떠난다.
+이쪽 문으로 창고 구역을 나갈 수 있다.
 > END STRING
