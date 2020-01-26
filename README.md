@@ -1,3 +1,5 @@
+![Header](https://user-images.githubusercontent.com/55882406/73129366-4db69380-4025-11ea-8085-437a513fc6b9.png)
+
 # Changed-Korean - 체인지드 한글 번역 프로젝트
 
 #### 주의. 해당 레포지트리에 포함된 파일은 중대한 스포일러를 포함하고 있을 수 있습니다. 이점 참고하고 작업해주세요.
