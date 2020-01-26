@@ -11,7 +11,7 @@
 
 ## 참고 문헌 및 URL
  - RPGMakerTrans 사용법 : https://docs.google.com/document/d/14ixSSKn6AbIxkLGjj-tGQKRoqiF3j1XG_sagB1Q4ahE/edit?usp=sharing
- - rvpacker 사용법 / 이미지  : https://docs.google.com/document/d/1nSK8Tok_4SKpKAgVit41PRtUAWjB37DkTOvaF1abtWI/edit?usp=sharing
+ - rvpacker 사용법 / 이미지 추출하기  : https://docs.google.com/document/d/1nSK8Tok_4SKpKAgVit41PRtUAWjB37DkTOvaF1abtWI/edit?usp=sharing
  - 번역 현황판 : https://docs.google.com/spreadsheets/d/1n37XFaXG1i0EE8X2ISRupTmE7r0s8IZjIf893hJOygc/edit#gid=0 
  
 ## 알림
