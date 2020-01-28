@@ -3,26 +3,29 @@
 猫咪很可爱，但是你可不想再回去了…
 > CONTEXT: Map013/events/3/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+야옹이가 귀엽긴 하지만, 다시 돌아가고 
+싶진 않다……
 > END STRING
 
 > BEGIN STRING
 你拼命的挣扎，狠狠的踢、蹬，在地上打滚
 > CONTEXT: Map013/events/7/pages/0/13/Dialogue < UNTRANSLATED
-
+넌 필사적으로 마구 걷어차고, 밟고, 
+바닥을 뒹굴며 발버둥쳤다.
 > END STRING
 
 > BEGIN STRING
 在你的一番努力之下，你终于把黏在自己身上的粘液硬
 生生的扯了下来！
 > CONTEXT: Map013/events/7/pages/0/15/Dialogue < UNTRANSLATED
-
+한바탕 노력 끝에, 자신의 몸에 붙은 점액을 
+억지로 벗어냈다！
 > END STRING
 
 > BEGIN STRING
 粘液钻进了通风管道里飞快的逃走了
 > CONTEXT: Map013/events/7/pages/0/18/Dialogue < UNTRANSLATED
-
+점액은 재빨리 통풍구로 도망쳐 들어갔다.
 > END STRING
 
 > BEGIN STRING
@@ -30,67 +33,78 @@
 到了奇怪的影子，今天同事还和我说了实验样本逃进通
 风管道的事情…
 > CONTEXT: Map013/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+통풍관의 관리가 교착 상태에 빠졌습니다… 몇몇 
+사람들이 통풍관 안에서 이상한 그림자를 봤다 하고, 
+오늘 동료들도 실험 샘플이 통풍관으로 도망친 것 
+같다고 합니다.
 > END STRING
 
 > BEGIN STRING
 在那个神秘人提前留下的诱饵的帮助下，你成功的从那
 只胶兽猫那里逃走了
 > CONTEXT: Map013/events/15/pages/0/6/Dialogue < UNTRANSLATED
-
+그 신비로운 사람이 남긴 미끼의 도움으로, 
+당신은 점액 고양이로부터 성공적으로 도망갔다.
 > END STRING
 
 > BEGIN STRING
 你气喘吁吁，惊恐万分，你努力的让自己保持镇静，但
 很明显无济于事
 > CONTEXT: Map013/events/15/pages/0/9/Dialogue < UNTRANSLATED
-
+너는 몹시 놀라 숨이 차서, 진정하려고 노력했지만, 
+별 도움이 되지 않는 것 같다.
 > END STRING
 
 > BEGIN STRING
 饥饿，恐惧和孤独感洪水般朝你袭来
 > CONTEXT: Map013/events/15/pages/0/17/Dialogue < UNTRANSLATED
-
+배고픔과 두려움, 외로움이 너를 향해 밀려왔다.
 > END STRING
 
 > BEGIN STRING
 对于一个已经被关了那么久的可怜人来说，这差不多是
 体能和理智的极限了
 > CONTEXT: Map013/events/15/pages/0/19/Dialogue < UNTRANSLATED
-
+오랜 시간 동안 갇혀 있던 불쌍한 사람에게 있어서, 
+이만하면 체력적으로도 정신적으로도 한계였다.
 > END STRING
 
 > BEGIN STRING
 你甚至不知道还有什么可以相信的了，那些前所未见的
 生物让你觉得在哪里都不会安全
 > CONTEXT: Map013/events/15/pages/0/22/Dialogue < UNTRANSLATED
-
+게다가 뭘 믿어야 하는지 조차 알 수 없고, 
+그 본 적 없는 생물들 때문에 어디에 있어도 
+안전하다고 느껴지지 않는다.
 > END STRING
 
 > BEGIN STRING
 你第一次那么的想有个人类出现，哪怕是绑匪出现了你
 也认了
 > CONTEXT: Map013/events/15/pages/0/25/Dialogue < UNTRANSLATED
-
+넌 처음으로 누군가가, 설령 그게 납치범이라 
+하더라도 나타나줬으면 했다.
 > END STRING
 
 > BEGIN STRING
 但这里什么都没有，连件衣服都没有，只有那些怪物，
 还有无尽的未知
 > CONTEXT: Map013/events/15/pages/0/28/Dialogue < UNTRANSLATED
-
+하지만 여긴 아무것도 없다. 옷 한 벌도 없고, 
+저 괴물들만 있고, 그리고 끝없는 미지뿐
 > END STRING
 
 > BEGIN STRING
 你的腿发软，但你没有选择，你得走下去
 > CONTEXT: Map013/events/15/pages/0/31/Dialogue < UNTRANSLATED
-
+다리가 후들거리지만, 다른 선택지가 없다. 
+나아가야 한다.
 > END STRING
 
 > BEGIN STRING
 活着，走出这栋建筑
 > CONTEXT: Map013/events/15/pages/0/34/Dialogue < UNTRANSLATED
-
+살아서, 이 건물을 빠져나가야 한다.
 > END STRING
 
 > BEGIN STRING
@@ -98,7 +112,7 @@
 > CONTEXT: Map013/events/21/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/22/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/23/pages/0/1/Dialogue < UNTRANSLATED
-
+어… 이 문은 용접되어있다.
 > END STRING
 
 > BEGIN STRING
@@ -106,5 +120,5 @@
 > CONTEXT: Map013/events/21/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/22/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map013/events/23/pages/0/3/Dialogue < UNTRANSLATED
-
+안에서 물소리가 들린다.
 > END STRING
