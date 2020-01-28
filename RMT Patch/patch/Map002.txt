@@ -3,7 +3,7 @@
 维生舱室的合金外壳，结实、可靠
 > CONTEXT: Map002/events/1/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/9/pages/0/0/Dialogue < UNTRANSLATED
-튼튼해 보이는 실의 합금 쉘이다.
+튼튼해 보이는 생존실의 합금 쉘이다.
 > END STRING
 
 > BEGIN STRING
