@@ -52,21 +52,21 @@
 > BEGIN STRING
 那个混蛋又上楼来找那位被验者
 > CONTEXT: Map004/events/79/pages/0/3/Dialogue < UNTRANSLATED
-그 빌어먹을 녀석...
-위층으로 올라가서 그 피험자를 찾았다.
+그 빌어먹을 녀석은 위층으로 올라가서
+다른 피험자를 찾았다.
 > END STRING
 
 > BEGIN STRING
 但他也没能打开那道门
 > CONTEXT: Map004/events/79/pages/0/5/Dialogue < UNTRANSLATED
-하지만 그 녀석, 문을 열지도 못했지.
+하지만 그 녀석도, 문을 열지 못했다.
 > END STRING
 
 > BEGIN STRING
 很明显那混蛋是知道幸存的被验者的事的
 > CONTEXT: Map004/events/79/pages/0/7/Dialogue < UNTRANSLATED
 아무래도 그 놈, 살아남은 피험자에
-대해 알고 있는 것 같아.
+대해 알고 있는 것 같다.
 위험해.
 > END STRING
 
@@ -80,19 +80,18 @@
 但那混蛋实在太聪明了
 > CONTEXT: Map004/events/79/pages/0/11/Dialogue < UNTRANSLATED
 하지만 그 빌어먹을 녀석은...
-너무 똑똑해져서 잡을 수 없었지.
+너무 똑똑해져서 잡을 수 없었다.
 > END STRING
 
 > BEGIN STRING
 我之后会把上楼的通道全都封死
 > CONTEXT: Map004/events/79/pages/0/13/Dialogue < UNTRANSLATED
-위층으로 올라가는 모든 통로를
-폐쇄하는 일이 더 빠르겠군.
+이후에 위층으로 올라가는 모든 통로를
+폐쇄해야 할 것 같다.
 > END STRING
 
 > BEGIN STRING
 别想再耍什么花样
 > CONTEXT: Map004/events/79/pages/0/15/Dialogue < UNTRANSLATED
-무슨 개수작지는 모르겠지만,
-더 이상 뭘 할 수도 없을 거다.
+더 이상 무슨 수작을 부리지 못하도록
 > END STRING
