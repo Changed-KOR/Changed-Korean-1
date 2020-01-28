@@ -7,7 +7,7 @@
 > CONTEXT: Map083/events/58/pages/2/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map083/events/59/pages/4/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map083/events/60/pages/4/1/Dialogue < UNTRANSLATED
-
+피험자의 도주를 감지, 점액화 장치 작동 시작
 > END STRING
 
 > BEGIN STRING
@@ -18,145 +18,159 @@
 > CONTEXT: Map083/events/58/pages/2/32/Dialogue < UNTRANSLATED
 > CONTEXT: Map083/events/59/pages/4/32/Dialogue < UNTRANSLATED
 > CONTEXT: Map083/events/60/pages/4/32/Dialogue < UNTRANSLATED
-
+점액화 완료, 피험자를 구속합니다.
 > END STRING
 
 > BEGIN STRING
 不要再继续走了
 > CONTEXT: Map083/events/53/pages/1/0/Dialogue < UNTRANSLATED
-
+더 이상 가지마세요
 > END STRING
 
 > BEGIN STRING
 我说了不要再继续向前走了
 > CONTEXT: Map083/events/53/pages/1/14/Dialogue < UNTRANSLATED
-
+더 이상 앞으로 나가지 말라고 했습니다
 > END STRING
 
 > BEGIN STRING
 你是因为刚才的停电才醒来的吗
 > CONTEXT: Map083/events/53/pages/1/16/Dialogue < UNTRANSLATED
-
+당신, 방금 정전으로 깨어났습니까
 > END STRING
 
 > BEGIN STRING
 我现在没空处理你这个意外
 > CONTEXT: Map083/events/53/pages/1/18/Dialogue < UNTRANSLATED
-
+전 지금 의외의 사고인 당신을 처리 할
+여유가 없습니다
 > END STRING
 
 > BEGIN STRING
 所以你最好就待在那里别动
 > CONTEXT: Map083/events/53/pages/1/20/Dialogue < UNTRANSLATED
-
+그러니 거기 가만히 있는게 좋을 껍니다
 > END STRING
 
 > BEGIN STRING
 我知道你现在对这一切都一无所知
 > CONTEXT: Map083/events/53/pages/1/22/Dialogue < UNTRANSLATED
-
+당신이 지금 이 모든 것에 대해 아무것도 
+모른다는 걸 압니다
 > END STRING
 
 > BEGIN STRING
 但我并不想回答你的任何问题
 > CONTEXT: Map083/events/53/pages/1/24/Dialogue < UNTRANSLATED
-
+그러나 전 결코 당신의 어떤 질문도 
+대답하고 싶지 않습니다
 > END STRING
 
 > BEGIN STRING
 对了
 > CONTEXT: Map083/events/53/pages/1/29/Dialogue < UNTRANSLATED
-
+맞아
 > END STRING
 
 > BEGIN STRING
 我只需要把那个东西开启就可以了
 > CONTEXT: Map083/events/53/pages/1/31/Dialogue < UNTRANSLATED
-
+그걸 켜놓기만 하면 되겠군
 > END STRING
 
 > BEGIN STRING
 检测到在逃被验者信号，启动最终安全模式
 > CONTEXT: Map083/events/53/pages/1/35/Dialogue < UNTRANSLATED
-
+피험자 신호가 감지되어 최종 안전 모드 작동
 > END STRING
 
 > BEGIN STRING
 严禁被验者离开仓库保管区，违反者将被采取强制措施
 > CONTEXT: Map083/events/53/pages/1/42/Dialogue < UNTRANSLATED
-
+피험자가 창고 보관 구역을 떠나는것을 엄금하며,
+위반자는 강제 조치를 취할 것입니다.
 > END STRING
 
 > BEGIN STRING
 那个混蛋居然用胶带把射线投射器封住了
 > CONTEXT: Map083/events/53/pages/1/54/Dialogue < UNTRANSLATED
-
+그 빌어먹을 녀석이 뜻밖에도 테이프로 방사선 
+투과기를 막았나보군요
 > END STRING
 
 > BEGIN STRING
 看来他是铁了心的要让你去图书馆啊
 > CONTEXT: Map083/events/53/pages/1/56/Dialogue < UNTRANSLATED
-
+보아하니 그는 당신을 도서관에 가게 하려고 
+굳게 결심한 것 같네요
 > END STRING
 
 > BEGIN STRING
 但仅剩的这些也足够困住你了
 > CONTEXT: Map083/events/53/pages/1/58/Dialogue < UNTRANSLATED
-
+하지만 남은 것 만으로도 충분히 당신의 
+발을 묶을 수 있습니다
 > END STRING
 
 > BEGIN STRING
 正在检测被验者生命体活动信号
 > CONTEXT: Map083/events/53/pages/1/62/Dialogue < UNTRANSLATED
-
+피험자 생명체 활동 신호를 검출하고 있습니다.
 > END STRING
 
 > BEGIN STRING
 这些射线不会要你的命
 > CONTEXT: Map083/events/53/pages/1/65/Dialogue < UNTRANSLATED
-
+이 방사선들은 당신의 목숨에 영향을 주진 
+않을 것입니다
 > END STRING
 
 > BEGIN STRING
 但会以别的方式让你无法前进
 > CONTEXT: Map083/events/53/pages/1/67/Dialogue < UNTRANSLATED
-
+하지만 다른 방식으로 당신을 앞으로 나아가지 
+못하게 할 겁니다
 > END STRING
 
 > BEGIN STRING
 你就在那里待着别动吧
 > CONTEXT: Map083/events/53/pages/1/69/Dialogue < UNTRANSLATED
-
+거기 있어주세요 꼼짝말고
 > END STRING
 
 > BEGIN STRING
 再见
 > CONTEXT: Map083/events/53/pages/1/71/Dialogue < UNTRANSLATED
-
+또 뵙겠습니다
 > END STRING
 
 > BEGIN STRING
 这些红外射线看上去会随着你的移动而移动，你只能想
 想办法找出红外射线的移动规律来绕过这些红外射线了
 > CONTEXT: Map083/events/53/pages/1/77/Dialogue < UNTRANSLATED
-
+이 적외선은 당신의 움직임에 따라 움직이는 것처럼 
+보인다. 적외선의 이동 법칙을 찾아 방법을 생각하여
+우회해야 할 것 같다.
 > END STRING
 
 > BEGIN STRING
 那个在监视着你的人是谁？那个在暗中帮助你的神秘人
 又是谁？只有继续前进才能找到答案了
 > CONTEXT: Map083/events/53/pages/1/80/Dialogue < UNTRANSLATED
-
+당신을 감시하는 사람은 누구인지？은밀하게 
+당신을 돕고 있는 신비한 사람은 또 누구인지？
+계속 전진해야만 답을 찾을 수 있을것같다.
 > END STRING
 
 > BEGIN STRING
 回去的门锁上了
 > CONTEXT: Map083/events/55/pages/0/1/Dialogue < UNTRANSLATED
-
+돌아가는 문이 잠겼다.
 > END STRING
 
 > BEGIN STRING
 未检测到在逃被验者，因电力不足，模式自动关闭
 > CONTEXT: Map083/events/57/pages/0/1/Dialogue < UNTRANSLATED
-
+피험자가 감지되지 않음, 전력 부족으로, 
+모드가 자동으로 꺼집니다.
 > END STRING
