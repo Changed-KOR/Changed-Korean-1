@@ -17,33 +17,39 @@
 很不幸的，进入房间后，你马上就被一大堆的“牛奶布
 丁”冲击到了门边
 > CONTEXT: Map001/events/5/pages/3/4/Dialogue < UNTRANSLATED
-
+불행하게도, 방에 들어가자마자 너는 슬라임 
+더미의 돌진으로 문에 부딪쳤다.
 > END STRING
 
 > BEGIN STRING
 门已经被粘液封住，看来你此次在劫难逃
 > CONTEXT: Map001/events/5/pages/3/7/Dialogue < UNTRANSLATED
- 
+문은 이미 점액으로 막혀서 , 
+이번에는 빠져나갈 수 없을 듯 하다.
 > END STRING
 
 > BEGIN STRING
 这些黏腻的生物微颤着漫上你的身体
 > CONTEXT: Map001/events/5/pages/3/13/Dialogue < UNTRANSLATED
-
+끈적하고 미끌한 생물이 네 몸에서 약간씩 
+떨리며 퍼져간다.
 > END STRING
 
 > BEGIN STRING
 你感觉小腿麻麻的，痒痒的，像是被绒毛毛毯包裹住，
 又有一些刺刺的感觉
 > CONTEXT: Map001/events/5/pages/3/15/Dialogue < UNTRANSLATED
-
+종아리가 저려오고, 근질근질한게, 솜털 담요로 
+감싼듯하면서, 한편으론 콕콕 찌르는 듯한 느낌이다.
 > END STRING
 
 > BEGIN STRING
 粘液正在改变你的皮肤细胞，让你的感知神经失灵，你
 紧紧的靠着门，动弹不得，勉强的站住不让自己瘫倒
 > CONTEXT: Map001/events/5/pages/3/18/Dialogue < UNTRANSLATED
-
+점액이 피부 세포를 바꿔 신경의 감각을 잃게하자, 
+넌 문에 굳게 기댄 채 움직이지 못하고, 
+넘어지지 않는게 고작이었다.
 > END STRING
 
 > BEGIN STRING
@@ -51,41 +57,50 @@
 不安，这种感觉很舒服，很放松，很自然，你的意识有
 点偏离，恍惚起来
 > CONTEXT: Map001/events/5/pages/3/25/Dialogue < UNTRANSLATED
-
+점액들이 퍼져올라온다. 하체가 무감각해졌음에도,
+결코 불안하지 않고, 매우 편안하고, 진정되며,
+자연스럽게 의식이 멀어지고, 흐리멍덩해진다.
 > END STRING
 
 > BEGIN STRING
 你的腿似乎与这一坨粘液共通了起来…你能感觉的到这
 些奇妙的触感，这些粘液支撑着你的腿
 > CONTEXT: Map001/events/5/pages/3/29/Dialogue < UNTRANSLATED
-
+네 다리가 점액과 하나가 되면서… 이러한 이상야릇한 
+감촉이 느껴지며, 점액이 다리를 지탱하게 되었다.
 > END STRING
 
 > BEGIN STRING
 你好像要被吃掉了，粘液划过你的身躯大肆侵略，你却
 一点都不害怕，你似乎知道这些东西不会伤害你…
 > CONTEXT: Map001/events/5/pages/3/36/Dialogue < UNTRANSLATED
-
+집어삼켜지 듯, 점액이 너의 몸을 훑어가며 마음껏 
+침략해나가는데, 조금도 두렵지 않았다. 
+이것이 자신을 해치지 않을 것이라고 알고있는 듯…
 > END STRING
 
 > BEGIN STRING
 毕竟…它们真的很温柔…你感觉很舒服…
 > CONTEXT: Map001/events/5/pages/3/39/Dialogue < UNTRANSLATED
-
+결과적으로도… 그들은 매우 상냥했고… 
+굉장히 편안했다…
 > END STRING
 
 > BEGIN STRING
 不经意间，这股粘液完完全全的黏到了你的身上，把你
 的胸口覆盖，你的腿有点难受，但你却仍然站得住
 > CONTEXT: Map001/events/5/pages/3/45/Dialogue < UNTRANSLATED
-
+어느새, 점액은 완전히 네 몸에 달라붙어, 
+가슴을 덮었고, 다리가 조금 불편했지만, 
+여전히 서있을 수 있었다.
 > END STRING
 
 > BEGIN STRING
 胸口的粘液均匀的铺开来，这层东西缓缓的随着你的呼
 吸起伏，好似本就是你的身体的一部分一样
 > CONTEXT: Map001/events/5/pages/3/48/Dialogue < UNTRANSLATED
-
+가슴의 흰 점액이 천천히 너의 호흡에 맞춰,
+마치 네 몸처럼, 네 피부처럼 고르게 퍼져온다.
 > END STRING
 
 > BEGIN STRING
@@ -93,21 +108,27 @@
 变成了动物那样的弓形，嘴巴似乎也被拉长，你清楚的
 看到自己长出了一个有些可爱的小鼻子
 > CONTEXT: Map001/events/5/pages/3/55/Dialogue < UNTRANSLATED
-
+얼굴, 머리, 심지어 머리카락도 피해 갈 수 없었다.
+다리가 동물의 관절 형태가 변한 걸 알아차렸을때,
+입 역시 길어져가는 듯, 튀어나온 자신의 귀엽고 
+작은 코를 확실히 볼 수 있었다.
 > END STRING
 
 > BEGIN STRING
 好像抽筋一样的感觉传遍全身，但只持续了一小会儿，
 这是因为你的骨骼在这瞬间被改变了
 > CONTEXT: Map001/events/5/pages/3/59/Dialogue < UNTRANSLATED
-
+잠깐 동안, 마치 쥐가 난 듯한 느낌이 온몸으로 
+퍼져 나갔다. 이 순간 골격이 변했기 때문이다.
 > END STRING
 
 > BEGIN STRING
 这整个过程你都感到非常安心，舒适…你整个人都是迷
 乱的…这大概是感知神经被麻痹的原因
 > CONTEXT: Map001/events/5/pages/3/62/Dialogue < UNTRANSLATED
-
+이 모든 과정 속에서도 너는 매우 안심됐고… 
+편안함을 느꼈다. 내내 어지러운 것은 아마…
+마취독의 작용 때문일 것이다.
 > END STRING
 
 > BEGIN STRING
@@ -115,50 +136,57 @@
 觉的话，你就像一块冰，在一个水池里慢慢的融化，融
 入了这个水池，成为了其中的一部分
 > CONTEXT: Map001/events/5/pages/3/65/Dialogue < UNTRANSLATED
-
+더 이상 뭔가에 덮어진 느낌은 없었고, 굳이 
+표현하자면, 너라는 한 덩이 얼음이 물속에서 
+천천히 녹아내려, 융화되어가는 것 같았다.
 > END STRING
 
 > BEGIN STRING
 你的尾巴穿过了胯下，这个由粘液组成的尾巴感觉并不
 是那么重，也不是那么黏…
 > CONTEXT: Map001/events/5/pages/3/73/Dialogue < UNTRANSLATED
-
+너의 꼬리가 가랑이 밑으로 통과해 나왔다. 
+점액으로 이루어진 꼬리는 무겁게 느껴지지도, 
+끈적이지도 않았다……
 > END STRING
 
 > BEGIN STRING
 你抱起了那根蓬松的尾巴…那根粘液尾巴
 > CONTEXT: Map001/events/5/pages/3/76/Dialogue < UNTRANSLATED
-
+너는 부드러운… 점액으로 된 꼬리를 끌어안았다.
 > END STRING
 
 > BEGIN STRING
 也许你曾想过自己会有一根尾巴是什么感觉
 > CONTEXT: Map001/events/5/pages/3/78/Dialogue < UNTRANSLATED
-
+어쩌면 넌 일찍이 자신은 이런 꼬리를 
+가졌었을지도 모른다고 생각했다.
 > END STRING
 
 > BEGIN STRING
 你紧紧的抱住，抱住自己全新身体上长出的蓬松尾巴
 > CONTEXT: Map001/events/5/pages/3/80/Dialogue < UNTRANSLATED
-
+새로운 몸에 자라난 복슬복슬한 꼬리를 꼭 껴안았다.
 > END STRING
 
 > BEGIN STRING
 你有点开心…能够成为这个样子
 > CONTEXT: Map001/events/5/pages/3/82/Dialogue < UNTRANSLATED
-
+조금 기쁘다… 이런 모습이 될 수 있다니
 > END STRING
 
 > BEGIN STRING
 不知是因为被同化了，还是你原本就是喜欢这样子…
 > CONTEXT: Map001/events/5/pages/3/84/Dialogue < UNTRANSLATED
-
+기생당한 탓인지, 원래부터 이런 걸 
+좋아했는지는 모르겠지만……
 > END STRING
 
 > BEGIN STRING
 你满心愉悦，满足于此，你的冒险，大概就到此为止了
 > CONTEXT: Map001/events/5/pages/3/86/Dialogue < UNTRANSLATED
-
+행복감으로 가득 차, 지금에 만족하니, 
+너의 모험은 여기서 끝난 것 같다.
 > END STRING
 
 > BEGIN STRING
@@ -193,7 +221,7 @@
 > BEGIN STRING
 大惊喜跑出来了…
 > CONTEXT: Map001/events/30/pages/2/0/Dialogue < UNTRANSLATED
-깜짝 놀라서 뛰쳐나왔어...
+깜짝 놀랄만한게 뛰쳐나왔어...
 > END STRING
 
 > BEGIN STRING
@@ -264,7 +292,7 @@
 > BEGIN STRING
 记录了一些日常琐事
 > CONTEXT: Map001/events/50/pages/0/0/Dialogue < UNTRANSLATED
-일상의 잡다한 일을 기록한 듯하다.
+자잘한 일들이 몇 개 기록되어있다.
 > END STRING
 
 > BEGIN STRING
