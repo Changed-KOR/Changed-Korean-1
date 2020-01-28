@@ -11,52 +11,57 @@
 > CONTEXT: Map006/events/33/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map006/events/34/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map006/events/35/pages/0/0/Dialogue < UNTRANSLATED
-
+…정말 아름답다. 그렇지?
 > END STRING
 
 > BEGIN STRING
 那种病毒是前所未见、前所未有的超级病毒
 > CONTEXT: Map006/events/38/pages/0/1/Dialogue < UNTRANSLATED
-
+이 바이러스는 전례가 없는 슈퍼 바이러스입니다.
 > END STRING
 
 > BEGIN STRING
 潜伏期长，传染方式多样，并具有隐蔽性，能伪装自身
 > CONTEXT: Map006/events/38/pages/0/4/Dialogue < UNTRANSLATED
-
+잠복기가 길고, 전염 경로가 다양하며, 
+자신을 위장시킬 수 있는 은닉성까지 갖췄습니다.
 > END STRING
 
 > BEGIN STRING
 在漫长的的潜伏期内他会蔓延到和可怜受害者所有有直
 接、间接接触的人身上
 > CONTEXT: Map006/events/38/pages/0/7/Dialogue < UNTRANSLATED
-
+긴 잠복기 중 환자가 직접적, 간접적으로 접촉한 
+적이 있는 불쌍한 피해자에게 전염될 수 있습니다.
 > END STRING
 
 > BEGIN STRING
 病毒完美克制了我们的基因缺陷，我们走投无路
 > CONTEXT: Map006/events/38/pages/0/11/Dialogue < UNTRANSLATED
-
+이 바이러스는 우리의 유전자적 결함을 완벽히 
+이용하여, 우리를 궁지로 내몰고 있습니다.
 > END STRING
 
 > BEGIN STRING
 这是我们人类的末日…我们的终末，专门克制我们的邪
 魔已经出现了
 > CONTEXT: Map006/events/38/pages/0/14/Dialogue < UNTRANSLATED
-
+이는 인류의 마지막 날… 우리의 종말이자, 
+우리를 짓누를 악마의 등장입니다.
 > END STRING
 
 > BEGIN STRING
 但如果我们的计划能成功的话…如果我们的想法理论无
 误的话
 > CONTEXT: Map006/events/38/pages/0/18/Dialogue < UNTRANSLATED
-
+하지만 만약 우리의 계획이 성공한다면…
+우리의 이론이 정확하다면
 > END STRING
 
 > BEGIN STRING
 那么这一切都还是可以避免的
 > CONTEXT: Map006/events/38/pages/0/22/Dialogue < UNTRANSLATED
-
+모두 극복할 수 있을 것입니다.
 > END STRING
 
 > BEGIN STRING
@@ -65,36 +70,40 @@
 你了，但我会用留言来纸引你，我不知道你需要多久才
 会醒来，几个月？几年？你若看到这个，道图书馆吧！
 > CONTEXT: Map006/events/43/pages/0/1/Dialogue < UNTRANSLATED
-
+<푸로대사. 번역기로는 번역불가>
 > END STRING
 
 > BEGIN STRING
 这个神秘人究竟是谁…？
 > CONTEXT: Map006/events/43/pages/0/9/Dialogue < UNTRANSLATED
-
+이 알수없는 사람은 도대체 누구지…？
 > END STRING
 
 > BEGIN STRING
 赶快前进吧…尽早离开这个建筑
 > CONTEXT: Map006/events/53/pages/0/0/Dialogue < UNTRANSLATED
-
+얼른 나아가자… 
+이 건물에서 가능한 한 빨리 빠져나가야 해
 > END STRING
 
 > BEGIN STRING
 你有预感，这次的冒险将会彻底改变你的人生
 > CONTEXT: Map006/events/134/pages/0/4/Dialogue < UNTRANSLATED
-
+너는 예감했다, 이번 모험이 너의 인생을 
+완전히 바꿀 것이라는 것을
 > END STRING
 
 > BEGIN STRING
 未知的前路，巨大的高塔，神秘的生物，病毒？胶兽？
 神秘人？你满心疑惑，但也只能继续你的冒险
 > CONTEXT: Map006/events/134/pages/0/6/Dialogue < UNTRANSLATED
-
+미지의 앞길, 거대한 탑, 신비한 생물, 바이러스? 
+점액 짐승? 신비로운 사람? 너는 의심이 가득했지만, 
+모험을 계속 할 수밖에 없다.
 > END STRING
 
 > BEGIN STRING
 走吧，希望不是等待就会有的
 > CONTEXT: Map006/events/134/pages/0/10/Dialogue < UNTRANSLATED
-
+가자，기다리지 않았으면 좋겠어
 > END STRING
