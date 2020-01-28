@@ -119,91 +119,99 @@
 > CONTEXT: Map002/events/71/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/72/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/73/pages/0/0/Dialogue < UNTRANSLATED
-
+분명히, 통행을 금지하는 듯 하다.
 > END STRING
 
 > BEGIN STRING
 那东西会不会从门缝里挤进来啊…
 > CONTEXT: Map014/events/74/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map014/events/75/pages/0/0/Dialogue < UNTRANSLATED
-
+그게 문 틈 사이로 비집고 들어오지 않으려나…
 > END STRING
 
 > BEGIN STRING
 胶兽不会受病毒影响
 > CONTEXT: Map014/events/89/pages/0/1/Dialogue < UNTRANSLATED
-
+점액은 바이러스의 영향을 받지 않는다.
 > END STRING
 
 > BEGIN STRING
 它们的构造特殊，病毒在它们身上无法存活
 > CONTEXT: Map014/events/89/pages/0/4/Dialogue < UNTRANSLATED
-
+점액의 구조는 특이해서, 
+병균은 그 몸 안에 살 수 없다.
 > END STRING
 
 > BEGIN STRING
 被改造兽化后的受验者也有对病毒的抗性，不会再被传
 染
 > CONTEXT: Map014/events/89/pages/0/7/Dialogue < UNTRANSLATED
-
+개조를 받거나 수화를 당한 후의 피실험자도 
+바이러스에 내성이 생겨, 다시 전염되지 않는다.
 > END STRING
 
 > BEGIN STRING
 某人的画作，和之前看到的很明显是同一人的手笔
 > CONTEXT: Map014/events/153/pages/0/0/Dialogue < UNTRANSLATED
-
+다만 이 두 피실험자 모두 자아를 잃게 되었다.
 > END STRING
 
 > BEGIN STRING
 这个建筑的布局一点也不人性化，简直糟透了，这些房
 间毫无对称性、艺术性，完全就是杂乱无章的
 > CONTEXT: Map014/events/236/pages/0/1/Dialogue < UNTRANSLATED
-
+이 건물의 구조는 조금도 인간적이지 않고, 
+그야말로 엉망진창이다. 이 방들은 대칭성도, 
+예술성도 전혀 없고 완전 난잡하다.
 > END STRING
 
 > BEGIN STRING
 但好在这里的封闭性很好，即使发生生化武器袭击，这
 里也能维持一段时间的安全
 > CONTEXT: Map014/events/236/pages/0/5/Dialogue < UNTRANSLATED
-
+그러나 다행히 폐쇄성은 좋아서, 생화학무기 공격이 
+일어나도 한동안은 안전할 것이다.
 > END STRING
 
 > BEGIN STRING
 毕竟这座塔原本就是作为碉堡而被建设出来的，即使历
 经千年，这座塔也能屹立不倒
 > CONTEXT: Map014/events/236/pages/0/9/Dialogue < UNTRANSLATED
-
+어쨋든 이 탑은 원래 벙커로서 건설되었으니, 
+천 년이 지나도 이 탑은 우뚝 서있을 것이다.
 > END STRING
 
 > BEGIN STRING
 作为研究场所，这里真的是再适合不过了
 > CONTEXT: Map014/events/236/pages/0/13/Dialogue < UNTRANSLATED
-
+연구 시설로서는, 정말 이보다 적합할 수가 없다.
 > END STRING
 
 > BEGIN STRING
 但我真的只想透透气，太闷了
 > CONTEXT: Map014/events/236/pages/0/16/Dialogue < UNTRANSLATED
-
+그래도 난 바람을 좀 쐬고 싶은데, 너무 답답하다.
 > END STRING
 
 > BEGIN STRING
 猫粮被吃光了，不过你本来就没想吃猫粮，对吧？
 > CONTEXT: Map014/events/252/pages/0/0/Dialogue < UNTRANSLATED
-
+고양이 사료는 다 먹고 없다. 평상시라면 고양이 
+사료를 먹고싶어하진 않았을텐데, 그렇지?
 > END STRING
 
 > BEGIN STRING
 纸箱里面装了一套衣服
 > CONTEXT: Map014/events/263/pages/0/0/Dialogue < UNTRANSLATED
-
+종이 상자 안에 의상이 한 벌 있다.
 > END STRING
 
 > BEGIN STRING
 但这个衣服布料之少，让你觉得穿和不穿也没什么区别
 了
 > CONTEXT: Map014/events/263/pages/0/2/Dialogue < UNTRANSLATED
-
+하지만 이 옷은 옷감이 적어서 입으나 마나 별 
+차이가 없을 것 같다.
 > END STRING
 
 > BEGIN STRING
@@ -212,60 +220,63 @@
 你，我用路障标是出了你可以藏身的地方，希望着能帮
 到你！话着到图书管来见我吧！人类！
 > CONTEXT: Map014/events/283/pages/0/1/Dialogue < UNTRANSLATED
-
+<푸로대사. 번역기로는 번역불가>
 > END STRING
 
 > BEGIN STRING
 这个错字连篇的留言后面还画了个像是骷髅一样的标志
 > CONTEXT: Map014/events/283/pages/0/9/Dialogue < UNTRANSLATED
-
+이 맞춤법이 틀린 메시지 뒤에는 해골 처럼 보이는 
+로고가 그려져 있었다.
 > END STRING
 
 > BEGIN STRING
 情在真的走头无路的时候拉下这跟绳子！
 > CONTEXT: Map014/events/304/pages/0/1/Dialogue < UNTRANSLATED
-
+정 정말 갈 길이 없을 때 이 끈을 잡아당겨！
 > END STRING
 
 > BEGIN STRING
 拉下
 > CONTEXT: Map014/events/304/pages/0/3/Choice/0 < UNTRANSLATED
-
+당긴다
 > END STRING
 
 > BEGIN STRING
 不拉
 > CONTEXT: Map014/events/304/pages/0/3/Choice/1 < UNTRANSLATED
-
+당기지 않는다
 > END STRING
 
 > BEGIN STRING
 …坏猫猫！猫猫坏！离他远点！
 > CONTEXT: Map014/events/304/pages/0/26/Dialogue < UNTRANSLATED
-
+…나쁜 고양이！나쁜 고양이！빨리 떨어져！
 > END STRING
 
 > BEGIN STRING
 那只胶兽猫被这个诱饵吓了一跳,逃跑的机会来了！
 > CONTEXT: Map014/events/304/pages/0/35/Dialogue < UNTRANSLATED
-
+점액 고양이가 미끼에 놀라 도망칠 기회가 생겼다！
 > END STRING
 
 > BEGIN STRING
 已经拉过了
 > CONTEXT: Map014/events/304/pages/2/0/Dialogue < UNTRANSLATED
-
+이미 당겼다.
 > END STRING
 
 > BEGIN STRING
 有人把一个可以录音的生日贺卡改造成了这个诱饵，只
 要拉动绳子，这个诱饵就会掉下来
 > CONTEXT: Map014/events/410/pages/0/0/Dialogue < UNTRANSLATED
-
+누군가가 녹음이 되는 카드보드지를 미끼로 
+개조한것 같은데, 밧줄을 당기기만 하면 
+미끼가 떨어지는 것 같다.
 > END STRING
 
 > BEGIN STRING
 那只胶兽猫被这个诱饵吓了一跳，趁这个时机逃走吧！
 > CONTEXT: Map014/events/410/pages/0/3/Dialogue < UNTRANSLATED
-
+점액 고양이가 미끼에 놀라 도망칠 기회가 생겼다！
 > END STRING
