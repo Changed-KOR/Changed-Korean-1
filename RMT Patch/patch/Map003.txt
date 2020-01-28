@@ -155,7 +155,7 @@
 > BEGIN STRING
 到图书管来，我等者你
 > CONTEXT: Map003/events/56/pages/0/1/Dialogue < UNTRANSLATED
-도서관에 오면, 제가 기다리겠습니다.
+도서관으로 와, 널 기달이고 있을게
 > END STRING
 
 > BEGIN STRING
