@@ -3,78 +3,91 @@
 朝阳映照着下方垮塌的建筑，这是一座高塔，是你未在
 任何新闻、书籍上见过的
 > CONTEXT: Map008/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+석양이 아래의 무너진 건물들을 비추고있다. 
+이 높은 탑은, 어떠한 뉴스나 서적에서도 
+본 적이 없는 것이다.
 > END STRING
 
 > BEGIN STRING
 下面的风景也很陌生，成片的废墟，矗立的高塔，这里
 究竟是哪？
 > CONTEXT: Map008/events/4/pages/0/5/Dialogue < UNTRANSLATED
-
+낯선 아래의 풍경, 조각난 폐허, 우뚝 솟은 높은 탑, 
+여긴 도대체 어디지？
 > END STRING
 
 > BEGIN STRING
 看着这座塔下边的残垣断壁，你有些疑惑…
 > CONTEXT: Map008/events/4/pages/0/8/Dialogue < UNTRANSLATED
-
+이 탑 아래 허물어진 집들을 보고있자니, 
+좀 당황스럽다……
 > END STRING
 
 > BEGIN STRING
 这里是什么古城市遗迹吗？
 > CONTEXT: Map008/events/4/pages/0/10/Dialogue < UNTRANSLATED
-
+여긴 무슨 도시 유적인걸까？
 > END STRING
 
 > BEGIN STRING
 似乎从这里求救是不太可能了…
 > CONTEXT: Map008/events/4/pages/0/13/Dialogue < UNTRANSLATED
-
+도움을 요청하는 건 힘들 것 같다……
 > END STRING
 
 > BEGIN STRING
 下面尽是些废墟一样的建筑物…那或许确确实实就是废
 墟…
 > CONTEXT: Map008/events/4/pages/1/0/Dialogue < UNTRANSLATED
-
+아래로는 폐허처럼 보이는 건축물들이 보인다…
+확실히 폐허지만… 어딘가가…
 > END STRING
 
 > BEGIN STRING
 你醉心于风景，完全没有注意到有一只狸猫悄悄的从旁
 边溜了上来
 > CONTEXT: Map008/events/12/pages/1/3/Dialogue < UNTRANSLATED
-
+경치에 심취해 있느랴, 살쾡이 한 마리가 
+살금살금 옆까지 미끄러져 올라오는 것을 
+전혀 눈치채지 못했다.
 > END STRING
 
 > BEGIN STRING
 那是一只…绝对不一般的狸猫，那是一只…胶兽狸猫
 > CONTEXT: Map008/events/12/pages/1/6/Dialogue < UNTRANSLATED
-
+그건… 절대 평범한 살쾡이가 아니라, 
+그건 한 마리… 점액 짐승인 살쾡이였다.
 > END STRING
 
 > BEGIN STRING
 你被这只“狸猫”扑倒在地，屁股重重的摔在地上
 > CONTEXT: Map008/events/12/pages/1/8/Dialogue < UNTRANSLATED
-
+너는 이 "살쾡이"에게 덮쳐져, 
+바닥에 엉덩방아를 찧었다.
 > END STRING
 
 > BEGIN STRING
 你无暇顾及这是一只怎样品种的狸猫…你只知道你可能
 有些…危险了
 > CONTEXT: Map008/events/12/pages/1/14/Dialogue < UNTRANSLATED
-
+이 살쾡이가 어떤 품종인진 생각할 겨를도 없었고…
+그저 꽤… 위험하단 사실만은 알 수 있었다.
 > END STRING
 
 > BEGIN STRING
 巨大的人形狸猫冲你舔嘴巴，然后摆出了一个标准的猫
 科动物都会摆出的攻击架势：弓起腰，撅高屁股
 > CONTEXT: Map008/events/12/pages/1/17/Dialogue < UNTRANSLATED
-
+커다란 인간형 살쾡이가 널 향해 입을 벌리고, 
+그다음 고양잇과 동물의 공격 자세를 취했다.
+ : 자세를 숙이고, 엉덩이를 치켜든다.
 > END STRING
 
 > BEGIN STRING
 它看着你，你看着它，时间仿佛凝固
 > CONTEXT: Map008/events/12/pages/1/20/Dialogue < UNTRANSLATED
-
+녀석이 널 바라보고, 너는 녀석을 바라본 채, 
+시간이 멈춘 듯 했다.
 > END STRING
 
 > BEGIN STRING
@@ -82,44 +95,53 @@
 的是你没有被撕碎，这只狸猫变成了一股粘液覆盖了你
 的全身
 > CONTEXT: Map008/events/12/pages/1/26/Dialogue < UNTRANSLATED
-
+미처 손을 뻗을 틈도 없이, 살쾡이가 공격해왔다. 
+그러나 생각지도 못한 것은 몸이 찢겨나가지 않고, 
+점액 덩어리가 되어 네 몸을 덮었다는 점이다.
 > END STRING
 
 > BEGIN STRING
 黏糊又温暖的感觉传遍全身，你感到身体紧绷了起来，
 这是你身上的粘液在收缩
 > CONTEXT: Map008/events/12/pages/1/30/Dialogue < UNTRANSLATED
-
+끈적거리고 따뜻한 느낌이 온몸에 퍼지면서, 
+몸이 조여오는 느낌을 받았는데, 
+네 몸을 둘러싼 점액이 수축하고 있는 탓이였다.
 > END STRING
 
 > BEGIN STRING
 你的思想也模糊起来，你和猫的记忆混在了一起
 > CONTEXT: Map008/events/12/pages/1/33/Dialogue < UNTRANSLATED
-
+네 의식이 흐릿해지면서, 너와 살쾡이의 기억이 
+한데 뒤섞이기 시작한다.
 > END STRING
 
 > BEGIN STRING
 你正在与它彻彻底底的融合在一起
 > CONTEXT: Map008/events/12/pages/1/35/Dialogue < UNTRANSLATED
-
+너는 그것과 철저하게 융합되고 있었다.
 > END STRING
 
 > BEGIN STRING
 你已经被这只粘液狸猫覆盖、同化，脑中浮现的是猫的
 想法，你舔了舔嘴巴，非常满足
 > CONTEXT: Map008/events/12/pages/1/41/Dialogue < UNTRANSLATED
-
+넌 이미 이 점액 살쾡이에게 덮쳐지고, 동화되어, 
+머릿속에 떠오르는 것은 고양이로서의 생각뿐이었다. 
+혀로 입을 핥으며, 매우 만족한다.
 > END STRING
 
 > BEGIN STRING
 看着自己全新的身体，你居然开始有点开心了，或许，
 不久之后，你便会忘记你曾是人类
 > CONTEXT: Map008/events/12/pages/1/44/Dialogue < UNTRANSLATED
-
+자신의 새로운 몸을 보니, 의외로 기분이 좋아지기 
+시작한다. 아마도 머지않아 네가 일찍이 
+인간이었다는 것을 잊어버리게 될 것이다.
 > END STRING
 
 > BEGIN STRING
 你的冒险？那种事已经不再重要了
 > CONTEXT: Map008/events/12/pages/1/47/Dialogue < UNTRANSLATED
-
+네 모험? 그런 일은 더 이상 중요하지 않아.
 > END STRING
