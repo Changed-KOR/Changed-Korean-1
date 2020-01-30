@@ -2,74 +2,83 @@
 > BEGIN STRING
 这里很适合藏身
 > CONTEXT: Map020/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+이곳은 몸을 숨기기에 안성맞춤이다.
 > END STRING
 
 > BEGIN STRING
 枝叶茂盛，树干很粗，比你的细腰粗……
 > CONTEXT: Map020/events/7/pages/0/7/Dialogue < UNTRANSLATED
-
+가지와 잎이 무성하고, 줄기가 굵어
+당신의 가느다란 허리보다 굵다..
 > END STRING
 
 > BEGIN STRING
 水晶挡住了门
 > CONTEXT: Map020/events/28/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/29/pages/0/0/Dialogue < UNTRANSLATED
-
+크리스털이 문을 막고 있다.
 > END STRING
 
 > BEGIN STRING
 果子，上面粘着一些黑色的胶
 > CONTEXT: Map020/events/32/pages/0/0/Dialogue < UNTRANSLATED
-
+과일이다.
+위에는 검정색 고무 같은 게
+조금 묻어 있다.
 > END STRING
 
 > BEGIN STRING
 ……是他们摘给我的吗
 > CONTEXT: Map020/events/32/pages/0/2/Dialogue < UNTRANSLATED
-
+...그들이, 이걸 따준 걸까?
 > END STRING
 
 > BEGIN STRING
 你迫不及待的剥开果子的外皮，吃了起来
 > CONTEXT: Map020/events/32/pages/0/8/Dialogue < UNTRANSLATED
-
+한 치 망설임도 없이,
+당신은 과일 껍질을 벗기고
+먹기 시작했다.
 > END STRING
 
 > BEGIN STRING
 果子很酸，但你感觉比饿肚子好多了
 > CONTEXT: Map020/events/32/pages/0/11/Dialogue < UNTRANSLATED
-
+과일은 매우 셨지만..
+배고픈 것보다는 훨씬 나은 것 같아.
 > END STRING
 
 > BEGIN STRING
 不知为何，你想家了
 > CONTEXT: Map020/events/32/pages/0/13/Dialogue < UNTRANSLATED
-
+웬일인지, 당신은 집에 대해
+생각해보기 시작했다.
 > END STRING
 
 > BEGIN STRING
 你强忍眼泪，吃完了果子
 > CONTEXT: Map020/events/32/pages/0/16/Dialogue < UNTRANSLATED
-
+겨우 눈물을 참기 위해,
+당신은 남은 과일을 먹었다.
 > END STRING
 
 > BEGIN STRING
 吃完了果子，你感觉身体好多了
 > CONTEXT: Map020/events/32/pages/0/23/Dialogue < UNTRANSLATED
-
+과일을 다 먹고 나니,
+몸이 조금 나아진 기분이다.
 > END STRING
 
 > BEGIN STRING
 你收拾了一下吃剩的果核与皮，站起身
 > CONTEXT: Map020/events/32/pages/0/29/Dialogue < UNTRANSLATED
-
+당신은 과일 껍질과 씨를 치우고 일어났다.
 > END STRING
 
 > BEGIN STRING
 该出发了
 > CONTEXT: Map020/events/32/pages/0/31/Dialogue < UNTRANSLATED
-
+이제 출발할 시간이야.
 > END STRING
 
 > BEGIN STRING
@@ -88,7 +97,8 @@
 > CONTEXT: Map020/events/39/pages/2/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/40/pages/2/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/41/pages/2/3/Dialogue < UNTRANSLATED
-
+이번엔 베란다에서 다른 걸 봤다.
+온몸의 접착제 같은 게 반짝이는 고양잇과 동물.
 > END STRING
 
 > BEGIN STRING
@@ -96,7 +106,7 @@
 > CONTEXT: Map020/events/39/pages/2/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/40/pages/2/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/41/pages/2/8/Dialogue < UNTRANSLATED
-
+그것은, 화가 난 듯 상자를 걷어차고 있었다.
 > END STRING
 
 > BEGIN STRING
@@ -104,7 +114,8 @@
 > CONTEXT: Map020/events/39/pages/2/11/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/40/pages/2/11/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/41/pages/2/11/Dialogue < UNTRANSLATED
-
+상자들이 제자리로 돌아가는 건
+저 고양이 때문이였구나..
 > END STRING
 
 > BEGIN STRING
@@ -112,7 +123,7 @@
 > CONTEXT: Map020/events/39/pages/2/14/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/40/pages/2/14/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/41/pages/2/14/Dialogue < UNTRANSLATED
-
+어떡하지?
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +131,7 @@
 > CONTEXT: Map020/events/39/pages/2/16/Choice/0 < UNTRANSLATED
 > CONTEXT: Map020/events/40/pages/2/16/Choice/0 < UNTRANSLATED
 > CONTEXT: Map020/events/41/pages/2/16/Choice/0 < UNTRANSLATED
-
+몰래 지나간다
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +139,7 @@
 > CONTEXT: Map020/events/39/pages/2/16/Choice/1 < UNTRANSLATED
 > CONTEXT: Map020/events/40/pages/2/16/Choice/1 < UNTRANSLATED
 > CONTEXT: Map020/events/41/pages/2/16/Choice/1 < UNTRANSLATED
-
+되돌아간다
 > END STRING
 
 > BEGIN STRING
@@ -316,7 +327,8 @@
 这里的人就那么喜欢锁门吗
 > CONTEXT: Map020/events/42/pages/1/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map020/events/46/pages/1/0/Dialogue < UNTRANSLATED
-
+이곳 사람들은,
+문 잠그는 걸 좋아하는 걸까...?
 > END STRING
 
 > BEGIN STRING
@@ -328,5 +340,5 @@
 > BEGIN STRING
 什么都没有
 > CONTEXT: Map020/events/58/pages/0/0/Dialogue < UNTRANSLATED
-
+아무것도 없다.
 > END STRING
