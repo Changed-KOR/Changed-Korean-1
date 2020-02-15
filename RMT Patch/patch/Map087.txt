@@ -144,7 +144,7 @@
 > CONTEXT: Map084/events/22/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/79/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/112/pages/0/1/Dialogue < UNTRANSLATED
-보고서 기록 더미.
+기록 시작.
 > END STRING
 
 > BEGIN STRING
@@ -210,7 +210,7 @@
 > CONTEXT: Map084/events/22/pages/0/17/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/79/pages/0/17/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/112/pages/0/15/Dialogue < UNTRANSLATED
-보고 종료.
+기록 종료.
 > END STRING
 
 > BEGIN STRING
