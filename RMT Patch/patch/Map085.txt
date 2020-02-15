@@ -3,26 +3,28 @@
 直到今天为纸，还是没有仁来图书馆…求你…给我一些
 回应好吗…那怕只是告诉我你还活着就可以了…
 > CONTEXT: Map085/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+<번역 좀 해주세요>
 > END STRING
 
 > BEGIN STRING
 一本旧日历，整个日历上的所有日期都被划了一道，直
 至日历的最后一页的最后一天
 > CONTEXT: Map085/events/15/pages/0/0/Dialogue < UNTRANSLATED
-
+오래된 달력 한 권.
+마지막 페이지, 마지막 날까지
+빠짐없이 그여 있다.
 > END STRING
 
 > BEGIN STRING
 它还没有发现你
 > CONTEXT: Map085/events/16/pages/0/0/Dialogue < UNTRANSLATED
-
+그것은 아직 당신을 발견하지 못했다.
 > END STRING
 
 > BEGIN STRING
 它已经发现你了
 > CONTEXT: Map085/events/16/pages/1/0/Dialogue < UNTRANSLATED
-
+발각되었다!
 > END STRING
 
 > BEGIN STRING
@@ -39,7 +41,7 @@
 > CONTEXT: Map085/events/45/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map085/events/46/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map085/events/47/pages/0/0/Dialogue < UNTRANSLATED
-
+가득 찬 깡통.
 > END STRING
 
 > BEGIN STRING
@@ -218,7 +220,7 @@
 > CONTEXT: Map014/events/419/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/222/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/223/pages/0/0/Dialogue < UNTRANSLATED
-
+아무리 밀어도 움직이지 않아.
 > END STRING
 
 > BEGIN STRING
@@ -227,19 +229,21 @@
 > CONTEXT: Map085/events/30/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map085/events/40/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map085/events/40/pages/1/2/Dialogue < UNTRANSLATED
-
+어쩌면.. 저 검은 라텍스 생물들의 힘으로
+밀어낼 수 있을지도...?
 > END STRING
 
 > BEGIN STRING
 那只在追求你的气味的黑色胶兽或许可以帮你这个忙
 > CONTEXT: Map085/events/30/pages/1/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map085/events/40/pages/1/4/Dialogue < UNTRANSLATED
-
+당신의 냄새를 추적하는 저 생물이
+오히려 당신을 도울지도 모른다.
 > END STRING
 
 > BEGIN STRING
 只要你把它引到这里的话
 > CONTEXT: Map085/events/30/pages/1/6/Dialogue < UNTRANSLATED
 > CONTEXT: Map085/events/40/pages/1/6/Dialogue < UNTRANSLATED
-
+..물론 당신이 그것을 여기로 유인해온다면.
 > END STRING
