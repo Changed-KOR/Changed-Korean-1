@@ -3,7 +3,7 @@
 打不开！
 > CONTEXT: Map084/events/10/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/11/pages/1/1/Dialogue < UNTRANSLATED
-
+열리지 않아!
 > END STRING
 
 > BEGIN STRING
@@ -11,7 +11,7 @@
 > CONTEXT: Map084/events/21/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/31/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/32/pages/0/0/Dialogue < UNTRANSLATED
-
+정말로 싱싱해 보이는 귤이다.
 > END STRING
 
 > BEGIN STRING
@@ -19,49 +19,56 @@
 > CONTEXT: Map084/events/21/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/31/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/32/pages/0/2/Dialogue < UNTRANSLATED
-
+지금 훔쳐먹으면....
+..정말로 들킬지도 몰라.
 > END STRING
 
 > BEGIN STRING
 你小心翼翼的把录音机的音量调整到了最小
 > CONTEXT: Map084/events/22/pages/0/0/Dialogue < UNTRANSLATED
-
+당신은 조심스럽게 녹음기 볼륨을
+최소로 조절했다.
 > END STRING
 
 > BEGIN STRING
 这些黑色胶兽原本是实验的失败品
 > CONTEXT: Map084/events/22/pages/0/5/Dialogue < UNTRANSLATED
-
+이 검은 점액들은,
+원래 실험의 실패본들이였다.
 > END STRING
 
 > BEGIN STRING
 研究所沦陷之后它们从罐子里逃了出来
 > CONTEXT: Map084/events/22/pages/0/7/Dialogue < UNTRANSLATED
-
+연구소가 붕괴된 이후,
+그들은 갇혀 있던 탱크에서 빠져나왔다.
 > END STRING
 
 > BEGIN STRING
 之后又在建筑内开辟自己的家园与领地
 > CONTEXT: Map084/events/22/pages/0/9/Dialogue < UNTRANSLATED
-
+그 후, 그들 스스로
+건물 안에 그들의 터전을 만들었다.
 > END STRING
 
 > BEGIN STRING
 它们甚至把办公区改造成了寝室
 > CONTEXT: Map084/events/22/pages/0/11/Dialogue < UNTRANSLATED
-
+그것들은 심지어 사무실 동을
+자신들의 침실로 개조했다.
 > END STRING
 
 > BEGIN STRING
 这些黑色胶兽拥有相当的智慧
 > CONTEXT: Map084/events/22/pages/0/13/Dialogue < UNTRANSLATED
-
+이 검은 고무덩어리들은,
+상당한 지능을 가진 것으로 보여진다.
 > END STRING
 
 > BEGIN STRING
 好在它们对我没有任何兴趣
 > CONTEXT: Map084/events/22/pages/0/15/Dialogue < UNTRANSLATED
-
+다행히 나에겐 흥미를 보이진 않는다.
 > END STRING
 
 > BEGIN STRING
@@ -71,13 +78,15 @@
 > CONTEXT: Map015/events/41/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/47/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map015/events/52/pages/0/0/Dialogue < UNTRANSLATED
-
+마실 수 있을 것 같은
+깨끗한 물.
 > END STRING
 
 > BEGIN STRING
 现在偷偷喝一定会被发现的
 > CONTEXT: Map084/events/25/pages/0/2/Dialogue < UNTRANSLATED
-
+..그래도, 지금 마시면,
+들키게 될 거야...
 > END STRING
 
 > BEGIN STRING
@@ -85,25 +94,26 @@
 > CONTEXT: Map084/events/27/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/28/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/76/pages/0/0/Dialogue < UNTRANSLATED
-
+물 한 컵.
 > END STRING
 
 > BEGIN STRING
 现在偷喝一定会被发现的
 > CONTEXT: Map084/events/30/pages/0/2/Dialogue < UNTRANSLATED
-
+마셨다간 들킬 것 같아.
 > END STRING
 
 > BEGIN STRING
 这只小小的黑色胶兽睡得死死的
 > CONTEXT: Map084/events/61/pages/0/0/Dialogue < UNTRANSLATED
-
+이 작은 고무줄 짐승은
+죽은 듯이 자고 있다.
 > END STRING
 
 > BEGIN STRING
 要摸摸它吗？
 > CONTEXT: Map084/events/61/pages/0/2/Dialogue < UNTRANSLATED
-
+...만져볼까?
 > END STRING
 
 > BEGIN STRING
@@ -134,7 +144,7 @@
 > CONTEXT: Map001/events/99/pages/0/2/Choice/0 < UNTRANSLATED
 > CONTEXT: Map001/events/100/pages/0/2/Choice/0 < UNTRANSLATED
 > CONTEXT: Map001/events/101/pages/0/2/Choice/0 < UNTRANSLATED
-
+예
 > END STRING
 
 > BEGIN STRING
@@ -165,7 +175,7 @@
 > CONTEXT: Map001/events/99/pages/0/2/Choice/1 < UNTRANSLATED
 > CONTEXT: Map001/events/100/pages/0/2/Choice/1 < UNTRANSLATED
 > CONTEXT: Map001/events/101/pages/0/2/Choice/1 < UNTRANSLATED
-
+아니오
 > END STRING
 
 > BEGIN STRING
@@ -178,5 +188,5 @@
 > CONTEXT: Map033/events/21/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map033/events/22/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map033/events/23/pages/0/0/Dialogue < UNTRANSLATED
-
+빈 깡통이다.
 > END STRING
