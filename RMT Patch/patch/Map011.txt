@@ -2,21 +2,22 @@
 > BEGIN STRING
 机器扫描不到你的眼睛
 > CONTEXT: Map011/events/14/pages/2/0/Dialogue < UNTRANSLATED
-
+기계가 눈을 스캔하지 못한다.
 > END STRING
 
 > BEGIN STRING
 被锁住了！
 > CONTEXT: Map011/events/15/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/237/pages/1/1/Dialogue < UNTRANSLATED
-
+이 문은 잠겼어!
 > END STRING
 
 > BEGIN STRING
 现在没办法伸手开门
 > CONTEXT: Map011/events/15/pages/2/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/237/pages/2/0/Dialogue < UNTRANSLATED
-
+지금은 손을 뻗어
+문을 열 방법이 없다.
 > END STRING
 
 > BEGIN STRING
@@ -25,46 +26,58 @@
 > CONTEXT: Map011/events/18/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/20/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/21/pages/0/0/Dialogue < UNTRANSLATED
-
+검은 점액 생물들 앞에서는 가능한
+정지 상태를 유지하세요!
+그리고 점액을 밟지 마세요!
 > END STRING
 
 > BEGIN STRING
 防尘布盖起来的不明器械
 > CONTEXT: Map011/events/36/pages/0/0/Dialogue < UNTRANSLATED
-
+방진 처리가 된 천으로 덮인,
+도무지 알 수 없는 기계.
 > END STRING
 
 > BEGIN STRING
 要挽救剩下的人，就只能让他们基因改变，把那段缺陷
 补上，以此避免病毒的入侵
 > CONTEXT: Map011/events/37/pages/0/1/Dialogue < UNTRANSLATED
-
+남은 생존자들을 살리려면, 
+유전자를 변화시켜 결점을 보완하여
+바이러스의 침입을 피할 수밖에 없다.
 > END STRING
 
 > BEGIN STRING
 我把一些动物的基因融入到简单的单细胞生物中
 > CONTEXT: Map011/events/37/pages/0/5/Dialogue < UNTRANSLATED
-
+나는 몇몇 동물의 유전자를
+간단한 단세포 생물에 융합시켰다.
 > END STRING
 
 > BEGIN STRING
 在初期试验中，这些单细胞生物会吞噬简单的细胞，强
 行把自己的基因替换进入简单细胞
 > CONTEXT: Map011/events/37/pages/0/8/Dialogue < UNTRANSLATED
-
+초기 실험대로라면, 이 생물들은
+간단한 세포를 삼키고 유전자를 교체하여,
+자신과 같은 세포로 만들 것이다.
 > END STRING
 
 > BEGIN STRING
 下一步就是要靠它们间接的改变人类了，若可行的话
 > CONTEXT: Map011/events/37/pages/0/12/Dialogue < UNTRANSLATED
-
+다음 단계는, 그것을 통해
+인간을 간접적으로 변화시키는 것이다.
+....가능하다면 말이야.
 > END STRING
 
 > BEGIN STRING
 但它们在复杂生物身上完全不起效果…难道真的只能靠
 那些粘液生物了吗？
 > CONTEXT: Map011/events/37/pages/0/15/Dialogue < UNTRANSLATED
-
+하지만 그것은 복잡한 생물체에게는
+효과를 보이지 않는다.
+과연 이게 최후의 방법인가?
 > END STRING
 
 > BEGIN STRING
@@ -102,56 +115,59 @@
 > CONTEXT: Map011/events/230/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/234/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/235/pages/0/0/Dialogue < UNTRANSLATED
-
+이상한 모양을 한 유리 깡통.
 > END STRING
 
 > BEGIN STRING
 这是我喂你做的伪装服，我花了好常时间才学会针线活
 ，好好力用这个吧！
 > CONTEXT: Map011/events/54/pages/0/1/Dialogue < UNTRANSLATED
-
+(푸로 대사)
+너를 위해 만든 위장복이야!
+이거 만드느라 바느질을 배우는 데 많은 시간을 썼어..
+잘 써봐!
 > END STRING
 
 > BEGIN STRING
 穿上
 > CONTEXT: Map011/events/54/pages/0/4/Choice/0 < UNTRANSLATED
-
+입는다
 > END STRING
 
 > BEGIN STRING
 不穿
 > CONTEXT: Map011/events/54/pages/0/4/Choice/1 < UNTRANSLATED
-
+내버려둔다
 > END STRING
 
 > BEGIN STRING
 伪装服上有着淡淡的橘子的气味
 > CONTEXT: Map011/events/54/pages/0/13/Dialogue < UNTRANSLATED
-
+위장복에서 은은한 귤 향이 난다.
 > END STRING
 
 > BEGIN STRING
 认真的吗？在它们的面前穿？
 > CONTEXT: Map011/events/54/pages/1/0/Dialogue < UNTRANSLATED
-
+정말로? 저것들 앞에서 입는 거야?
 > END STRING
 
 > BEGIN STRING
 衣帽架
 > CONTEXT: Map011/events/54/pages/2/0/Dialogue < UNTRANSLATED
-
+옷걸이다.
 > END STRING
 
 > BEGIN STRING
 迷你字典
 > CONTEXT: Map011/events/88/pages/0/0/Dialogue < UNTRANSLATED
-
+조그마한 국어사전.
 > END STRING
 
 > BEGIN STRING
 你还真是坚持不懈啊
 > CONTEXT: Map011/events/126/pages/0/12/Dialogue < UNTRANSLATED
-
+넌 아직도 끈질기구나.
 > END STRING
 
 > BEGIN STRING
