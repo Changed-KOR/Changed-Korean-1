@@ -3,14 +3,17 @@
 这块墙板的后方有一处总电路，一旦停电，办公区的照
 明电路便会损坏，届时请及时维修并更换保险丝
 > CONTEXT: Map009/events/8/pages/0/1/Dialogue < UNTRANSLATED
-
+이 벽 뒤에 중앙회로가 하나 있습니다.
+정전이 되면 사무실 조명 회로가 손상되므로
+제때 수리하고 퓨즈를 교체하십시오.
 > END STRING
 
 > BEGIN STRING
 这是个架满钢管的墙洞，和你之前看到的那些根本没什
 么区别
 > CONTEXT: Map009/events/9/pages/0/0/Dialogue < UNTRANSLATED
-
+강철 파이프들이 가득하다.
+이때까지 본 것과 다를 것 없다.
 > END STRING
 
 > BEGIN STRING
@@ -19,20 +22,20 @@
 > CONTEXT: Map009/events/22/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/26/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/43/pages/0/0/Dialogue < UNTRANSLATED
-
+벽이 드러나는, 작은 강철관.
 > END STRING
 
 > BEGIN STRING
 熟悉的白色粘液
 > CONTEXT: Map009/events/21/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/42/pages/0/0/Dialogue < UNTRANSLATED
-
+매우 익숙한 흰색 점액이다.
 > END STRING
 
 > BEGIN STRING
 翻翻看吗？
 > CONTEXT: Map009/events/23/pages/0/0/Dialogue < UNTRANSLATED
-
+뒤져 볼까?
 > END STRING
 
 > BEGIN STRING
@@ -156,61 +159,72 @@
 没有必要回去了，继续前进吧
 > CONTEXT: Map009/events/24/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/25/pages/0/0/Dialogue < UNTRANSLATED
-
+돌아볼 필요 없다.
+계속해서 나아가자.
 > END STRING
 
 > BEGIN STRING
 办公守则，条条框框写满了整张单子
 > CONTEXT: Map009/events/28/pages/0/0/Dialogue < UNTRANSLATED
-
+업무 수칙과 규칙인 듯하다.
+영수증으로 가득 차 있다..
 > END STRING
 
 > BEGIN STRING
 你感觉你要是再继续看下去，脑袋得胀大三倍
 > CONTEXT: Map009/events/28/pages/0/2/Dialogue < UNTRANSLATED
-
+이걸 계속 들여다보고 있으려면..
+머리가 세 배는 커야 할 것 같아.
 > END STRING
 
 > BEGIN STRING
 在这最下面着重写着：“不准在办公室跑步！”
 > CONTEXT: Map009/events/28/pages/0/5/Dialogue < UNTRANSLATED
-
+맨 아래에 이렇게 쓰여 있다.
+"사무실에서 뛰면 안 돼!"
 > END STRING
 
 > BEGIN STRING
 似乎很喜欢你，一直在看着你
 > CONTEXT: Map009/events/35/pages/0/2/Dialogue < UNTRANSLATED
-
+당신을 좋아하는 듯,
+계속 당신을 바라보고 있다.
 > END STRING
 
 > BEGIN STRING
 我试着把动物的基因混进人的基因中
 > CONTEXT: Map009/events/40/pages/0/1/Dialogue < UNTRANSLATED
-
+나는 동물의 유전자를 사람의 것에
+섞어보았다.
 > END STRING
 
 > BEGIN STRING
 我做了很多实验，但直到现在都没有什么有效的办法
 > CONTEXT: Map009/events/40/pages/0/4/Dialogue < UNTRANSLATED
-
+하지만, 많은 실험을 했음에도
+지금까지는 아무런 진전이 없다.
 > END STRING
 
 > BEGIN STRING
 听说，在地球另一面的某些地区的社会体系已经开始崩
 塌了，太多的人在这场瘟疫中死去了
 > CONTEXT: Map009/events/40/pages/0/7/Dialogue < UNTRANSLATED
-
+소식에 따르면, 이미 지구 반대편의
+어떤 나라에서는 이 역병으로 인해 사망자가
+많아, 사회가 붕괴되기 시작했다고 한다.
 > END STRING
 
 > BEGIN STRING
 我们恐怕，早都已经成为了携带者
 > CONTEXT: Map009/events/40/pages/0/11/Dialogue < UNTRANSLATED
-
+....우리도 진작에 보균자(*휴대자)가 되었을 것이다.
 > END STRING
 
 > BEGIN STRING
 如果我们不是人类…这个病毒就对我们束手无策了
 …对吧
 > CONTEXT: Map009/events/40/pages/0/14/Dialogue < UNTRANSLATED
-
+...우리가 인간이 아니라면,
+이 바이러스는.. 아무 영향도 없을 것이다.
+그래.
 > END STRING
