@@ -8,7 +8,7 @@
 > CONTEXT: Map086/events/26/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map086/events/27/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map084/events/9/pages/0/1/Dialogue < UNTRANSLATED
-
+열리지 않는다.
 > END STRING
 
 > BEGIN STRING
@@ -28,93 +28,114 @@
 > CONTEXT: Map014/events/71/pages/1/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/14/pages/1/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/59/pages/2/0/Dialogue < UNTRANSLATED
-
+긴장 때문에 동공이 수축하여
+기계가 동공을 인식하지 못한다!
 > END STRING
 
 > BEGIN STRING
 这些黑色的粘液生物构造与单细胞生物差不多
 > CONTEXT: Map087/events/25/pages/0/1/Dialogue < UNTRANSLATED
-
+이 검은 점액 생물들은,
+단세포 생물과 구조가 비슷하다.
 > END STRING
 
 > BEGIN STRING
 一个“核”，一团“流质”构成了它们的全部
 > CONTEXT: Map087/events/25/pages/0/4/Dialogue < UNTRANSLATED
-
+하나의 "핵" 과 "유질"이
+그들을 구성하는 전부이다.
 > END STRING
 
 > BEGIN STRING
 在最开始，它们只是一些微小的、被粘液包裹着的晶体
 碎片
 > CONTEXT: Map087/events/25/pages/0/7/Dialogue < UNTRANSLATED
-
+맨 처음 그것들은,
+드문드문 점액으로 싸여 있는
+작은 결정판 조각들이였다.
 > END STRING
 
 > BEGIN STRING
 那时候这些晶体没有固定的形状，也没有拟态能力，完
 全和“兽”搭不上关系
 > CONTEXT: Map087/events/25/pages/0/11/Dialogue < UNTRANSLATED
-
+그때 그것들은 제대로 된 형태도 없고,
+의태 형태조차 발견되지 않아
+"짐승" 이라는 것과는 거리가 멀었다.
 > END STRING
 
 > BEGIN STRING
 但在我们的培养之下…这些生物的部分基因开始觉醒
 > CONTEXT: Map087/events/25/pages/0/15/Dialogue < UNTRANSLATED
-
+하지만, 배양 과정 도중...
+이 생물들의 유전자가 발현하기 시작했다.
 > END STRING
 
 > BEGIN STRING
 为了适应环境，它们进化出了四足等器官，之后它们的
 外貌就越来越与狼相似
 > CONTEXT: Map087/events/25/pages/0/18/Dialogue < UNTRANSLATED
-
+환경에 적응하기 위해서, 
+그것들은 사족과 같은 기관들을 진화시켰고, 
+그것들의 외모는 점점 더 늑대와 비슷해졌다.
 > END STRING
 
 > BEGIN STRING
 它们甚至模仿起了我们，进化出了双足行走的能力，这
 也就是它们现在的样子的由来
 > CONTEXT: Map087/events/25/pages/0/22/Dialogue < UNTRANSLATED
-
+심지어 그것들은 우리를 모방하여
+이족보행하는 능력을 진화시켰는데, 
+이것은 그것들의 현재 모습에서 유래한 것이다..
 > END STRING
 
 > BEGIN STRING
 但事实上，并不只是狼，它们的基因就好像一块空白模
 板，可以兼容一切其他生物的基因
 > CONTEXT: Map087/events/25/pages/0/26/Dialogue < UNTRANSLATED
-
+하지만, 모양만 늑대의 것을 한 게 아니라
+공백틀과 같은 유전자 구조를 통해
+대부분 유전자와 호환이 가능하다.
 > END STRING
 
 > BEGIN STRING
 它们想变成什么就能变成什么，它们甚至会根据环境不
 同而进化出不同的分支
 > CONTEXT: Map087/events/25/pages/0/30/Dialogue < UNTRANSLATED
-
+원하는 것은 뭐든지 될 수 있고,
+심지어 다른 종으로 변화할 수 있다는 것이다.
 > END STRING
 
 > BEGIN STRING
 至于同化能力，那也只不过是它们拟态能力的附属而已
 > CONTEXT: Map087/events/25/pages/0/34/Dialogue < UNTRANSLATED
-
+"동화능력" 또한,
+그들의 의태능력 중 일부일 뿐이다.
 > END STRING
 
 > BEGIN STRING
 它们这种与生俱来的能力，让我有了一种可怕的猜想
 > CONTEXT: Map087/events/25/pages/0/37/Dialogue < UNTRANSLATED
-
+그것들의 그러한 능력들은..
+나에게 무서운 상상을 불러일으켰다.
 > END STRING
 
 > BEGIN STRING
 我曾写报告询问过最初的那些晶体碎片的来历，但上层
 说这些是人造生物
 > CONTEXT: Map087/events/25/pages/0/40/Dialogue < UNTRANSLATED
-
+나는 보고서를 통해 그 결정 조각들의 
+내력을 물어본 적이 있지만, 
+상부에선 이것들이 "인조 생물"이라고 말한다.
 > END STRING
 
 > BEGIN STRING
 人造？开什么玩笑，再过一百年我们也创造不出如此高
 级的生命！
 > CONTEXT: Map087/events/25/pages/0/44/Dialogue < UNTRANSLATED
-
+하, "인조" 라고?
+웃기고 자빠졌네, 백 년을 더 연구해도
+이렇게 고급스러운 생명을 창조할 수 없을 터!
 > END STRING
 
 > BEGIN STRING
@@ -123,55 +144,64 @@
 > CONTEXT: Map084/events/22/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/79/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/112/pages/0/1/Dialogue < UNTRANSLATED
-
+보고서 기록 더미.
 > END STRING
 
 > BEGIN STRING
 封锁这里花了我很长的时间
 > CONTEXT: Map087/events/26/pages/0/3/Dialogue < UNTRANSLATED
-
+이곳을 봉쇄하는 데
+생각보다 많은 시간이 걸렸다.
 > END STRING
 
 > BEGIN STRING
 我焊死了一些通风管道和门
 > CONTEXT: Map087/events/26/pages/0/5/Dialogue < UNTRANSLATED
-
+몇몇 통풍관과 문을 용접하여
+완전히 밀폐했다.
 > END STRING
 
 > BEGIN STRING
 我还搬来了重物堵住出口
 > CONTEXT: Map087/events/26/pages/0/7/Dialogue < UNTRANSLATED
-
+무거운 물건을 갖고 와서
+출구를 막기까지 했다.
 > END STRING
 
 > BEGIN STRING
 这样那位被验者即使醒来
 > CONTEXT: Map087/events/26/pages/0/9/Dialogue < UNTRANSLATED
-
+이렇게 한다면...
+그 피험자가 깨어나더라도,
 > END STRING
 
 > BEGIN STRING
 也是绝对不可能逃离这里的
 > CONTEXT: Map087/events/26/pages/0/11/Dialogue < UNTRANSLATED
-
+이곳을 탈출하는 것은
+거의 불가능할 것이다.
 > END STRING
 
 > BEGIN STRING
 等待着他的只有被同化变成胶兽这一条路
 > CONTEXT: Map087/events/26/pages/0/13/Dialogue < UNTRANSLATED
-
+그를 기다리는 미래는
+"동화" 되어 그들의 일족이 되는
+절망적인 미래 뿐이다.
 > END STRING
 
 > BEGIN STRING
 我没办法时常上楼来检查那位被验者的情况
 > CONTEXT: Map087/events/26/pages/0/15/Dialogue < UNTRANSLATED
-
+더 이상 위층으로 올라가서,
+그 피험자의 상태를 정기적으로
+검사할 방법도 없다.
 > END STRING
 
 > BEGIN STRING
 所以目前也只能这样处理他了
 > CONTEXT: Map087/events/26/pages/0/17/Dialogue < UNTRANSLATED
-
+...그래서 지금은 이게 최선이다.
 > END STRING
 
 > BEGIN STRING
@@ -180,7 +210,7 @@
 > CONTEXT: Map084/events/22/pages/0/17/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/79/pages/0/17/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/112/pages/0/15/Dialogue < UNTRANSLATED
-
+보고 종료.
 > END STRING
 
 > BEGIN STRING
@@ -200,5 +230,6 @@
 > CONTEXT: Map010/events/208/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map010/events/209/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/50/pages/0/0/Dialogue < UNTRANSLATED
-
+1구짜리 콘센트.
+특별한 게 있을 리가 있나.
 > END STRING
