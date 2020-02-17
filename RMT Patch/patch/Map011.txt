@@ -115,14 +115,13 @@
 > CONTEXT: Map011/events/230/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/234/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/235/pages/0/0/Dialogue < UNTRANSLATED
-이상한 모양을 한 유리 깡통.
+특이한 형태의 유리병이다.
 > END STRING
 
 > BEGIN STRING
 这是我喂你做的伪装服，我花了好常时间才学会针线活
 ，好好力用这个吧！
 > CONTEXT: Map011/events/54/pages/0/1/Dialogue < UNTRANSLATED
-(푸로 대사)
 너를 위해 만든 위장복이야!
 이거 만드느라 바느질을 배우는 데 많은 시간을 썼어..
 잘 써봐!
@@ -167,162 +166,168 @@
 > BEGIN STRING
 你还真是坚持不懈啊
 > CONTEXT: Map011/events/126/pages/0/12/Dialogue < UNTRANSLATED
-넌 아직도 끈질기구나.
+당신 아직도 끈질기군요.
 > END STRING
 
 > BEGIN STRING
 我吓到你了吗
 > CONTEXT: Map011/events/126/pages/0/23/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/126/pages/1/22/Dialogue < UNTRANSLATED
-
+내가 당신을 놀래켰나요.
 > END STRING
 
 > BEGIN STRING
 那还真是不好意思
 > CONTEXT: Map011/events/126/pages/0/25/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/126/pages/1/24/Dialogue < UNTRANSLATED
-
+그거 참 죄송하군요.
 > END STRING
 
 > BEGIN STRING
 我没想到你居然趁我不注意都走到这里来了
 > CONTEXT: Map011/events/126/pages/0/27/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/126/pages/1/26/Dialogue < UNTRANSLATED
-
+당신이 뜻밖에도 제가 주의하지 않는 틈을 타
+여기까지 오리라 생각하지 못했습니다.
 > END STRING
 
 > BEGIN STRING
 你是怎么把那些重箱子搬走的
 > CONTEXT: Map011/events/126/pages/0/29/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/126/pages/1/42/Dialogue < UNTRANSLATED
-
+당신 어떻게 그 무거운 상자를 이동시켰습니까
 > END STRING
 
 > BEGIN STRING
 你知道我为了把那个门堵上花了多少力气吗
 > CONTEXT: Map011/events/126/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/126/pages/1/44/Dialogue < UNTRANSLATED
-
+제가 그 문을 막기위해 얼마나 힘을 썼는지 아십니까
 > END STRING
 
 > BEGIN STRING
 不尊重他人努力的人就该受到惩罚
 > CONTEXT: Map011/events/126/pages/0/33/Dialogue < UNTRANSLATED
-
+타인의 노력을 존중하지 않는 자는
+벌을 받아야 합니다.
 > END STRING
 
 > BEGIN STRING
 但我想我应该不需要亲自动手了
 > CONTEXT: Map011/events/126/pages/0/36/Dialogue < UNTRANSLATED
-
+하지만 제가 직접 손을 쓸 필요는 없을 것 같습니다.
 > END STRING
 
 > BEGIN STRING
 快跑吧
 > CONTEXT: Map011/events/126/pages/0/38/Dialogue < UNTRANSLATED
-
+빨리 도망쳐보시죠
 > END STRING
 
 > BEGIN STRING
 如果你跑得动的话
 > CONTEXT: Map011/events/126/pages/0/40/Dialogue < UNTRANSLATED
-
+만약 당신이 뛰어서 살 수 있다면 말이죠
 > END STRING
 
 > BEGIN STRING
 快逃！
 > CONTEXT: Map011/events/126/pages/0/54/Dialogue < UNTRANSLATED
-
+어서 도망쳐야해！
 > END STRING
 
 > BEGIN STRING
 你以为我看不出来你是谁吗
 > CONTEXT: Map011/events/126/pages/1/12/Dialogue < UNTRANSLATED
-
+당신이 누구인지 제가 모를꺼라 생각하십니까?
 > END STRING
 
 > BEGIN STRING
 那件伪装服是那混蛋留给你的吗
 > CONTEXT: Map011/events/126/pages/1/28/Dialogue < UNTRANSLATED
-
+그 위장복은 그 빌어먹을 놈이 당신에게 준겁니까
 > END STRING
 
 > BEGIN STRING
 早知道我就应该多花点时间
 > CONTEXT: Map011/events/126/pages/1/30/Dialogue < UNTRANSLATED
-
+진작에 알았다면 시간을 더 들이는 것이였는데
 > END STRING
 
 > BEGIN STRING
 把那混蛋给你留下的帮助都毁掉
 > CONTEXT: Map011/events/126/pages/1/32/Dialogue < UNTRANSLATED
-
+그 빌어먹을 놈이 당신에게 남긴 도움을
+다 치워버려야 겠습니다.
 > END STRING
 
 > BEGIN STRING
 但是随意了
 > CONTEXT: Map011/events/126/pages/1/34/Dialogue < UNTRANSLATED
-
+그렇지만 마음대로 하세요
 > END STRING
 
 > BEGIN STRING
 如果你能到达那混蛋那里也不会改变什么
 > CONTEXT: Map011/events/126/pages/1/36/Dialogue < UNTRANSLATED
-
+만약 당신이 그 빌어먹을 놈에게 도달한다 해도
+아무것도 바뀌지 않을겁니다.
 > END STRING
 
 > BEGIN STRING
 那混蛋的目的我是最清楚的
 > CONTEXT: Map011/events/126/pages/1/38/Dialogue < UNTRANSLATED
-
+그 빌어먹을 놈의 목적은 제가 잘 알고있습니다.
 > END STRING
 
 > BEGIN STRING
 我比较好奇的是
 > CONTEXT: Map011/events/126/pages/1/40/Dialogue < UNTRANSLATED
-
+전 무엇을 믿는지 궁금하군요
 > END STRING
 
 > BEGIN STRING
 我奉劝你赶快放弃
 > CONTEXT: Map011/events/126/pages/1/46/Dialogue < UNTRANSLATED
-
+충고하겠는데 포기하세요.
 > END STRING
 
 > BEGIN STRING
 我是不可能让你离开这个研究所的
 > CONTEXT: Map011/events/126/pages/1/48/Dialogue < UNTRANSLATED
-
+전 당신이 이 연구소를 빠져나가게 할 수 없습니다.
 > END STRING
 
 > BEGIN STRING
 尽早变成胶兽对你来说或许会更好
 > CONTEXT: Map011/events/126/pages/1/50/Dialogue < UNTRANSLATED
-
+가능한 빨리 점액이 되는게
+당신에게 더 좋을지도 모릅니다.
 > END STRING
 
 > BEGIN STRING
 反正你是不会乖乖就范的对吧
 > CONTEXT: Map011/events/126/pages/1/55/Dialogue < UNTRANSLATED
-
+어쩌피 당신은 순순히 따르지 않겠죠
 > END STRING
 
 > BEGIN STRING
 但我想你也不可能通过下一个区域
 > CONTEXT: Map011/events/126/pages/1/57/Dialogue < UNTRANSLATED
-
+하지만 당신을 보고싶어도
+다음 구역은 통과할 수 없습니다.
 > END STRING
 
 > BEGIN STRING
 我现在根本不需要出手
 > CONTEXT: Map011/events/126/pages/1/59/Dialogue < UNTRANSLATED
-
+지금은 제가 손쓸 필요가 없습니다.
 > END STRING
 
 > BEGIN STRING
 再见咯
 > CONTEXT: Map011/events/126/pages/1/61/Dialogue < UNTRANSLATED
-
+안녕히계세요.
 > END STRING
 
 > BEGIN STRING
@@ -331,13 +336,17 @@
 你的基因”这件事更加热衷，这完全违背研究的初衷，
 我们想要解决瘟疫末日，而不是创造怪物
 > CONTEXT: Map011/events/127/pages/0/1/Dialogue < UNTRANSLATED
-
+그들의 진화속도는 이미 상상을 뛰어넘었다… 
+원래 바이러스를 치료하는데에 사용하려 했었는데, 
+지금보니, 그것들은 "기생하고 유전자를 개조하는 일"에 열중하고 있다. 
+이건 연구의 초심에 완전히 반하는 것이고, 우리가 역병의 종말을 해결하는게 아닌, 괴물을 창조해내고 있던 것이다.
+<대사 수정필요>
 > END STRING
 
 > BEGIN STRING
 电脑显示屏
 > CONTEXT: Map011/events/132/pages/0/0/Dialogue < UNTRANSLATED
-
+컴퓨터 화면이다.
 > END STRING
 
 > BEGIN STRING
@@ -346,7 +355,7 @@
 > CONTEXT: Map011/events/173/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/180/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/182/pages/0/0/Dialogue < UNTRANSLATED
-
+단단하게 굳은 검은색 점액이다.
 > END STRING
 
 > BEGIN STRING
@@ -355,7 +364,10 @@
 的乱扑，这种择优的出现已经不是一次两次，我把这些
 担忧上报了上去，但被告知这批胶兽样本已经被放弃了
 > CONTEXT: Map011/events/193/pages/0/1/Dialogue < UNTRANSLATED
-
+아무도 내 말을 믿지 않지만, 이 샘플의 지능 발전 속도는 정말 빠르다.
+그들은 벌써 무작정 돌진하는 것이 아니라 더욱 좋은 숙주를 선택하기 시작했다. 
+이런 선택의 출현은 벌써 한 두번이 아니었기에, 나는 걱정되어 
+위에 보고하였으나, 이 샘플은 이미 실패했다는 대답만 돌아왔다
 > END STRING
 
 > BEGIN STRING
@@ -364,17 +376,21 @@
 、代谢来加强自身由粘液组成的身体并进化；或者把被
 验者吸收掉，再同化为同类并将其分裂成一只新的胶兽
 > CONTEXT: Map011/events/195/pages/0/1/Dialogue < UNTRANSLATED
-
+지금까지 진행한 인체실험은 모두 실패했다. 이 샘플은 
+인체 견본에 대해 두 가지 선택을 한다 : 인간의 몸에 기생하여, 
+근육, 골격, 신진대사의 도움을 받아 나약한 점액으로 된 자신을 강화하는 것 ; 
+혹은 인간을 집어삼켜, 자신과 같은 상태로 바꾸어 새로운 한마리를 분열해내는 것
+<수정필요>
 > END STRING
 
 > BEGIN STRING
 现在没空看杯子！
 > CONTEXT: Map011/events/202/pages/0/0/Dialogue < UNTRANSLATED
-
+지금은 빈 컵을 볼 시간이 없다!
 > END STRING
 
 > BEGIN STRING
 真是个精美的杯子啊
 > CONTEXT: Map011/events/202/pages/1/0/Dialogue < UNTRANSLATED
-
+이 얼마나 아름다운 컵인가
 > END STRING
