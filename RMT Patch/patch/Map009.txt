@@ -22,7 +22,7 @@
 > CONTEXT: Map009/events/22/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/26/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/43/pages/0/0/Dialogue < UNTRANSLATED
-벽이 드러나는, 작은 강철관.
+강철 파이프의 일부가 벽 밖으로 튀어나와 있다.
 > END STRING
 
 > BEGIN STRING
@@ -42,77 +42,89 @@
 你在翻这堆旧垃圾的时候，被一个旧针管狠狠的扎了一
 下手指
 > CONTEXT: Map009/events/23/pages/0/12/Dialogue < UNTRANSLATED
-
+낡은 잡동사니를 뒤적거리다, 
+오래된 주삿바늘에 손을 세게 찔렸다.
 > END STRING
 
 > BEGIN STRING
 伤口没有出血，你便没怎么在意
 > CONTEXT: Map009/events/23/pages/0/15/Dialogue < UNTRANSLATED
-
+피가 나진 않아서, 크게 신경 쓰진 않았다.
 > END STRING
 
 > BEGIN STRING
 但还不到一分钟，你的身体就开始热了起来
 > CONTEXT: Map009/events/23/pages/0/17/Dialogue < UNTRANSLATED
-
+그러나 일 분도 되지 않아,
+몸에서 열이 나기 시작한다.
 > END STRING
 
 > BEGIN STRING
 你的脑袋也有点晕晕乎乎…视线也模糊起来…
 > CONTEXT: Map009/events/23/pages/0/23/Dialogue < UNTRANSLATED
-
+머리도 조금 어지럽고… 시야도 흐려져간다…
 > END STRING
 
 > BEGIN STRING
 你挣扎了几下却无济于事，你连站起来的力气都没有了
 > CONTEXT: Map009/events/23/pages/0/25/Dialogue < UNTRANSLATED
-
+몇차례 버텨보려하지만, 소용없는 짓이다.
+서있을 힘조차 없다.
 > END STRING
 
 > BEGIN STRING
 你觉得自己一定是要死了，那可能是一针毒剂
 > CONTEXT: Map009/events/23/pages/0/27/Dialogue < UNTRANSLATED
-
+정말 이대로 죽을 것 같다.
+그건 아마 독성 물질이였을테지
 > END STRING
 
 > BEGIN STRING
 然而随着一阵奇怪的异响，你发觉自己的耳朵奇迹般的
 变尖变长，你还能自由的控制这双耳朵抖动
 > CONTEXT: Map009/events/23/pages/0/32/Dialogue < UNTRANSLATED
-
+그러나 이상한 소리와 함께,
+자신의 귀가 이상할 정도로 뾰족하고 길어지며,
+자유자재로 흔들 수도 있게 되었다.
 > END STRING
 
 > BEGIN STRING
 紧接着你又发现你的身上开始长出依稀可见的绒毛，这
 些绒毛和你的发色一样
 > CONTEXT: Map009/events/23/pages/0/35/Dialogue < UNTRANSLATED
-
+이어서 몸에도 머리와 같은 색의 털이 조금씩 
+자라기 시작한다.
 > END STRING
 
 > BEGIN STRING
 你扯了扯自己的毛，有点痛，这是真的
 > CONTEXT: Map009/events/23/pages/0/38/Dialogue < UNTRANSLATED
-
+자신의 털을 당겨보자, 좀 아프다. 진짜 털이다.
 > END STRING
 
 > BEGIN STRING
 身体越来越热，大量的毛发从你的皮肤涌出，你努力保
 持镇定，看着自己慢慢的变成一匹狼
 > CONTEXT: Map009/events/23/pages/0/43/Dialogue < UNTRANSLATED
-
+점점 몸이 달아오르며,
+대량의 털이 네 피부에서 자라난다.
+자신이 천천히 한 마리 늑대가 되어가는 것을
+바라보면서, 침착함을 유지하려 노력했다.
 > END STRING
 
 > BEGIN STRING
 你伸长的牙齿咬到了你的舌头，指甲也发疯的生长
 > CONTEXT: Map009/events/23/pages/0/46/Dialogue < UNTRANSLATED
-
+길어진 이빨이 네 혀를 깨물고,
+손톱도 길어지고 있다.
 > END STRING
 
 > BEGIN STRING
 你初生的小尾巴在后面不经意的摇来摇去，尾椎上现在
 多出了一条重物
 > CONTEXT: Map009/events/23/pages/0/48/Dialogue < UNTRANSLATED
-
+처음으로 생긴 작은 꼬리는 뒤에서 멋대로 흔들린다. 
+이젠 꼬리뼈 위로 무거운 뭔가가 자리 잡고 있었다.
 > END STRING
 
 > BEGIN STRING
@@ -120,68 +132,72 @@
 ，看到自己的鼻子离自己眼睛的距离有些变长了，你又
 伸出手，摸了摸自己顺滑的毛
 > CONTEXT: Map009/events/23/pages/0/54/Dialogue < UNTRANSLATED
-
+곧 조용해졌고, 털도 더 이상 자라지 않는다.
+눈을 뜨자, 코와 눈 사이의 거리가 멀어져 있었다.
+넌 손을 뻗어 자신의 부드러운 털을 만져봤다.
 > END STRING
 
 > BEGIN STRING
 你变成了一只狼人，真真切切的，毛茸茸的狼人，虽然
 没影视剧里那么壮硕
 > CONTEXT: Map009/events/23/pages/0/58/Dialogue < UNTRANSLATED
-
+넌 한 마리 늑대인간이 되었다. TV에서 나오는 것처럼 
+크고 강하진 않지만, 털로 덮인 진짜 늑대 인간이었다…
 > END STRING
 
 > BEGIN STRING
 你不知所措的就那么蹲在地上，有点难以置信，又有点
 …开心，你的听觉、嗅觉异常发达，真是奇妙的感觉
 > CONTEXT: Map009/events/23/pages/0/61/Dialogue < UNTRANSLATED
-
+넌 어쩔 줄 몰라 그 자리에서 주저앉았다. 
+좀 믿어지지 않지만, 조금은… 기뻤다. 
+청각과 후각이 비정상적으로 발달한 게, 
+신기한 느낌이다.
 > END STRING
 
 > BEGIN STRING
 但你已经没有人类的样子了…你无法再变回去了
 > CONTEXT: Map009/events/23/pages/0/64/Dialogue < UNTRANSLATED
-
+대신 더이상 사람의 모습이 아니지만…
+다신 돌아갈 수 없다.
 > END STRING
 
 > BEGIN STRING
 至少你变帅了，你这么安慰自己，然后甩了甩尾巴
 > CONTEXT: Map009/events/23/pages/0/66/Dialogue < UNTRANSLATED
-
+적어도 잘생겨졌잖아, 
+그렇게 자신을 위로하며 꼬리를 흔들었다.
 > END STRING
 
 > BEGIN STRING
 那么，接下来，怎么办呢…
 > CONTEXT: Map009/events/23/pages/0/68/Dialogue < UNTRANSLATED
-
+그럼, 이 다음부턴 어쩌지…
 > END STRING
 
 > BEGIN STRING
 没有必要回去了，继续前进吧
 > CONTEXT: Map009/events/24/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map009/events/25/pages/0/0/Dialogue < UNTRANSLATED
-돌아볼 필요 없다.
-계속해서 나아가자.
+돌아갈 필요는 없다. 계속 나아가자
 > END STRING
 
 > BEGIN STRING
 办公守则，条条框框写满了整张单子
 > CONTEXT: Map009/events/28/pages/0/0/Dialogue < UNTRANSLATED
-업무 수칙과 규칙인 듯하다.
-영수증으로 가득 차 있다..
+사무중 수칙, 각종 규정이 종이 가득 적혀있다.
 > END STRING
 
 > BEGIN STRING
 你感觉你要是再继续看下去，脑袋得胀大三倍
 > CONTEXT: Map009/events/28/pages/0/2/Dialogue < UNTRANSLATED
-이걸 계속 들여다보고 있으려면..
-머리가 세 배는 커야 할 것 같아.
+이걸 계속 읽으려면, 뇌가 3배는 커져야할 것 같다.
 > END STRING
 
 > BEGIN STRING
 在这最下面着重写着：“不准在办公室跑步！”
 > CONTEXT: Map009/events/28/pages/0/5/Dialogue < UNTRANSLATED
-맨 아래에 이렇게 쓰여 있다.
-"사무실에서 뛰면 안 돼!"
+가장 아래에 적혀있길 : "사무실에선 뛰지 마세요！"
 > END STRING
 
 > BEGIN STRING
@@ -194,15 +210,14 @@
 > BEGIN STRING
 我试着把动物的基因混进人的基因中
 > CONTEXT: Map009/events/40/pages/0/1/Dialogue < UNTRANSLATED
-나는 동물의 유전자를 사람의 것에
-섞어보았다.
+난 동물의 유전자를 인간의 유전자에 끼어넣으려했다.
 > END STRING
 
 > BEGIN STRING
 我做了很多实验，但直到现在都没有什么有效的办法
 > CONTEXT: Map009/events/40/pages/0/4/Dialogue < UNTRANSLATED
-하지만, 많은 실험을 했음에도
-지금까지는 아무런 진전이 없다.
+많은 방법을 시도해봤지만,
+여태것 효과가 있는 방법은 찾지 못했다.
 > END STRING
 
 > BEGIN STRING
@@ -217,14 +232,14 @@
 > BEGIN STRING
 我们恐怕，早都已经成为了携带者
 > CONTEXT: Map009/events/40/pages/0/11/Dialogue < UNTRANSLATED
-....우리도 진작에 보균자(*휴대자)가 되었을 것이다.
+우린 두렵다, 이미 다들 감염자가 됐을테지
 > END STRING
 
 > BEGIN STRING
 如果我们不是人类…这个病毒就对我们束手无策了
 …对吧
 > CONTEXT: Map009/events/40/pages/0/14/Dialogue < UNTRANSLATED
-...우리가 인간이 아니라면,
-이 바이러스는.. 아무 영향도 없을 것이다.
-그래.
+만약 우리가 인간이 아니라면…
+바이러스는 우리에게 아무것도 못하겠지
+…그렇겠지
 > END STRING
