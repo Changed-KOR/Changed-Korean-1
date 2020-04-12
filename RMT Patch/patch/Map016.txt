@@ -1,132 +1,102 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-一块小小的结晶凸起
-> CONTEXT: Map016/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/70/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/80/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/81/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/82/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/161/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/163/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/177/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/34/pages/0/0/Dialogue < UNTRANSLATED
+画的是什么已经完全看不清楚了
+> CONTEXT: Map016/events/5/pages/0/0/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-方形的，被粘液覆盖的……某种东西
-> CONTEXT: Map016/events/29/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/72/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/73/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/74/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/75/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/76/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/99/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/101/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/102/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/120/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/121/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/122/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/147/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/148/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/149/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/150/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/157/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/158/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/165/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/176/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/178/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/179/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/180/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/13/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/15/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/16/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/27/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-它没有动弹……
-> CONTEXT: Map016/events/96/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/119/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/127/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/33/pages/0/0/Dialogue < UNTRANSLATED
+被粘液覆盖的某种大型器械
+> CONTEXT: Map016/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/181/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/236/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/255/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/266/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/267/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map007/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map007/events/42/pages/0/0/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-人造物出现了衰老的迹象
+黑色胶兽在受到致命的攻击，或到达寿命的终点时便会
+硬化、结晶，进入另一种形态
 > CONTEXT: Map016/events/98/pages/0/1/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-他们开始硬化，然后结晶
-> CONTEXT: Map016/events/98/pages/0/4/Dialogue < UNTRANSLATED
+这种暗色透明的结晶在成长到足够大的时候，会自发的
+分裂成数个黑色胶兽幼崽
+> CONTEXT: Map016/events/98/pages/0/5/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-部分晶体会在一段时间后爆开…然后产生更多个体复制
-> CONTEXT: Map016/events/98/pages/0/7/Dialogue < UNTRANSLATED
+黑色胶兽幼崽没有同化的能力，它们只会黏在你的腿上
+，让你难以挪步
+> CONTEXT: Map016/events/98/pages/0/9/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-我本想仔细研究的，但现在已经没时间了
-> CONTEXT: Map016/events/98/pages/0/10/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-不过目前有迹象证明…那种结晶产生的胶体……
+但也正因为这一特性，一些研究员偷偷的把黑色胶兽幼
+崽当做宠物在养，毕竟这里的研究生活实在太无聊了
 > CONTEXT: Map016/events/98/pages/0/13/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-可能融合了多种动物基因
-> CONTEXT: Map016/events/98/pages/0/16/Dialogue < UNTRANSLATED
+回到之前的话题，我们将变成了结晶的黑色胶兽称为父
+类，将结晶分裂而诞生出来的黑色胶兽幼崽称为子类
+> CONTEXT: Map016/events/98/pages/0/17/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-今天，有个同事被那种水晶深深地割伤了
+根据A组的研究，某些分裂后的子类会掌握一些父类生前
+所拥有的知识
+> CONTEXT: Map016/events/98/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+如果条件允许，黑色胶兽可以凭借这个能力极大的提升
+智力，我们已经发现了几只智力极高的黑色胶兽了
+> CONTEXT: Map016/events/98/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但这并不会证明什么，它们都是失败品，这也是为什么
+它们只能待在玻璃罐子里
+> CONTEXT: Map016/events/98/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+至于白色胶兽，B组暂时没有提交关于这方面的报告
+> CONTEXT: Map016/events/98/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伤员职位：C组研究员
+伤病原因：被绿色水晶划伤
+伤病情况：无明显外伤，但受到了大量能量辐射
 > CONTEXT: Map016/events/105/pages/0/1/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-他很头晕，我们为他做了身体检查
-> CONTEXT: Map016/events/105/pages/0/4/Dialogue < UNTRANSLATED
+医嘱：明明只是划伤，伤口却马上就愈合了，而且种种
+迹象表明他在一瞬间受到了大量的类似辐射的能量冲击
+> CONTEXT: Map016/events/105/pages/0/6/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-一切迹象都表明他受到了大量辐射，真奇怪
-> CONTEXT: Map016/events/105/pages/0/7/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-你要好好考虑是否要在此使用储存机器……
-> CONTEXT: Map016/events/137/pages/0/0/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-看不清楚……
-> CONTEXT: Map016/events/142/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/143/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/144/pages/0/0/Dialogue < UNTRANSLATED
+医嘱2：伤者的皮肤开始变硬，立即转入观察室进行紧急
+观察处理，等待采取下一步行动
+> CONTEXT: Map016/events/105/pages/0/10/Dialogue < UNTRANSLATED
 
 > END STRING
