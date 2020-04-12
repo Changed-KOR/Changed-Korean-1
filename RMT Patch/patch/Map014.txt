@@ -119,7 +119,55 @@
 > CONTEXT: Map002/events/71/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/72/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/73/pages/0/0/Dialogue < UNTRANSLATED
-분명히, 통행을 금지하는 듯 하다.
+분명히, 통행을 금지하는 물건이다.
+> END STRING
+
+> BEGIN STRING
+集装箱
+> CONTEXT: Map014/events/14/pages/0/0/Dialogue
+> CONTEXT: Map014/events/22/pages/0/0/Dialogue
+> CONTEXT: Map014/events/29/pages/0/0/Dialogue
+> CONTEXT: Map014/events/32/pages/0/0/Dialogue
+> CONTEXT: Map014/events/40/pages/0/0/Dialogue
+> CONTEXT: Map014/events/51/pages/0/0/Dialogue
+> CONTEXT: Map014/events/53/pages/0/0/Dialogue
+> CONTEXT: Map014/events/55/pages/0/0/Dialogue
+> CONTEXT: Map014/events/64/pages/0/0/Dialogue
+> CONTEXT: Map014/events/66/pages/0/0/Dialogue
+> CONTEXT: Map014/events/78/pages/0/0/Dialogue
+> CONTEXT: Map014/events/81/pages/0/0/Dialogue
+> CONTEXT: Map014/events/88/pages/0/0/Dialogue
+> CONTEXT: Map014/events/99/pages/0/0/Dialogue
+> CONTEXT: Map014/events/105/pages/0/0/Dialogue
+> CONTEXT: Map014/events/112/pages/0/0/Dialogue
+> CONTEXT: Map014/events/117/pages/0/0/Dialogue
+> CONTEXT: Map014/events/119/pages/0/0/Dialogue
+> CONTEXT: Map014/events/189/pages/0/0/Dialogue
+> CONTEXT: Map014/events/192/pages/0/0/Dialogue
+> CONTEXT: Map014/events/199/pages/0/0/Dialogue
+> CONTEXT: Map014/events/200/pages/0/0/Dialogue
+> CONTEXT: Map014/events/201/pages/0/0/Dialogue
+> CONTEXT: Map014/events/216/pages/0/0/Dialogue
+> CONTEXT: Map014/events/217/pages/0/0/Dialogue
+> CONTEXT: Map014/events/225/pages/0/0/Dialogue
+> CONTEXT: Map014/events/228/pages/0/0/Dialogue
+> CONTEXT: Map014/events/231/pages/0/0/Dialogue
+> CONTEXT: Map014/events/242/pages/0/0/Dialogue
+> CONTEXT: Map014/events/245/pages/0/0/Dialogue
+> CONTEXT: Map014/events/269/pages/0/0/Dialogue
+> CONTEXT: Map014/events/270/pages/0/0/Dialogue
+> CONTEXT: Map014/events/272/pages/0/0/Dialogue
+> CONTEXT: Map014/events/276/pages/0/0/Dialogue
+> CONTEXT: Map014/events/307/pages/0/0/Dialogue
+> CONTEXT: Map014/events/315/pages/0/0/Dialogue
+> CONTEXT: Map014/events/320/pages/0/0/Dialogue
+> CONTEXT: Map014/events/338/pages/0/0/Dialogue
+> CONTEXT: Map014/events/341/pages/0/0/Dialogue
+> CONTEXT: Map014/events/400/pages/0/0/Dialogue
+> CONTEXT: Map014/events/405/pages/0/0/Dialogue
+> CONTEXT: Map014/events/406/pages/0/0/Dialogue
+> CONTEXT: Map014/events/409/pages/0/0/Dialogue
+컨테이너다.
 > END STRING
 
 > BEGIN STRING
@@ -143,17 +191,10 @@
 > END STRING
 
 > BEGIN STRING
-被改造兽化后的受验者也有对病毒的抗性，不会再被传
-染
-> CONTEXT: Map014/events/89/pages/0/7/Dialogue < UNTRANSLATED
-개조를 받거나 수화를 당한 후의 피실험자도 
-바이러스에 내성이 생겨, 다시 전염되지 않는다.
-> END STRING
-
-> BEGIN STRING
 某人的画作，和之前看到的很明显是同一人的手笔
 > CONTEXT: Map014/events/153/pages/0/0/Dialogue < UNTRANSLATED
-다만 이 두 피실험자 모두 자아를 잃게 되었다.
+누군가의 그림은, 전에 본 것과 분명히 
+같은 사람의 그림이다.
 > END STRING
 
 > BEGIN STRING
@@ -279,4 +320,36 @@
 那只胶兽猫被这个诱饵吓了一跳，趁这个时机逃走吧！
 > CONTEXT: Map014/events/410/pages/0/3/Dialogue < UNTRANSLATED
 점액 고양이가 미끼에 놀라 도망칠 기회가 생겼다！
+> END STRING
+
+> BEGIN STRING
+被改造兽化后的被验者也有对病毒的抗性，不会再被传
+染
+> CONTEXT: Map014/events/89/pages/0/7/Dialogue < UNTRANSLATED
+개조된 짐승화된 피험자들도 
+바이러스에 대한 내성을 가지고 있으며, 
+다시는 전염되지 않는다.
+> END STRING
+
+> BEGIN STRING
+胶兽虽然看起来黏糊糊的，似乎很容易沾上脏东西
+> CONTEXT: Map014/events/89/pages/0/11/Dialogue < UNTRANSLATED
+점액짐승은 끈적끈적해 보이고, 
+더러운 것이 묻기 쉬운 것 같다.
+> END STRING
+
+> BEGIN STRING
+但它们的粘液身体会自动排斥灰尘、细菌，或者空气中
+的杂质等污染物
+> CONTEXT: Map014/events/89/pages/0/14/Dialogue < UNTRANSLATED
+그러나 그것들의 점액 몸체는 먼지, 
+박테리아, 또는 공기중의 불순물과 같은 
+오염물을 자동으로 배척한다.
+> END STRING
+
+> BEGIN STRING
+我敢说胶兽是世界上最干净的生物
+> CONTEXT: Map014/events/89/pages/0/18/Dialogue < UNTRANSLATED
+나는 감히 점액짐승이 세상에서 
+가장 깨끗한 생물이라고 말할 수 있다.
 > END STRING
