@@ -209,3 +209,9 @@
 > CONTEXT: Map010/events/226/pages/0/1/Dialogue < UNTRANSLATED
 <번역불가>
 > END STRING
+
+> BEGIN STRING
+现在不想坐
+> CONTEXT: Map010/events/151/pages/0/0/Dialogue < UNTRANSLATED
+지금은 앉고 싶지 않다.
+> END STRING
