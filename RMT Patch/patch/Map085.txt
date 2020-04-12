@@ -247,3 +247,22 @@
 > CONTEXT: Map085/events/40/pages/1/6/Dialogue < UNTRANSLATED
 ..물론 당신이 그것을 여기로 유인해온다면.
 > END STRING
+
+> BEGIN STRING
+笨重的铁箱挡住了前进的去路
+> CONTEXT: Map085/events/109/pages/0/13/Dialogue
+육중한 철 상자가 지나갈 진로를 막고있다.
+> END STRING
+
+> BEGIN STRING
+你知道以自己的力量是不可能搬开这个箱子的
+> CONTEXT: Map085/events/109/pages/0/15/Dialogue
+당신은 자신의 힘으로는 상자를 
+옮길 수 없다는 것을 알고 있다.
+> END STRING
+
+> BEGIN STRING
+想想别的办法吧
+> CONTEXT: Map085/events/109/pages/0/20/Dialogue
+다른 방법을 생각해보자
+> END STRING
