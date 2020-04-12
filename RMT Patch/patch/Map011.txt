@@ -202,7 +202,8 @@
 你知道我为了把那个门堵上花了多少力气吗
 > CONTEXT: Map011/events/126/pages/0/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map011/events/126/pages/1/44/Dialogue < UNTRANSLATED
-제가 그 문을 막기위해 얼마나 힘을 썼는지 아십니까
+제가 그 문을 막기위해 얼마나
+힘을 썼는지 아십니까
 > END STRING
 
 > BEGIN STRING
@@ -215,7 +216,8 @@
 > BEGIN STRING
 但我想我应该不需要亲自动手了
 > CONTEXT: Map011/events/126/pages/0/36/Dialogue < UNTRANSLATED
-하지만 제가 직접 손을 쓸 필요는 없을 것 같습니다.
+하지만 제가 직접 손을 쓸 필요는
+없을 것 같습니다.
 > END STRING
 
 > BEGIN STRING
@@ -239,26 +241,29 @@
 > BEGIN STRING
 你以为我看不出来你是谁吗
 > CONTEXT: Map011/events/126/pages/1/12/Dialogue < UNTRANSLATED
-당신이 누구인지 제가 모를꺼라 생각하십니까?
+당신이 누구인지 제가 모를꺼라
+생각하십니까?
 > END STRING
 
 > BEGIN STRING
 那件伪装服是那混蛋留给你的吗
 > CONTEXT: Map011/events/126/pages/1/28/Dialogue < UNTRANSLATED
-그 위장복은 그 빌어먹을 놈이 당신에게 준겁니까
+그 위장복은 그 빌어먹을 놈이
+당신에게 준겁니까
 > END STRING
 
 > BEGIN STRING
 早知道我就应该多花点时间
 > CONTEXT: Map011/events/126/pages/1/30/Dialogue < UNTRANSLATED
-진작에 알았다면 시간을 더 들이는 것이였는데
+진작에 알았다면 시간을 더 들이는
+것이였는데
 > END STRING
 
 > BEGIN STRING
 把那混蛋给你留下的帮助都毁掉
 > CONTEXT: Map011/events/126/pages/1/32/Dialogue < UNTRANSLATED
-그 빌어먹을 놈이 당신에게 남긴 도움을
-다 치워버려야 겠습니다.
+그 빌어먹을 놈이 당신에게 남긴
+도움을 다 치워버려야 겠습니다.
 > END STRING
 
 > BEGIN STRING
@@ -270,14 +275,15 @@
 > BEGIN STRING
 如果你能到达那混蛋那里也不会改变什么
 > CONTEXT: Map011/events/126/pages/1/36/Dialogue < UNTRANSLATED
-만약 당신이 그 빌어먹을 놈에게 도달한다 해도
-아무것도 바뀌지 않을겁니다.
+만약 당신이 그 빌어먹을 놈에게 도달한다
+해도 아무것도 바뀌지 않을겁니다.
 > END STRING
 
 > BEGIN STRING
 那混蛋的目的我是最清楚的
 > CONTEXT: Map011/events/126/pages/1/38/Dialogue < UNTRANSLATED
-그 빌어먹을 놈의 목적은 제가 잘 알고있습니다.
+그 빌어먹을 놈의 목적은
+제가 잘 알고있습니다.
 > END STRING
 
 > BEGIN STRING
@@ -338,9 +344,11 @@
 > CONTEXT: Map011/events/127/pages/0/1/Dialogue < UNTRANSLATED
 그들의 진화속도는 이미 상상을 뛰어넘었다… 
 원래 바이러스를 치료하는데에 사용하려 했었는데, 
-지금보니, 그것들은 "기생하고 유전자를 개조하는 일"에 열중하고 있다. 
-이건 연구의 초심에 완전히 반하는 것이고, 우리가 역병의 종말을 해결하는게 아닌, 괴물을 창조해내고 있던 것이다.
-<대사 수정필요>
+지금보니, 그것들은 "기생하고 유전자를
+개조하는 일"에 열중하고 있다. 
+이건 연구의 초심에 완전히 반하는 것이고,
+우리가 역병의 종말을 해결하는게 아닌,
+괴물을 창조해내고 있던 것이다.
 > END STRING
 
 > BEGIN STRING
@@ -364,10 +372,13 @@
 的乱扑，这种择优的出现已经不是一次两次，我把这些
 担忧上报了上去，但被告知这批胶兽样本已经被放弃了
 > CONTEXT: Map011/events/193/pages/0/1/Dialogue < UNTRANSLATED
-아무도 내 말을 믿지 않지만, 이 샘플의 지능 발전 속도는 정말 빠르다.
-그들은 벌써 무작정 돌진하는 것이 아니라 더욱 좋은 숙주를 선택하기 시작했다. 
-이런 선택의 출현은 벌써 한 두번이 아니었기에, 나는 걱정되어 
-위에 보고하였으나, 이 샘플은 이미 실패했다는 대답만 돌아왔다
+아무도 내 말을 믿지 않지만,
+이 샘플의 지능 발전 속도는 정말 빠르다.
+그들은 벌써 무작정 돌진하는 것이 아니라
+더욱 좋은 숙주를 선택하기 시작했다. 
+이런 선택의 출현은 벌써 한 두번이 아니었기에,
+나는 걱정되어 위에 보고하였으나, 
+이 샘플은 이미 실패했다는 대답만 돌아왔다
 > END STRING
 
 > BEGIN STRING
@@ -376,11 +387,12 @@
 、代谢来加强自身由粘液组成的身体并进化；或者把被
 验者吸收掉，再同化为同类并将其分裂成一只新的胶兽
 > CONTEXT: Map011/events/195/pages/0/1/Dialogue < UNTRANSLATED
-지금까지 진행한 인체실험은 모두 실패했다. 이 샘플은 
-인체 견본에 대해 두 가지 선택을 한다 : 인간의 몸에 기생하여, 
-근육, 골격, 신진대사의 도움을 받아 나약한 점액으로 된 자신을 강화하는 것 ; 
-혹은 인간을 집어삼켜, 자신과 같은 상태로 바꾸어 새로운 한마리를 분열해내는 것
-<수정필요>
+지금까지 진행한 인체실험은 모두 실패했다.
+이 샘플은 인체 견본에 대해 두 가지 선택을 한다
+: 인간의 몸에 기생하여, 근육, 골격, 신진대사의
+도움을 받아 나약한 점액으로 된 자신을 강화하는 것 ; 
+혹은 인간을 집어삼켜, 자신과 같은 상태로 바꾸어
+새로운 한마리를 분열해내는 것
 > END STRING
 
 > BEGIN STRING
