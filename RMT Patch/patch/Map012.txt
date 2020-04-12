@@ -26,14 +26,16 @@
 > CONTEXT: Map012/events/83/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/88/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/89/pages/0/0/Dialogue < UNTRANSLATED
-
+병이다.
 > END STRING
 
 > BEGIN STRING
 最初，没人会想到“苍白”病毒会有如此高的传染性…
 在我们注意到时，一切都太晚了
 > CONTEXT: Map012/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+처음엔, "백색"바이러스가 이렇게 전염성이 높을꺼라
+아무도 예측하지 못했었는데… 우리가 주의하기 
+시작 했을 땐, 모든 것이 너무 늦어버렸다.
 > END STRING
 
 > BEGIN STRING
@@ -41,7 +43,10 @@
 杀，而我们毫无办法，一般的药物、疫苗对“苍白”而
 言完全没有任何效果
 > CONTEXT: Map012/events/14/pages/0/5/Dialogue < UNTRANSLATED
-
+이 바이러스는 인체 내의 유전자 중 면역결핍을
+가지고 제멋대로 공격하는데, 우리에겐 아무런 
+방책이 없었고, 일반적인 백신은 "백색"에 
+아무런 효과가 없었다.
 > END STRING
 
 > BEGIN STRING
@@ -49,7 +54,9 @@
 后因为失去传播途径而自然消亡，但“苍白”随着空气
 、海洋的传播反而愈发的肆虐
 > CONTEXT: Map012/events/14/pages/0/10/Dialogue < UNTRANSLATED
-
+흔히, 이처럼 치명적 바이러스는 인구의 다수를 없앤
+뒤엔 전파경로를 잃고 자연 소멸하지만, "백색"은 
+공기를 따라, 해양에서 반대로 기승을 부렸다.
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +64,10 @@
 因中的免疫缺陷…但一般的基因工程只会在子代身上体
 现，我们已经没有那么多时间了
 > CONTEXT: Map012/events/14/pages/0/15/Dialogue < UNTRANSLATED
-
+우리는 어쩔 수 없이 유전 공학을 시행 했고, 이것이
+우리 유전자에 있는 면역결핍을 메워주길 소원했다…
+하지만 일반적인 유전 공학은 후대에만 구현될 뿐, 
+우리에겐 이미 그렇게 많은 시간이 남지 않았다.
 > END STRING
 
 > BEGIN STRING
@@ -65,7 +75,9 @@
 的DNA进行修改，使宿主发生突变，这是否能作为研究的
 突破口呢？
 > CONTEXT: Map012/events/14/pages/0/20/Dialogue < UNTRANSLATED
-
+이때, 어떤 사람이 몇몇의 기생충이 숙주의 DNA를 
+변형해, 돌연변이를 일으킨다는, 대담한 가설을 
+제의했는데, 이것이 연구의 돌파구가 될 수 있을까？
 > END STRING
 
 > BEGIN STRING
@@ -73,7 +85,10 @@
 为此做了大量实验，但无一成功，就在这时，上层吩咐
 我们来到这栋建筑里去研究一种粘液生物
 > CONTEXT: Map012/events/14/pages/0/25/Dialogue < UNTRANSLATED
-
+이 생각은 괜찮았지만, 어떤 "기생충"이 가능한지？
+우리는 이것을 위해 많은 실험을 했지만, 
+하나도 성공하지 못할때, 상부에서 이 건물에 와서 
+한가지의 점액 생물을 연구하라고 명령했다.
 > END STRING
 
 > BEGIN STRING
@@ -81,7 +96,10 @@
 人造生物，它们最初就像是些被胶水包裹着的玻璃渣，
 而它们的确有着即刻更改基因的神奇能力
 > CONTEXT: Map012/events/14/pages/0/30/Dialogue < UNTRANSLATED
-
+상부에선 이 생물들이 유전자 공학을 위해 만들어진 
+인조물이라 우겼고, 그 생물들은 처음엔 마치 유리에 
+싸인 접착제 찌꺼기와도 같았지만, 그것들은 확실히 
+바로 유전자를 바꾸는 신기한 능력을 가지고 있었다.
 > END STRING
 
 > BEGIN STRING
@@ -89,7 +107,10 @@
 排序你的基因…但它们的效果过于显著，被验者最后全
 都被同化
 > CONTEXT: Map012/events/14/pages/0/35/Dialogue < UNTRANSLATED
-
+그 점액 생물들은 인체를 덮고 세포를 분해하는 
+방식으로, 사람의 유전자를 재정렬 할 수 있었다… 
+그러나 그것들의 효과가 너무 두드러져, 
+결국 피험자들 모두 동화되고 말았다.
 > END STRING
 
 > BEGIN STRING
@@ -97,7 +118,9 @@
 验者的体内，所有被验者无一例外的都变成了黑色胶兽
 ，而且是狼形的
 > CONTEXT: Map012/events/14/pages/0/40/Dialogue < UNTRANSLATED
-
+검은 점액 짐승은 가장 원시적인 늑대류의 유전자로 
+피험자의 몸을 교체했고, 모든 피험자들은 예외 없이, 
+늑대 모양의 검은 점액 짐승으로 변했다.
 > END STRING
 
 > BEGIN STRING
@@ -105,14 +128,19 @@
 的身心都完全不再是曾经的自己了，我们将这种兽化的
 过程以及结果简称为“TRANSFUR”
 > CONTEXT: Map012/events/14/pages/0/45/Dialogue < UNTRANSLATED
-
+무엇보다, 피험자의 의식은 검은 점액 짐승과 융합되, 
+그들의 몸과 정신이 모두 자의식을 잃게 되었으며, 
+우리는 이러한 짐승화의 과정과 결과를 줄여서 
+"TRANSFUR"라고 불렀다.
 > END STRING
 
 > BEGIN STRING
 简而言之，治疗完成的人已经不再是人了，而是变成了
 粘液生物的一员，这可不是我们所期望的结果
 > CONTEXT: Map012/events/14/pages/0/50/Dialogue < UNTRANSLATED
-
+간단히 말해서, 치료가 끝난 사람은 더 이상 사람이 
+아니라 점액 생물의 일원으로 바뀌었는데, 이것은 
+우리가 바라던 결과가 아니였다.
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +148,10 @@
 一部分人继续研究少数可能会成功的黑色胶兽样本，另
 一部分人则去研究一种白色的突变体…
 > CONTEXT: Map012/events/14/pages/0/54/Dialogue < UNTRANSLATED
-
+실험은 성공했지만, 또한 실패 하였다… 우리는 검은 
+점액 짐승을 봉인했고, 일부 소수의 인원은 성공 
+가능성이 있는 검은 점액 짐승을 계속 연구하고, 다른 
+일부는 일종의 하얀 돌연변이체를 연구하러 갔는데…
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +159,10 @@
 后，你开始努力回忆关于那个轰轰烈烈的“流感”的相
 关记忆，新闻上说，那只是一场普通的“流感”…
 > CONTEXT: Map012/events/14/pages/0/61/Dialogue < UNTRANSLATED
-
+엄청난 양의 정보에 잠시 생각을 접고, 조금 더 
+생각해 본 후에, 당신은 그 "독감"에 관한 기억을 
+떠올리려 노력했고, 뉴스에선, 
+그것은 그냥 평범한 "독감"이었다…
 > END STRING
 
 > BEGIN STRING
@@ -136,21 +170,25 @@
 被绑架进了这个研究所，但你还没有被投入使用，实验
 就被迫中止了
 > CONTEXT: Map012/events/14/pages/0/65/Dialogue < UNTRANSLATED
-
+하지만 바로 그 "독감" 때문에, 당신은 한 실험의 
+피험자로서 이 연구소에 납치되었지만, 당신은 
+아직 투입되지 않았고, 실험은 중지되었다.
 > END STRING
 
 > BEGIN STRING
 粘液生物在这里横行，所有研究员都不知所踪，所有东
 西都杂乱无章的散落一地，一定有什么事情发生了
 > CONTEXT: Map012/events/14/pages/0/69/Dialogue < UNTRANSLATED
-
+점액 생물이 여기저기서 날뛰고, 모든 연구원들은 
+종적을 감췄고, 모든 것이 뒤죽박죽으로 흩어져 
+있으니, 무슨 일이 있었던게 틀림없다.
 > END STRING
 
 > BEGIN STRING
 衣帽架上有一条留言
 > CONTEXT: Map012/events/25/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/25/pages/1/0/Dialogue < UNTRANSLATED
-
+옷걸이에 메모가 하나 남아있다.
 > END STRING
 
 > BEGIN STRING
@@ -160,56 +198,65 @@
 但我还是蛮怀希望的认为你会来
 > CONTEXT: Map012/events/25/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map012/events/25/pages/1/3/Dialogue < UNTRANSLATED
-
+<푸로대사\>
 > END STRING
 
 > BEGIN STRING
 谢谢你…神秘人
 > CONTEXT: Map012/events/25/pages/1/11/Dialogue < UNTRANSLATED
-
+고마워요… 신비로운 사람
 > END STRING
 
 > BEGIN STRING
 一堆垃圾
 > CONTEXT: Map012/events/28/pages/0/0/Dialogue < UNTRANSLATED
-
+한 무더기의 쓰레기더미다.
 > END STRING
 
 > BEGIN STRING
 破碎的杯子
 > CONTEXT: Map012/events/33/pages/0/0/Dialogue < UNTRANSLATED
-
+깨진 머그컵이다.
 > END STRING
 
 > BEGIN STRING
 不太想要拆开看看的纸团
 > CONTEXT: Map012/events/34/pages/0/0/Dialogue < UNTRANSLATED
-
+그다지 펼쳐보고 싶지 않은 종이뭉치다.
 > END STRING
 
 > BEGIN STRING
 看似危险但实际上已经结晶、硬化了的黑色胶兽
 > CONTEXT: Map012/events/35/pages/0/0/Dialogue < UNTRANSLATED
-
+위험해 보이지만, 사실 이미 굳은 검은 점액이다.
 > END STRING
 
 > BEGIN STRING
 这东西永远是最可怕的威胁
 > CONTEXT: Map012/events/42/pages/0/0/Dialogue < UNTRANSLATED
+이것만 봐도 소름이 끼친다.
+> END STRING
 
+> BEGIN STRING
+不能再回头了
+> CONTEXT: Map012/events/45/pages/0/0/Dialogue
+> CONTEXT: Map012/events/46/pages/0/0/Dialogue
+다시 돌아갈 수는 없다.
 > END STRING
 
 > BEGIN STRING
 你拼命的挣扎，挥拳打中了那个小生物的要害，它扑腾
 着扇着翅膀逃走了
 > CONTEXT: Map012/events/51/pages/0/14/Dialogue < UNTRANSLATED
-
+필사적으로 몸부림을 치던 중, 주먹으로 
+그 작은 생물의 머리를 때렸고, 
+녀석은 날개를 푸드덕거리며 도망쳤다.
 > END STRING
 
 > BEGIN STRING
 这里有个显而易见的通风口
 > CONTEXT: Map012/events/56/pages/0/0/Dialogue < UNTRANSLATED
-
+여기에 통풍구가 있는게 보인다.
 > END STRING
 
 > BEGIN STRING
@@ -220,11 +267,17 @@
 > CONTEXT: Map011/events/46/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map010/events/212/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map010/events/213/pages/0/0/Dialogue < UNTRANSLATED
+컵이다.
+> END STRING
 
+> BEGIN STRING
+一篇报告掉在了地上
+> CONTEXT: Map012/events/59/pages/0/6/Dialogue
+보고서 하나가 바닥에 떨어졌다.
 > END STRING
 
 > BEGIN STRING
 一页纸
 > CONTEXT: Map012/events/69/pages/0/0/Dialogue < UNTRANSLATED
-
+종이 한 장이다.
 > END STRING
