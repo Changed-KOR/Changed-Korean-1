@@ -1,5 +1,16 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
+不是这里！
+> CONTEXT: Map001/events/1/pages/2/0/Dialogue
+> CONTEXT: Map001/events/2/pages/1/0/Dialogue
+> CONTEXT: Map001/events/4/pages/1/0/Dialogue
+> CONTEXT: Map001/events/5/pages/2/0/Dialogue
+> CONTEXT: Map001/events/6/pages/2/0/Dialogue
+> CONTEXT: Map001/events/7/pages/2/0/Dialogue
+여기가 아니야!
+> END STRING
+
+> BEGIN STRING
 并没有能够打开的迹象
 > CONTEXT: Map001/events/3/pages/0/1/Dialogue < UNTRANSLATED
 열릴 기미가 보이지 않아..
@@ -47,9 +58,9 @@
 粘液正在改变你的皮肤细胞，让你的感知神经失灵，你
 紧紧的靠着门，动弹不得，勉强的站住不让自己瘫倒
 > CONTEXT: Map001/events/5/pages/3/18/Dialogue < UNTRANSLATED
-점액이 피부 세포를 바꿔 신경의 감각을 잃게하자, 
-넌 문에 굳게 기댄 채 움직이지 못하고, 
-넘어지지 않는게 고작이었다.
+점액이 피부 세포를 바꿔 신경에 감각이 없어지고, 
+움직이지 못하고, 할 수 있는 것이라곤 넘어지지 
+않게 문에 기대는 게 고작이었다.
 > END STRING
 
 > BEGIN STRING
@@ -186,7 +197,7 @@
 你满心愉悦，满足于此，你的冒险，大概就到此为止了
 > CONTEXT: Map001/events/5/pages/3/86/Dialogue < UNTRANSLATED
 행복감으로 가득 차, 지금에 만족하니, 
-너의 모험은 여기서 끝난 것 같다.
+이미 여기서 모험은 끝난 것 같다.
 > END STRING
 
 > BEGIN STRING
@@ -299,9 +310,9 @@
 实验再次失败了，我把那个房间封住了，但这次危机差
 点把这层楼都炸翻
 > CONTEXT: Map001/events/50/pages/0/3/Dialogue < UNTRANSLATED
-실험이 다시 실패했다. 
-결국 그 방을 봉쇄해야 했지만.. 이번 위기는
-건물을 전부 폭파시킬 뻔했다.
+실험이 다시 실패했다. 결국 그 방을
+봉쇄하는 것에 그쳤지만.. 이번 위기는
+건물을 전부 폐쇄시킬 뻔했다.
 > END STRING
 
 > BEGIN STRING
@@ -387,14 +398,14 @@
 > BEGIN STRING
 你打了个寒颤，你有预感，这次冒险可能才刚刚开始
 > CONTEXT: Map001/events/61/pages/0/14/Dialogue < UNTRANSLATED
-당신은 몸서리를 쳤고, 언뜻 생각이 났다. 
-당신의 모험은 이제 막 시작이다.
+당신은 몸서리를 쳤고, 언뜻 깨달았다. 
+모험이 이제 막 시작 되었다.
 > END STRING
 
 > BEGIN STRING
 当然，也可能只是因为你冷而已
 > CONTEXT: Map001/events/61/pages/0/17/Dialogue < UNTRANSLATED
-물론, 주변의 한기 때문일 수도 있다.
+물론, 주변의 한기 때문일 수도 있지만.
 > END STRING
 
 > BEGIN STRING
@@ -436,7 +447,7 @@
 一整套的撬锁工具，但你并不知道如何使用
 > CONTEXT: Map001/events/108/pages/0/0/Dialogue < UNTRANSLATED
 자물쇠 해체 도구 한 꾸러미. 
-하지만 사용하는 법을 몰라.
+하지만 사용하는 법을 모르겠다.
 > END STRING
 
 > BEGIN STRING
