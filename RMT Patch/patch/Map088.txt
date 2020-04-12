@@ -1,55 +1,9 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-不能再回头了
-> CONTEXT: Map088/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/45/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/46/pages/0/0/Dialogue < UNTRANSLATED
-다시 뒤로갈 수는 없다.
-> END STRING
-
-> BEGIN STRING
-神秘的结晶体
-> CONTEXT: Map088/events/15/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/16/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/27/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/30/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/35/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/37/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/52/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/53/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/60/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/61/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/78/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/79/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/81/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/82/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/84/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/123/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/130/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/173/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/174/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/43/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/103/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/104/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/105/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/106/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/132/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/133/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/90/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/91/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/107/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/160/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/181/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/183/pages/0/0/Dialogue < UNTRANSLATED
-신비한 결정체다.
+现在不是回头的时候
+> CONTEXT: Map088/events/1/pages/0/0/Dialogue
+> CONTEXT: Map088/events/2/pages/0/0/Dialogue
+지금은 뒤돌아볼 때가 아니다.
 > END STRING
 
 > BEGIN STRING
@@ -57,101 +11,93 @@
 是有着琅王的，我的伪装服一定会被他识迫的，事到如
 今只能希忘狼王恰好外出了…我汇为你祈祷的！我相信
 你一定能闯过这里！
-> CONTEXT: Map088/events/20/pages/0/1/Dialogue < UNTRANSLATED
-<푸로의 대사. 번역 가능 인원이 번역바람>
+> CONTEXT: Map088/events/20/pages/0/1/Dialogue
+(푸로 대사)
 > END STRING
 
 > BEGIN STRING
 狼王…？
-> CONTEXT: Map088/events/20/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map088/events/20/pages/0/9/Dialogue
 늑대왕…？
 > END STRING
 
 > BEGIN STRING
-巨大结晶
-> CONTEXT: Map088/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/32/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/54/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/98/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/49/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/88/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/89/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/90/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/91/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/92/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/93/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/94/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/95/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/96/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/77/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/78/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/92/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/93/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/117/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/118/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/125/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/136/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map016/events/185/pages/0/0/Dialogue < UNTRANSLATED
-거대한 결정이다.
+冒着风险只是为了来看一眼椅子吗？
+> CONTEXT: Map088/events/37/pages/0/0/Dialogue
+> CONTEXT: Map088/events/80/pages/0/0/Dialogue
+> CONTEXT: Map088/events/94/pages/0/0/Dialogue
+> CONTEXT: Map088/events/95/pages/0/0/Dialogue
+> CONTEXT: Map088/events/101/pages/0/0/Dialogue
+> CONTEXT: Map088/events/102/pages/0/0/Dialogue
+> CONTEXT: Map088/events/144/pages/0/0/Dialogue
+> CONTEXT: Map088/events/145/pages/0/0/Dialogue
+> CONTEXT: Map010/events/191/pages/0/0/Dialogue
+위험을 무릅쓰고도 의자를 보고 싶은가?
 > END STRING
 
 > BEGIN STRING
 现在没空把这个扶正了
-> CONTEXT: Map088/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/50/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/76/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map088/events/39/pages/0/0/Dialogue
+> CONTEXT: Map088/events/40/pages/0/0/Dialogue
+> CONTEXT: Map088/events/41/pages/0/0/Dialogue
+> CONTEXT: Map010/events/19/pages/0/0/Dialogue
+> CONTEXT: Map010/events/50/pages/0/0/Dialogue
+> CONTEXT: Map010/events/76/pages/0/0/Dialogue
 지금은 이걸 바로 세울 시간이 없다.
 > END STRING
 
 > BEGIN STRING
-服务器
-> CONTEXT: Map088/events/42/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/43/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/55/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/185/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/186/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/187/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/188/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/189/pages/0/0/Dialogue < UNTRANSLATED
-서버를 유지하는 기기같다.
-> END STRING
-
-> BEGIN STRING
 狼王晕过去了，但还是别靠近了
-> CONTEXT: Map088/events/64/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/65/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/66/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map088/events/64/pages/0/0/Dialogue
+> CONTEXT: Map088/events/65/pages/0/0/Dialogue
+> CONTEXT: Map088/events/66/pages/0/0/Dialogue
 늑대왕은 기절했지만,
 여전히 가까이 가기엔 위험하다.
 > END STRING
 
 > BEGIN STRING
-冒着风险只是为了来看一眼椅子吗？
-> CONTEXT: Map088/events/94/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/95/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/101/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/102/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/191/pages/0/0/Dialogue < UNTRANSLATED
-위험을 무릅쓰고도 의자를 보고 싶은가?
+一个插座，没什么稀奇的
+> CONTEXT: Map088/events/85/pages/0/0/Dialogue
+> CONTEXT: Map087/events/33/pages/0/0/Dialogue
+> CONTEXT: Map086/events/59/pages/0/0/Dialogue
+> CONTEXT: Map085/events/104/pages/0/0/Dialogue
+> CONTEXT: Map085/events/105/pages/0/0/Dialogue
+> CONTEXT: Map023/events/221/pages/0/0/Dialogue
+> CONTEXT: Map023/events/231/pages/0/0/Dialogue
+> CONTEXT: Map023/events/232/pages/0/0/Dialogue
+> CONTEXT: Map012/events/86/pages/0/0/Dialogue
+> CONTEXT: Map012/events/87/pages/0/0/Dialogue
+> CONTEXT: Map010/events/207/pages/0/0/Dialogue
+> CONTEXT: Map010/events/208/pages/0/0/Dialogue
+> CONTEXT: Map010/events/209/pages/0/0/Dialogue
+> CONTEXT: Map011/events/231/pages/0/0/Dialogue
+> CONTEXT: Map011/events/232/pages/0/0/Dialogue
+> CONTEXT: Map011/events/233/pages/0/0/Dialogue
+> CONTEXT: Map009/events/50/pages/0/0/Dialogue
+1구짜리 콘센트.
+특별한 게 있을 리가 있나.
 > END STRING
 
 > BEGIN STRING
-现在不想坐
-> CONTEXT: Map088/events/195/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/227/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/151/pages/0/0/Dialogue < UNTRANSLATED
-지금은 앉고 싶지 않다.
+画着狼王的画
+> CONTEXT: Map088/events/103/pages/0/0/Dialogue
+늑대왕의 그림이 그려져 있다.
 > END STRING
 
 > BEGIN STRING
-前方内容未完成，为了避免BUG，禁止通行
-> CONTEXT: Map088/events/196/pages/0/0/Dialogue < UNTRANSLATED
-앞 부분의 내용은 미완성입니다.
-BUG를 피하기 위해, 통행을 금지합니다.
+有种被什么人注视着的感觉…
+> CONTEXT: Map088/events/154/pages/0/0/Dialogue
+누군가가 지켜보고 있는 듯한 느낌이 들어...
+> END STRING
+
+> BEGIN STRING
+你再次打了个寒颤
+> CONTEXT: Map088/events/154/pages/0/2/Dialogue
+너는 다시 한 번 몸서리를 쳤다.
+> END STRING
+
+> BEGIN STRING
+从此处离开办公区
+> CONTEXT: Map088/events/163/pages/0/0/Dialogue
+이 구역에서 나가는 표지다.
 > END STRING
