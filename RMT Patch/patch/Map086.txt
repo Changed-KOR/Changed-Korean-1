@@ -1,49 +1,5 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-空的罐子
-> CONTEXT: Map086/events/5/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/6/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/10/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/20/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/17/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/23/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/19/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map086/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/21/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/25/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/22/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/23/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/26/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/24/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/27/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/35/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/36/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/38/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/39/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/2/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/6/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/7/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/18/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/40/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/41/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/42/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/112/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/159/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/167/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/168/pages/0/0/Dialogue < UNTRANSLATED
-빈 깡통.
-> END STRING
-
-> BEGIN STRING
 现在不想上厕所
 > CONTEXT: Map086/events/13/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map086/events/14/pages/0/0/Dialogue < UNTRANSLATED
@@ -53,18 +9,22 @@
 > END STRING
 
 > BEGIN STRING
+里面好像有人
+> CONTEXT: Map086/events/26/pages/0/0/Dialogue
+> CONTEXT: Map086/events/27/pages/0/0/Dialogue
+안에 누군가 있는 것 같다.
+> END STRING
+
+> BEGIN STRING
 不要觉的黑色椒兽的身体是油粘液构成的就觉得它们很
 脆弱，它们可以轻易的把一个人仍飞好几米远！一些黑
 色胶兽的嗅觉也很灵敏，要小心牙，人类！
 > CONTEXT: Map086/events/54/pages/0/1/Dialogue < UNTRANSLATED
-(이거 푸로 대사 같은데?)
+(푸로 대사)
 > END STRING
 
 > BEGIN STRING
-小心地面污渍，谨防受伤
-> CONTEXT: Map086/events/56/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/34/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/407/pages/0/0/Dialogue < UNTRANSLATED
-지면에 얼룩이 지지 않도록 조심하고, 
-다치지 않도록 조심하시오.
+厕所的隔间有声音…
+> CONTEXT: Map086/events/58/pages/0/0/Dialogue
+화장실 칸막이에서 소리가 나는데…
 > END STRING
