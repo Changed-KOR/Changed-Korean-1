@@ -33,7 +33,7 @@
 > BEGIN STRING
 这些黑色胶兽原本是实验的失败品
 > CONTEXT: Map084/events/22/pages/0/5/Dialogue < UNTRANSLATED
-이 검은 점액들은,
+이 검은 점액짐승들은,
 원래 실험의 실패본들이였다.
 > END STRING
 
@@ -61,7 +61,7 @@
 > BEGIN STRING
 这些黑色胶兽拥有相当的智慧
 > CONTEXT: Map084/events/22/pages/0/13/Dialogue < UNTRANSLATED
-이 검은 고무덩어리들은,
+이 검은 점액짐승들은,
 상당한 지능을 가진 것으로 보여진다.
 > END STRING
 
@@ -106,7 +106,7 @@
 > BEGIN STRING
 这只小小的黑色胶兽睡得死死的
 > CONTEXT: Map084/events/61/pages/0/0/Dialogue < UNTRANSLATED
-이 작은 고무줄 짐승은
+이 작은 점은 짐승은
 죽은 듯이 자고 있다.
 > END STRING
 
@@ -114,68 +114,6 @@
 要摸摸它吗？
 > CONTEXT: Map084/events/61/pages/0/2/Dialogue < UNTRANSLATED
 ...만져볼까?
-> END STRING
-
-> BEGIN STRING
-是
-> CONTEXT: Map084/events/61/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map080/events/120/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map064/events/20/pages/0/3/Choice/0 < UNTRANSLATED
-> CONTEXT: Map063/events/120/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map054/events/35/pages/0/3/Choice/0 < UNTRANSLATED
-> CONTEXT: Map046/events/69/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map048/events/120/pages/0/8/Choice/0 < UNTRANSLATED
-> CONTEXT: Map044/events/137/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map045/events/314/pages/3/69/Choice/0 < UNTRANSLATED
-> CONTEXT: Map041/events/10/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map041/events/10/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map037/events/14/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map023/events/200/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map019/events/102/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map017/events/224/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map015/events/1/pages/1/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map009/events/23/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map002/events/26/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/94/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/95/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/96/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/97/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/98/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/99/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/100/pages/0/2/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/101/pages/0/2/Choice/0 < UNTRANSLATED
-예
-> END STRING
-
-> BEGIN STRING
-否
-> CONTEXT: Map084/events/61/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map080/events/120/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map064/events/20/pages/0/3/Choice/1 < UNTRANSLATED
-> CONTEXT: Map063/events/120/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map054/events/35/pages/0/3/Choice/1 < UNTRANSLATED
-> CONTEXT: Map046/events/69/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map048/events/120/pages/0/8/Choice/1 < UNTRANSLATED
-> CONTEXT: Map044/events/137/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map045/events/314/pages/3/69/Choice/1 < UNTRANSLATED
-> CONTEXT: Map041/events/10/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map041/events/10/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map037/events/14/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map023/events/200/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map019/events/102/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map017/events/224/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map015/events/1/pages/1/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map009/events/23/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map002/events/26/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/94/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/95/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/96/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/97/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/98/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/99/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/100/pages/0/2/Choice/1 < UNTRANSLATED
-> CONTEXT: Map001/events/101/pages/0/2/Choice/1 < UNTRANSLATED
-아니오
 > END STRING
 
 > BEGIN STRING
