@@ -12,24 +12,46 @@
 > END STRING
 
 > BEGIN STRING
-你的瞳孔因为紧张而剧烈收缩，这台机器无法识别！
-> CONTEXT: Map087/events/11/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/11/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map059/events/91/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map059/events/91/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map056/events/243/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map049/events/141/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map046/events/150/pages/2/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map031/events/5/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map027/events/34/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/9/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map024/events/119/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map020/events/31/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map014/events/71/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/14/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/59/pages/2/0/Dialogue < UNTRANSLATED
-긴장 때문에 동공이 수축하여
-기계가 동공을 인식하지 못한다!
+空的罐子
+> CONTEXT: Map087/events/21/pages/0/0/Dialogue
+> CONTEXT: Map087/events/22/pages/0/0/Dialogue
+> CONTEXT: Map087/events/23/pages/0/0/Dialogue
+> CONTEXT: Map087/events/24/pages/0/0/Dialogue
+> CONTEXT: Map086/events/5/pages/0/0/Dialogue
+> CONTEXT: Map086/events/6/pages/0/0/Dialogue
+> CONTEXT: Map086/events/7/pages/0/0/Dialogue
+> CONTEXT: Map086/events/8/pages/0/0/Dialogue
+> CONTEXT: Map086/events/17/pages/0/0/Dialogue
+> CONTEXT: Map086/events/18/pages/0/0/Dialogue
+> CONTEXT: Map086/events/19/pages/0/0/Dialogue
+> CONTEXT: Map086/events/20/pages/0/0/Dialogue
+> CONTEXT: Map085/events/10/pages/0/0/Dialogue
+> CONTEXT: Map086/events/21/pages/0/0/Dialogue
+> CONTEXT: Map086/events/22/pages/0/0/Dialogue
+> CONTEXT: Map086/events/23/pages/0/0/Dialogue
+> CONTEXT: Map086/events/24/pages/0/0/Dialogue
+> CONTEXT: Map085/events/17/pages/0/0/Dialogue
+> CONTEXT: Map085/events/19/pages/0/0/Dialogue
+> CONTEXT: Map085/events/25/pages/0/0/Dialogue
+> CONTEXT: Map085/events/26/pages/0/0/Dialogue
+> CONTEXT: Map085/events/34/pages/0/0/Dialogue
+> CONTEXT: Map085/events/35/pages/0/0/Dialogue
+> CONTEXT: Map085/events/36/pages/0/0/Dialogue
+> CONTEXT: Map085/events/38/pages/0/0/Dialogue
+> CONTEXT: Map085/events/39/pages/0/0/Dialogue
+> CONTEXT: Map085/events/41/pages/0/0/Dialogue
+> CONTEXT: Map010/events/2/pages/0/0/Dialogue
+> CONTEXT: Map010/events/6/pages/0/0/Dialogue
+> CONTEXT: Map010/events/7/pages/0/0/Dialogue
+> CONTEXT: Map010/events/18/pages/0/0/Dialogue
+> CONTEXT: Map010/events/40/pages/0/0/Dialogue
+> CONTEXT: Map010/events/41/pages/0/0/Dialogue
+> CONTEXT: Map010/events/42/pages/0/0/Dialogue
+> CONTEXT: Map010/events/112/pages/0/0/Dialogue
+> CONTEXT: Map010/events/159/pages/0/0/Dialogue
+> CONTEXT: Map010/events/167/pages/0/0/Dialogue
+> CONTEXT: Map010/events/168/pages/0/0/Dialogue
+빈 깡통이다.
 > END STRING
 
 > BEGIN STRING
@@ -139,15 +161,6 @@
 > END STRING
 
 > BEGIN STRING
-报告记录
-> CONTEXT: Map087/events/26/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map084/events/22/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/79/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/112/pages/0/1/Dialogue < UNTRANSLATED
-기록 시작.
-> END STRING
-
-> BEGIN STRING
 封锁这里花了我很长的时间
 > CONTEXT: Map087/events/26/pages/0/3/Dialogue < UNTRANSLATED
 이곳을 봉쇄하는 데
@@ -205,31 +218,10 @@
 > END STRING
 
 > BEGIN STRING
-报告完毕
-> CONTEXT: Map087/events/26/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map084/events/22/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/79/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/112/pages/0/15/Dialogue < UNTRANSLATED
-기록 종료.
-> END STRING
-
-> BEGIN STRING
-一个插座，没什么稀奇的
-> CONTEXT: Map087/events/33/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/104/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map085/events/105/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/221/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/231/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/232/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/86/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map012/events/87/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/231/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/232/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map011/events/233/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/207/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/208/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/209/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map009/events/50/pages/0/0/Dialogue < UNTRANSLATED
-1구짜리 콘센트.
-특별한 게 있을 리가 있나.
+小心地面污渍，谨防受伤
+> CONTEXT: Map087/events/34/pages/0/0/Dialogue
+> CONTEXT: Map086/events/56/pages/0/0/Dialogue
+> CONTEXT: Map014/events/407/pages/0/0/Dialogue
+지면의 얼룩을 조심하고, 
+부상에 유의하세요.
 > END STRING
