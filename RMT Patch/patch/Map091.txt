@@ -1,0 +1,271 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+气密门关闭了
+> CONTEXT: Map091/events/1/pages/0/1/Dialogue
+> CONTEXT: Map091/events/2/pages/0/1/Dialogue
+> CONTEXT: Map090/events/2/pages/0/1/Dialogue
+> CONTEXT: Map090/events/15/pages/0/1/Dialogue
+> CONTEXT: Map090/events/129/pages/0/1/Dialogue
+> CONTEXT: Map090/events/130/pages/0/1/Dialogue
+밀폐문이 닫혔다!
+> END STRING
+
+> BEGIN STRING
+躲在箱子里的家伙在镜像模仿你的行动
+> CONTEXT: Map091/events/3/pages/0/53/Dialogue
+상자 속에 숨어 있는 녀석이 거울처럼
+내 행동을 흉내 내는 것 같다.
+> END STRING
+
+> BEGIN STRING
+虽然看起来有点难缠，但比起其他那些看见你就猛扑过
+来的胶兽们来说好多了
+> CONTEXT: Map091/events/3/pages/0/55/Dialogue
+좀 까다로워 보이지만, 날 보고 덤벼드는
+다른 점액짐승보다는 훨씬 좋다.
+> END STRING
+
+> BEGIN STRING
+究竟要怎样才能绕开这个模仿者呢，或许你可以利用它
+会模仿你的行动的这个特点
+> CONTEXT: Map091/events/3/pages/0/58/Dialogue
+도대체 어떻게 하면 저 모방하는 녀석을 
+우회할 수 있을까? 아마 모방하는 특징을 
+이용하여 방법을 찾아야할 것 같다.
+> END STRING
+
+> BEGIN STRING
+报告记录
+> CONTEXT: Map091/events/10/pages/0/1/Dialogue
+> CONTEXT: Map087/events/26/pages/0/1/Dialogue
+> CONTEXT: Map084/events/22/pages/0/3/Dialogue
+> CONTEXT: Map004/events/79/pages/0/1/Dialogue
+> CONTEXT: Map001/events/112/pages/0/1/Dialogue
+기록 시작.
+> END STRING
+
+> BEGIN STRING
+这里原本是研究所的机房
+> CONTEXT: Map091/events/10/pages/0/3/Dialogue
+이곳은 원래 연구소의 기계실이었다.
+> END STRING
+
+> BEGIN STRING
+但大部分服务器都在那次暴动中被损毁
+> CONTEXT: Map091/events/10/pages/0/5/Dialogue
+그러나 대부분의 서버들은
+그 폭동에서 훼손되었다.
+> END STRING
+
+> BEGIN STRING
+剩下的也都因被黑色粘液覆盖而故障
+> CONTEXT: Map091/events/10/pages/0/7/Dialogue
+나머지도 모두 검은 점액에 덮여 고장났다.
+> END STRING
+
+> BEGIN STRING
+这里有良好的通风系统和空旷的场地
+> CONTEXT: Map091/events/10/pages/0/9/Dialogue
+여기엔 좋은 환기 시스템과
+텅 빈 장소가 있다.
+> END STRING
+
+> BEGIN STRING
+因此一批特殊的黑色胶兽把这里当成了巢穴
+> CONTEXT: Map091/events/10/pages/0/11/Dialogue
+그래서 특이한 검은 점액짐승들이 이곳을
+보금자리로 삼았다.
+> END STRING
+
+> BEGIN STRING
+这些特殊的黑色胶兽大都会遵守一些规则
+> CONTEXT: Map091/events/10/pages/0/13/Dialogue
+이 특별한 검은 점액짐승들은
+이 큰 공간에서 몇몇 규칙을 준수한다.
+> END STRING
+
+> BEGIN STRING
+它们的行动全部都会遵循它们的规则
+> CONTEXT: Map091/events/10/pages/0/15/Dialogue
+그것들의 행동은 전부 그 규칙을 따른다.
+> END STRING
+
+> BEGIN STRING
+就像是游戏一样
+> CONTEXT: Map091/events/10/pages/0/17/Dialogue
+마치 게임처럼
+> END STRING
+
+> BEGIN STRING
+我至今也没能明白它们为什么这么做
+> CONTEXT: Map091/events/10/pages/0/19/Dialogue
+나는 아직도 그것들이 왜 그렇게
+하는지 이해하지 못했다.
+> END STRING
+
+> BEGIN STRING
+毕竟我不是动物行为学博士
+> CONTEXT: Map091/events/10/pages/0/21/Dialogue
+어디까지나 난 동물행동학 박사가 아니다.
+> END STRING
+
+> BEGIN STRING
+报告完毕
+> CONTEXT: Map091/events/10/pages/0/23/Dialogue
+> CONTEXT: Map087/events/26/pages/0/19/Dialogue
+> CONTEXT: Map084/events/22/pages/0/17/Dialogue
+> CONTEXT: Map004/events/79/pages/0/17/Dialogue
+> CONTEXT: Map001/events/112/pages/0/15/Dialogue
+기록 종료.
+> END STRING
+
+> BEGIN STRING
+巨大结晶
+> CONTEXT: Map091/events/11/pages/0/0/Dialogue
+> CONTEXT: Map091/events/12/pages/0/0/Dialogue
+> CONTEXT: Map092/events/16/pages/0/0/Dialogue
+> CONTEXT: Map092/events/17/pages/0/0/Dialogue
+> CONTEXT: Map091/events/38/pages/0/0/Dialogue
+> CONTEXT: Map091/events/60/pages/0/0/Dialogue
+> CONTEXT: Map091/events/86/pages/0/0/Dialogue
+> CONTEXT: Map091/events/89/pages/0/0/Dialogue
+> CONTEXT: Map093/events/60/pages/0/0/Dialogue
+> CONTEXT: Map089/events/54/pages/0/0/Dialogue
+> CONTEXT: Map093/events/61/pages/0/0/Dialogue
+> CONTEXT: Map089/events/56/pages/0/0/Dialogue
+> CONTEXT: Map089/events/58/pages/0/0/Dialogue
+> CONTEXT: Map089/events/59/pages/0/0/Dialogue
+> CONTEXT: Map089/events/60/pages/0/0/Dialogue
+> CONTEXT: Map089/events/61/pages/0/0/Dialogue
+> CONTEXT: Map089/events/62/pages/0/0/Dialogue
+> CONTEXT: Map088/events/21/pages/0/0/Dialogue
+> CONTEXT: Map089/events/63/pages/0/0/Dialogue
+> CONTEXT: Map091/events/152/pages/0/0/Dialogue
+> CONTEXT: Map088/events/22/pages/0/0/Dialogue
+> CONTEXT: Map089/events/64/pages/0/0/Dialogue
+> CONTEXT: Map089/events/65/pages/0/0/Dialogue
+> CONTEXT: Map091/events/153/pages/0/0/Dialogue
+> CONTEXT: Map088/events/24/pages/0/0/Dialogue
+> CONTEXT: Map093/events/79/pages/0/0/Dialogue
+> CONTEXT: Map093/events/85/pages/0/0/Dialogue
+> CONTEXT: Map093/events/93/pages/0/0/Dialogue
+> CONTEXT: Map093/events/94/pages/0/0/Dialogue
+> CONTEXT: Map088/events/32/pages/0/0/Dialogue
+> CONTEXT: Map093/events/99/pages/0/0/Dialogue
+> CONTEXT: Map088/events/36/pages/0/0/Dialogue
+> CONTEXT: Map088/events/54/pages/0/0/Dialogue
+> CONTEXT: Map088/events/74/pages/0/0/Dialogue
+> CONTEXT: Map089/events/178/pages/0/0/Dialogue
+> CONTEXT: Map089/events/180/pages/0/0/Dialogue
+> CONTEXT: Map088/events/98/pages/0/0/Dialogue
+> CONTEXT: Map088/events/105/pages/0/0/Dialogue
+> CONTEXT: Map088/events/106/pages/0/0/Dialogue
+> CONTEXT: Map019/events/49/pages/0/0/Dialogue
+> CONTEXT: Map019/events/87/pages/0/0/Dialogue
+> CONTEXT: Map019/events/88/pages/0/0/Dialogue
+> CONTEXT: Map019/events/89/pages/0/0/Dialogue
+> CONTEXT: Map019/events/90/pages/0/0/Dialogue
+> CONTEXT: Map019/events/91/pages/0/0/Dialogue
+> CONTEXT: Map019/events/92/pages/0/0/Dialogue
+> CONTEXT: Map019/events/93/pages/0/0/Dialogue
+> CONTEXT: Map019/events/94/pages/0/0/Dialogue
+> CONTEXT: Map019/events/95/pages/0/0/Dialogue
+> CONTEXT: Map019/events/96/pages/0/0/Dialogue
+> CONTEXT: Map016/events/28/pages/0/0/Dialogue
+> CONTEXT: Map016/events/73/pages/0/0/Dialogue
+> CONTEXT: Map016/events/96/pages/0/0/Dialogue
+> CONTEXT: Map016/events/141/pages/0/0/Dialogue
+> CONTEXT: Map016/events/182/pages/0/0/Dialogue
+> CONTEXT: Map016/events/189/pages/0/0/Dialogue
+> CONTEXT: Map016/events/262/pages/0/0/Dialogue
+> CONTEXT: Map016/events/268/pages/0/0/Dialogue
+> CONTEXT: Map007/events/19/pages/0/0/Dialogue
+> CONTEXT: Map007/events/30/pages/0/0/Dialogue
+> CONTEXT: Map007/events/102/pages/0/0/Dialogue
+거대한 결정
+> END STRING
+
+> BEGIN STRING
+这片区育生活着的黑色胶兽，它们的外帽形象是前所未
+右的，它们长着角，有些还长着大翅膀，我曾从书上看
+到过，像这样的复合形生物，被人类程之为“龙”，它
+们都飞常贪玩，你一定要在游戏里嬴过它们！
+> CONTEXT: Map091/events/46/pages/0/1/Dialogue
+<푸로대사\>
+> END STRING
+
+> BEGIN STRING
+错别字还是一如既往的多
+> CONTEXT: Map091/events/46/pages/0/9/Dialogue
+틀린 글은 여전히 예전것과 같다.
+> END STRING
+
+> BEGIN STRING
+装着资料的纸箱
+> CONTEXT: Map091/events/57/pages/0/0/Dialogue
+> CONTEXT: Map091/events/59/pages/0/0/Dialogue
+> CONTEXT: Map091/events/61/pages/0/0/Dialogue
+> CONTEXT: Map091/events/63/pages/0/0/Dialogue
+> CONTEXT: Map091/events/65/pages/0/0/Dialogue
+> CONTEXT: Map091/events/66/pages/0/0/Dialogue
+> CONTEXT: Map091/events/67/pages/0/0/Dialogue
+> CONTEXT: Map091/events/88/pages/0/0/Dialogue
+> CONTEXT: Map091/events/100/pages/0/0/Dialogue
+> CONTEXT: Map091/events/140/pages/0/0/Dialogue
+> CONTEXT: Map091/events/142/pages/0/0/Dialogue
+> CONTEXT: Map091/events/143/pages/0/0/Dialogue
+> CONTEXT: Map091/events/144/pages/0/0/Dialogue
+자료가 담긴 종이상자다.
+> END STRING
+
+> BEGIN STRING
+它不动了
+> CONTEXT: Map091/events/70/pages/5/0/Dialogue
+> CONTEXT: Map091/events/94/pages/5/0/Dialogue
+> CONTEXT: Map091/events/157/pages/5/0/Dialogue
+그것은 움직이지 않는다.
+> END STRING
+
+> BEGIN STRING
+装着资料的纸箱，好像有些不对劲
+> CONTEXT: Map091/events/95/pages/0/0/Dialogue
+> CONTEXT: Map091/events/95/pages/2/0/Dialogue
+> CONTEXT: Map091/events/99/pages/0/0/Dialogue
+> CONTEXT: Map091/events/99/pages/2/0/Dialogue
+자료가 담긴 종이상자,
+뭔가 잘못된 것 같다.
+> END STRING
+
+> BEGIN STRING
+还是不要参与进去了吧
+> CONTEXT: Map091/events/156/pages/6/0/Dialogue
+> CONTEXT: Map091/events/159/pages/6/0/Dialogue
+> CONTEXT: Map091/events/164/pages/6/0/Dialogue
+> CONTEXT: Map091/events/173/pages/0/0/Dialogue
+> CONTEXT: Map091/events/176/pages/0/0/Dialogue
+> CONTEXT: Map091/events/177/pages/0/0/Dialogue
+> CONTEXT: Map091/events/178/pages/0/0/Dialogue
+> CONTEXT: Map091/events/179/pages/0/0/Dialogue
+> CONTEXT: Map091/events/180/pages/0/0/Dialogue
+> CONTEXT: Map091/events/181/pages/0/0/Dialogue
+> CONTEXT: Map091/events/182/pages/0/0/Dialogue
+> CONTEXT: Map091/events/183/pages/0/0/Dialogue
+> CONTEXT: Map091/events/184/pages/0/0/Dialogue
+그래도 개입하진 말자
+> END STRING
+
+> BEGIN STRING
+如此奇妙的画面可不是每天都能看到的
+> CONTEXT: Map091/events/168/pages/0/284/Dialogue
+이렇게 기묘한 장면은 매일
+볼 수 있는게 아니야
+> END STRING
+
+> BEGIN STRING
+我这是在骗谁呢…也许你永运都不会醒来了，又一个今
+天，我已经记不轻度过了多少个今天这样的日子，我一
+次次的想要梨开，但我更不想放器，明天，我仍然会等
+待你，只是，我不知道我还能坚侍多久…
+> CONTEXT: Map091/events/174/pages/0/1/Dialogue
+<푸로대사\>
+> END STRING
