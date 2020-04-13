@@ -1,0 +1,416 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+你的瞳孔因为紧张而剧烈收缩，这台机器无法识别！
+> CONTEXT: Map092/events/2/pages/0/0/Dialogue
+> CONTEXT: Map089/events/15/pages/1/0/Dialogue
+> CONTEXT: Map089/events/15/pages/2/0/Dialogue
+> CONTEXT: Map087/events/11/pages/1/0/Dialogue
+> CONTEXT: Map087/events/11/pages/2/0/Dialogue
+> CONTEXT: Map059/events/91/pages/1/0/Dialogue
+> CONTEXT: Map059/events/91/pages/2/0/Dialogue
+> CONTEXT: Map056/events/243/pages/1/0/Dialogue
+> CONTEXT: Map049/events/141/pages/1/0/Dialogue
+> CONTEXT: Map046/events/150/pages/2/0/Dialogue
+> CONTEXT: Map031/events/5/pages/1/0/Dialogue
+> CONTEXT: Map027/events/34/pages/1/0/Dialogue
+> CONTEXT: Map023/events/9/pages/1/0/Dialogue
+> CONTEXT: Map024/events/119/pages/1/0/Dialogue
+> CONTEXT: Map020/events/31/pages/1/0/Dialogue
+> CONTEXT: Map014/events/71/pages/1/0/Dialogue
+> CONTEXT: Map011/events/14/pages/1/0/Dialogue
+> CONTEXT: Map001/events/59/pages/2/0/Dialogue
+긴장 때문에 동공이 수축하여
+기계가 동공을 인식하지 못한다!
+> END STRING
+
+> BEGIN STRING
+服务器
+> CONTEXT: Map092/events/3/pages/0/0/Dialogue
+> CONTEXT: Map092/events/4/pages/0/0/Dialogue
+> CONTEXT: Map092/events/5/pages/0/0/Dialogue
+> CONTEXT: Map092/events/6/pages/0/0/Dialogue
+> CONTEXT: Map089/events/1/pages/0/0/Dialogue
+> CONTEXT: Map089/events/9/pages/0/0/Dialogue
+> CONTEXT: Map089/events/10/pages/0/0/Dialogue
+> CONTEXT: Map089/events/11/pages/0/0/Dialogue
+> CONTEXT: Map089/events/12/pages/0/0/Dialogue
+> CONTEXT: Map089/events/13/pages/0/0/Dialogue
+> CONTEXT: Map089/events/14/pages/0/0/Dialogue
+> CONTEXT: Map089/events/25/pages/0/0/Dialogue
+> CONTEXT: Map089/events/26/pages/0/0/Dialogue
+> CONTEXT: Map088/events/42/pages/0/0/Dialogue
+> CONTEXT: Map088/events/43/pages/0/0/Dialogue
+> CONTEXT: Map088/events/55/pages/0/0/Dialogue
+> CONTEXT: Map089/events/101/pages/0/0/Dialogue
+> CONTEXT: Map089/events/102/pages/0/0/Dialogue
+> CONTEXT: Map089/events/103/pages/0/0/Dialogue
+> CONTEXT: Map089/events/104/pages/0/0/Dialogue
+> CONTEXT: Map089/events/105/pages/0/0/Dialogue
+> CONTEXT: Map089/events/106/pages/0/0/Dialogue
+> CONTEXT: Map089/events/107/pages/0/0/Dialogue
+> CONTEXT: Map089/events/108/pages/0/0/Dialogue
+> CONTEXT: Map089/events/109/pages/0/0/Dialogue
+> CONTEXT: Map088/events/185/pages/0/0/Dialogue
+> CONTEXT: Map088/events/186/pages/0/0/Dialogue
+> CONTEXT: Map088/events/187/pages/0/0/Dialogue
+서버인듯 하다.
+> END STRING
+
+> BEGIN STRING
+神秘的结晶体
+> CONTEXT: Map092/events/8/pages/0/0/Dialogue
+> CONTEXT: Map092/events/9/pages/0/0/Dialogue
+> CONTEXT: Map092/events/10/pages/0/0/Dialogue
+> CONTEXT: Map092/events/11/pages/0/0/Dialogue
+> CONTEXT: Map092/events/12/pages/0/0/Dialogue
+> CONTEXT: Map091/events/9/pages/0/0/Dialogue
+> CONTEXT: Map091/events/31/pages/0/0/Dialogue
+> CONTEXT: Map091/events/32/pages/0/0/Dialogue
+> CONTEXT: Map091/events/33/pages/0/0/Dialogue
+> CONTEXT: Map091/events/34/pages/0/0/Dialogue
+> CONTEXT: Map092/events/13/pages/0/0/Dialogue
+> CONTEXT: Map091/events/35/pages/0/0/Dialogue
+> CONTEXT: Map091/events/36/pages/0/0/Dialogue
+> CONTEXT: Map091/events/37/pages/0/0/Dialogue
+> CONTEXT: Map091/events/39/pages/0/0/Dialogue
+> CONTEXT: Map091/events/48/pages/0/0/Dialogue
+> CONTEXT: Map092/events/43/pages/0/0/Dialogue
+> CONTEXT: Map092/events/44/pages/0/0/Dialogue
+> CONTEXT: Map092/events/45/pages/0/0/Dialogue
+> CONTEXT: Map092/events/46/pages/0/0/Dialogue
+> CONTEXT: Map092/events/47/pages/0/0/Dialogue
+> CONTEXT: Map092/events/48/pages/0/0/Dialogue
+> CONTEXT: Map091/events/62/pages/0/0/Dialogue
+> CONTEXT: Map091/events/64/pages/0/0/Dialogue
+> CONTEXT: Map092/events/54/pages/0/0/Dialogue
+> CONTEXT: Map092/events/55/pages/0/0/Dialogue
+> CONTEXT: Map091/events/68/pages/0/0/Dialogue
+> CONTEXT: Map092/events/56/pages/0/0/Dialogue
+> CONTEXT: Map091/events/69/pages/0/0/Dialogue
+> CONTEXT: Map092/events/57/pages/0/0/Dialogue
+> CONTEXT: Map091/events/71/pages/0/0/Dialogue
+> CONTEXT: Map091/events/72/pages/0/0/Dialogue
+> CONTEXT: Map091/events/73/pages/0/0/Dialogue
+> CONTEXT: Map091/events/85/pages/0/0/Dialogue
+> CONTEXT: Map091/events/87/pages/0/0/Dialogue
+> CONTEXT: Map091/events/90/pages/0/0/Dialogue
+> CONTEXT: Map091/events/91/pages/0/0/Dialogue
+> CONTEXT: Map091/events/92/pages/0/0/Dialogue
+> CONTEXT: Map091/events/93/pages/0/0/Dialogue
+> CONTEXT: Map091/events/96/pages/0/0/Dialogue
+> CONTEXT: Map091/events/97/pages/0/0/Dialogue
+> CONTEXT: Map091/events/115/pages/0/0/Dialogue
+> CONTEXT: Map091/events/116/pages/0/0/Dialogue
+> CONTEXT: Map091/events/117/pages/0/0/Dialogue
+> CONTEXT: Map089/events/34/pages/0/0/Dialogue
+> CONTEXT: Map091/events/118/pages/0/0/Dialogue
+> CONTEXT: Map089/events/35/pages/0/0/Dialogue
+> CONTEXT: Map089/events/49/pages/0/0/Dialogue
+> CONTEXT: Map089/events/50/pages/0/0/Dialogue
+> CONTEXT: Map089/events/51/pages/0/0/Dialogue
+> CONTEXT: Map089/events/52/pages/0/0/Dialogue
+> CONTEXT: Map091/events/141/pages/0/0/Dialogue
+> CONTEXT: Map088/events/15/pages/0/0/Dialogue
+> CONTEXT: Map088/events/16/pages/0/0/Dialogue
+> CONTEXT: Map089/events/53/pages/0/0/Dialogue
+> CONTEXT: Map089/events/55/pages/0/0/Dialogue
+> CONTEXT: Map093/events/62/pages/0/0/Dialogue
+> CONTEXT: Map093/events/63/pages/0/0/Dialogue
+> CONTEXT: Map093/events/64/pages/0/0/Dialogue
+> CONTEXT: Map093/events/65/pages/0/0/Dialogue
+> CONTEXT: Map088/events/17/pages/0/0/Dialogue
+> CONTEXT: Map093/events/66/pages/0/0/Dialogue
+> CONTEXT: Map088/events/18/pages/0/0/Dialogue
+> CONTEXT: Map093/events/67/pages/0/0/Dialogue
+> CONTEXT: Map091/events/145/pages/0/0/Dialogue
+> CONTEXT: Map091/events/146/pages/0/0/Dialogue
+> CONTEXT: Map091/events/147/pages/0/0/Dialogue
+> CONTEXT: Map091/events/148/pages/0/0/Dialogue
+> CONTEXT: Map093/events/68/pages/0/0/Dialogue
+> CONTEXT: Map091/events/149/pages/0/0/Dialogue
+> CONTEXT: Map093/events/69/pages/0/0/Dialogue
+> CONTEXT: Map091/events/150/pages/0/0/Dialogue
+> CONTEXT: Map093/events/74/pages/0/0/Dialogue
+> CONTEXT: Map089/events/77/pages/0/0/Dialogue
+> CONTEXT: Map093/events/78/pages/0/0/Dialogue
+> CONTEXT: Map088/events/27/pages/0/0/Dialogue
+> CONTEXT: Map089/events/78/pages/0/0/Dialogue
+> CONTEXT: Map093/events/80/pages/0/0/Dialogue
+> CONTEXT: Map093/events/81/pages/0/0/Dialogue
+> CONTEXT: Map093/events/82/pages/0/0/Dialogue
+> CONTEXT: Map093/events/83/pages/0/0/Dialogue
+> CONTEXT: Map093/events/84/pages/0/0/Dialogue
+> CONTEXT: Map088/events/28/pages/0/0/Dialogue
+> CONTEXT: Map088/events/30/pages/0/0/Dialogue
+> CONTEXT: Map089/events/79/pages/0/0/Dialogue
+> CONTEXT: Map093/events/86/pages/0/0/Dialogue
+> CONTEXT: Map093/events/87/pages/0/0/Dialogue
+> CONTEXT: Map093/events/88/pages/0/0/Dialogue
+> CONTEXT: Map093/events/89/pages/0/0/Dialogue
+> CONTEXT: Map093/events/92/pages/0/0/Dialogue
+> CONTEXT: Map089/events/80/pages/0/0/Dialogue
+> CONTEXT: Map093/events/95/pages/0/0/Dialogue
+> CONTEXT: Map091/events/160/pages/0/0/Dialogue
+> CONTEXT: Map089/events/81/pages/0/0/Dialogue
+> CONTEXT: Map088/events/33/pages/0/0/Dialogue
+> CONTEXT: Map093/events/96/pages/0/0/Dialogue
+> CONTEXT: Map089/events/82/pages/0/0/Dialogue
+> CONTEXT: Map089/events/83/pages/0/0/Dialogue
+> CONTEXT: Map088/events/34/pages/0/0/Dialogue
+> CONTEXT: Map093/events/97/pages/0/0/Dialogue
+> CONTEXT: Map093/events/98/pages/0/0/Dialogue
+> CONTEXT: Map089/events/84/pages/0/0/Dialogue
+> CONTEXT: Map088/events/35/pages/0/0/Dialogue
+> CONTEXT: Map093/events/100/pages/0/0/Dialogue
+> CONTEXT: Map093/events/102/pages/0/0/Dialogue
+> CONTEXT: Map093/events/106/pages/0/0/Dialogue
+> CONTEXT: Map093/events/115/pages/0/0/Dialogue
+> CONTEXT: Map093/events/117/pages/0/0/Dialogue
+> CONTEXT: Map093/events/120/pages/0/0/Dialogue
+> CONTEXT: Map089/events/86/pages/0/0/Dialogue
+> CONTEXT: Map093/events/122/pages/0/0/Dialogue
+> CONTEXT: Map091/events/175/pages/0/0/Dialogue
+> CONTEXT: Map089/events/87/pages/0/0/Dialogue
+> CONTEXT: Map093/events/126/pages/0/0/Dialogue
+> CONTEXT: Map088/events/52/pages/0/0/Dialogue
+> CONTEXT: Map089/events/88/pages/0/0/Dialogue
+> CONTEXT: Map088/events/53/pages/0/0/Dialogue
+> CONTEXT: Map089/events/89/pages/0/0/Dialogue
+> CONTEXT: Map089/events/90/pages/0/0/Dialogue
+> CONTEXT: Map088/events/60/pages/0/0/Dialogue
+> CONTEXT: Map088/events/61/pages/0/0/Dialogue
+> CONTEXT: Map089/events/91/pages/0/0/Dialogue
+> CONTEXT: Map088/events/63/pages/0/0/Dialogue
+> CONTEXT: Map089/events/92/pages/0/0/Dialogue
+> CONTEXT: Map091/events/185/pages/0/0/Dialogue
+> CONTEXT: Map091/events/186/pages/0/0/Dialogue
+> CONTEXT: Map089/events/93/pages/0/0/Dialogue
+> CONTEXT: Map091/events/187/pages/0/0/Dialogue
+> CONTEXT: Map093/events/133/pages/0/0/Dialogue
+> CONTEXT: Map093/events/134/pages/0/0/Dialogue
+> CONTEXT: Map089/events/96/pages/0/0/Dialogue
+> CONTEXT: Map089/events/97/pages/0/0/Dialogue
+> CONTEXT: Map089/events/98/pages/0/0/Dialogue
+> CONTEXT: Map088/events/67/pages/0/0/Dialogue
+> CONTEXT: Map088/events/69/pages/0/0/Dialogue
+> CONTEXT: Map093/events/145/pages/0/0/Dialogue
+> CONTEXT: Map089/events/173/pages/0/0/Dialogue
+> CONTEXT: Map088/events/77/pages/0/0/Dialogue
+> CONTEXT: Map089/events/174/pages/0/0/Dialogue
+> CONTEXT: Map089/events/175/pages/0/0/Dialogue
+> CONTEXT: Map089/events/176/pages/0/0/Dialogue
+> CONTEXT: Map089/events/177/pages/0/0/Dialogue
+> CONTEXT: Map088/events/78/pages/0/0/Dialogue
+> CONTEXT: Map089/events/179/pages/0/0/Dialogue
+> CONTEXT: Map093/events/150/pages/0/0/Dialogue
+> CONTEXT: Map088/events/81/pages/0/0/Dialogue
+> CONTEXT: Map089/events/181/pages/0/0/Dialogue
+> CONTEXT: Map089/events/182/pages/0/0/Dialogue
+> CONTEXT: Map089/events/183/pages/0/0/Dialogue
+> CONTEXT: Map088/events/104/pages/0/0/Dialogue
+> CONTEXT: Map089/events/210/pages/0/0/Dialogue
+> CONTEXT: Map088/events/107/pages/0/0/Dialogue
+> CONTEXT: Map088/events/109/pages/0/0/Dialogue
+> CONTEXT: Map088/events/111/pages/0/0/Dialogue
+> CONTEXT: Map088/events/113/pages/0/0/Dialogue
+> CONTEXT: Map088/events/114/pages/0/0/Dialogue
+> CONTEXT: Map088/events/115/pages/0/0/Dialogue
+> CONTEXT: Map088/events/117/pages/0/0/Dialogue
+> CONTEXT: Map088/events/123/pages/0/0/Dialogue
+> CONTEXT: Map088/events/130/pages/0/0/Dialogue
+> CONTEXT: Map088/events/137/pages/0/0/Dialogue
+> CONTEXT: Map088/events/138/pages/0/0/Dialogue
+> CONTEXT: Map088/events/152/pages/0/0/Dialogue
+> CONTEXT: Map088/events/160/pages/0/0/Dialogue
+> CONTEXT: Map088/events/164/pages/0/0/Dialogue
+> CONTEXT: Map089/events/215/pages/0/0/Dialogue
+> CONTEXT: Map089/events/216/pages/0/0/Dialogue
+> CONTEXT: Map089/events/217/pages/0/0/Dialogue
+> CONTEXT: Map089/events/218/pages/0/0/Dialogue
+> CONTEXT: Map089/events/219/pages/0/0/Dialogue
+> CONTEXT: Map089/events/220/pages/0/0/Dialogue
+> CONTEXT: Map089/events/221/pages/0/0/Dialogue
+> CONTEXT: Map089/events/222/pages/0/0/Dialogue
+> CONTEXT: Map089/events/223/pages/0/0/Dialogue
+> CONTEXT: Map019/events/43/pages/0/0/Dialogue
+> CONTEXT: Map019/events/103/pages/0/0/Dialogue
+> CONTEXT: Map019/events/104/pages/0/0/Dialogue
+> CONTEXT: Map019/events/105/pages/0/0/Dialogue
+> CONTEXT: Map019/events/106/pages/0/0/Dialogue
+> CONTEXT: Map016/events/7/pages/0/0/Dialogue
+> CONTEXT: Map016/events/25/pages/0/0/Dialogue
+> CONTEXT: Map016/events/26/pages/0/0/Dialogue
+> CONTEXT: Map016/events/29/pages/0/0/Dialogue
+> CONTEXT: Map019/events/132/pages/0/0/Dialogue
+> CONTEXT: Map016/events/31/pages/0/0/Dialogue
+> CONTEXT: Map019/events/133/pages/0/0/Dialogue
+> CONTEXT: Map016/events/71/pages/0/0/Dialogue
+> CONTEXT: Map016/events/74/pages/0/0/Dialogue
+> CONTEXT: Map016/events/75/pages/0/0/Dialogue
+> CONTEXT: Map016/events/76/pages/0/0/Dialogue
+> CONTEXT: Map016/events/77/pages/0/0/Dialogue
+> CONTEXT: Map016/events/78/pages/0/0/Dialogue
+> CONTEXT: Map016/events/80/pages/0/0/Dialogue
+> CONTEXT: Map016/events/81/pages/0/0/Dialogue
+> CONTEXT: Map016/events/82/pages/0/0/Dialogue
+> CONTEXT: Map016/events/84/pages/0/0/Dialogue
+> CONTEXT: Map016/events/89/pages/0/0/Dialogue
+> CONTEXT: Map016/events/91/pages/0/0/Dialogue
+> CONTEXT: Map016/events/92/pages/0/0/Dialogue
+> CONTEXT: Map016/events/93/pages/0/0/Dialogue
+> CONTEXT: Map016/events/126/pages/0/0/Dialogue
+> CONTEXT: Map016/events/128/pages/0/0/Dialogue
+> CONTEXT: Map016/events/137/pages/0/0/Dialogue
+> CONTEXT: Map016/events/139/pages/0/0/Dialogue
+> CONTEXT: Map016/events/140/pages/0/0/Dialogue
+> CONTEXT: Map016/events/142/pages/0/0/Dialogue
+> CONTEXT: Map016/events/144/pages/0/0/Dialogue
+> CONTEXT: Map016/events/147/pages/0/0/Dialogue
+> CONTEXT: Map016/events/148/pages/0/0/Dialogue
+> CONTEXT: Map016/events/149/pages/0/0/Dialogue
+> CONTEXT: Map016/events/160/pages/0/0/Dialogue
+> CONTEXT: Map016/events/162/pages/0/0/Dialogue
+> CONTEXT: Map016/events/164/pages/0/0/Dialogue
+> CONTEXT: Map016/events/180/pages/0/0/Dialogue
+> CONTEXT: Map016/events/183/pages/0/0/Dialogue
+> CONTEXT: Map016/events/185/pages/0/0/Dialogue
+> CONTEXT: Map016/events/187/pages/0/0/Dialogue
+> CONTEXT: Map016/events/195/pages/0/0/Dialogue
+> CONTEXT: Map016/events/230/pages/0/0/Dialogue
+> CONTEXT: Map016/events/231/pages/0/0/Dialogue
+> CONTEXT: Map016/events/248/pages/0/0/Dialogue
+> CONTEXT: Map016/events/249/pages/0/0/Dialogue
+> CONTEXT: Map016/events/257/pages/0/0/Dialogue
+> CONTEXT: Map016/events/258/pages/0/0/Dialogue
+> CONTEXT: Map016/events/263/pages/0/0/Dialogue
+> CONTEXT: Map016/events/265/pages/0/0/Dialogue
+> CONTEXT: Map016/events/269/pages/0/0/Dialogue
+> CONTEXT: Map016/events/270/pages/0/0/Dialogue
+> CONTEXT: Map016/events/271/pages/0/0/Dialogue
+> CONTEXT: Map016/events/272/pages/0/0/Dialogue
+> CONTEXT: Map016/events/273/pages/0/0/Dialogue
+> CONTEXT: Map016/events/274/pages/0/0/Dialogue
+> CONTEXT: Map016/events/275/pages/0/0/Dialogue
+> CONTEXT: Map007/events/13/pages/0/0/Dialogue
+> CONTEXT: Map007/events/15/pages/0/0/Dialogue
+> CONTEXT: Map007/events/16/pages/0/0/Dialogue
+> CONTEXT: Map007/events/18/pages/0/0/Dialogue
+> CONTEXT: Map007/events/25/pages/0/0/Dialogue
+> CONTEXT: Map007/events/26/pages/0/0/Dialogue
+> CONTEXT: Map007/events/27/pages/0/0/Dialogue
+> CONTEXT: Map007/events/28/pages/0/0/Dialogue
+> CONTEXT: Map007/events/33/pages/0/0/Dialogue
+> CONTEXT: Map007/events/36/pages/0/0/Dialogue
+> CONTEXT: Map007/events/81/pages/0/0/Dialogue
+> CONTEXT: Map007/events/83/pages/0/0/Dialogue
+> CONTEXT: Map007/events/86/pages/0/0/Dialogue
+> CONTEXT: Map007/events/88/pages/0/0/Dialogue
+> CONTEXT: Map007/events/89/pages/0/0/Dialogue
+> CONTEXT: Map007/events/90/pages/0/0/Dialogue
+> CONTEXT: Map007/events/91/pages/0/0/Dialogue
+> CONTEXT: Map007/events/92/pages/0/0/Dialogue
+> CONTEXT: Map007/events/93/pages/0/0/Dialogue
+> CONTEXT: Map007/events/94/pages/0/0/Dialogue
+> CONTEXT: Map007/events/95/pages/0/0/Dialogue
+> CONTEXT: Map007/events/96/pages/0/0/Dialogue
+> CONTEXT: Map007/events/97/pages/0/0/Dialogue
+> CONTEXT: Map007/events/98/pages/0/0/Dialogue
+> CONTEXT: Map007/events/99/pages/0/0/Dialogue
+> CONTEXT: Map007/events/103/pages/0/0/Dialogue
+> CONTEXT: Map007/events/104/pages/0/0/Dialogue
+> CONTEXT: Map007/events/105/pages/0/0/Dialogue
+신비한 결정체다.
+> END STRING
+
+> BEGIN STRING
+看热闹可不是个好习惯
+> CONTEXT: Map092/events/18/pages/1/0/Dialogue
+> CONTEXT: Map092/events/19/pages/1/0/Dialogue
+구경하는 것은 좋은 버릇이 아니다.
+> END STRING
+
+> BEGIN STRING
+我们B组的杰出科学家们成功的人为诱变了一些黑色胶兽
+，经过人为诱发而变异的胶兽脱离了“核”的限制
+> CONTEXT: Map092/events/26/pages/0/1/Dialogue
+우리 B팀의 걸출한 과학자들이 인위적으로
+검은 점액을 변이 시키는데 성공했고, 
+인위적인 변이를 거쳐 점액짐승이 
+"핵"의 제한을 벗어났다.
+> END STRING
+
+> BEGIN STRING
+这种新的胶兽不再有“结晶面具”，而且颜色也从黑色
+变成了纯白色，为了便于区分，我们直接将其命名为“
+白色胶兽”
+> CONTEXT: Map092/events/26/pages/0/5/Dialogue
+이 새로운 점액짐승은 더 이상 
+“결정가면”이 없으며, 색깔도 검은색에서 
+순백색으로 변하여, 구분이 용이하도록
+우리는 직접 "하얀 점액짐승"이라 명했다.
+> END STRING
+
+> BEGIN STRING
+白色胶兽相比于黑色胶兽，它们的变化能力更强，它们
+可以承载更多种多样的动物基因，甚至可以融合复数的
+动物基因创造出前所未有的复合型胶兽
+> CONTEXT: Map092/events/26/pages/0/10/Dialogue
+흰색 점액짐승은 검은 점액짐승보다 
+변화력이 더 강하다. 그것들은 더 다양한 
+동물 유전자를 담을 수 있고, 심지어 동물 
+유전자가 복수로 융합되는 전례없는 
+복합형 점액짐승을 만들어 낸다.
+> END STRING
+
+> BEGIN STRING
+那些外表已经呈现为动物模样的白色胶兽，虽然颜色已
+经不再是白色，但也一并统称为“白色胶兽”，我们偶
+尔也称它们为“杂色胶兽”
+> CONTEXT: Map092/events/26/pages/0/15/Dialogue
+그 겉모습이 이미 동물처럼 보이는 흰색 
+점액짐승들은, 비록 색이 더 이상 흰색이 
+아니지만, 동시에 "하얀 점액짐승"이라고도 
+불리며, 우리는 가끔 그것들을 
+"다색의 점액짐승"이라 불렀다.
+> END STRING
+
+> BEGIN STRING
+对于它们的变异种，黑色胶兽对白色胶兽并没有什么好
+感，黑色胶兽很讨厌白色胶兽出现在它们附近，黑色胶
+兽有时甚至会捕食白色胶兽，有趣的行为
+> CONTEXT: Map092/events/26/pages/0/20/Dialogue
+그들의 변종에 대해 검은 점액짐승은 
+흰 점액짐승에게 별로 호감을 가지고 
+있지 않으며, 검은 점액짐승은 
+흰 점액짐승이 그들 근처에 나타나는 것을 
+매우 싫어하고, 때때로 검은 점액짐승이 
+흰 점액짐승을 잡아먹기도 한다. 
+흥미로운 행위다.
+> END STRING
+
+> BEGIN STRING
+我们B组剩下的难点，就是如何让被验者与白色胶兽融合
+后还能留有个人意识了
+> CONTEXT: Map092/events/26/pages/0/25/Dialogue
+우리 B팀의 남은 문제점은, 어떻게 
+피험자가 흰 점액짐승과 융합한 후에도 
+자아가 남아있을 수 있게 하는가이다.
+> END STRING
+
+> BEGIN STRING
+至于C组，他们仍然执着于黑色胶兽，他们似乎创造出了
+另一种长着翅膀的蜥蜴…
+> CONTEXT: Map092/events/26/pages/0/29/Dialogue
+C그룹에 대해선, 여전히 검은 
+점액짐승에 집착하고 있는데, 그들은 
+날개 달린 다른 도마뱀을 창조한 것 같다…
+> END STRING
+
+> BEGIN STRING
+这些胶兽可没有什么行动规则可言，它们就要猛扑过来
+了，快逃！
+> CONTEXT: Map092/events/58/pages/0/44/Dialogue
+이 짐승들은 어떤 행동 규칙도 가지고 
+있지 않다. 그것들은 곧 덤벼들 것이다, 
+어서 도망쳐야해!
+> END STRING
