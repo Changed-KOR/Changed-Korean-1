@@ -1,0 +1,175 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+请完成消毒再前往下一区域
+> CONTEXT: Map090/events/2/pages/0/4/Dialogue
+> CONTEXT: Map090/events/130/pages/0/4/Dialogue
+소독을 마치고 다음 구역으로 가십시오
+> END STRING
+
+> BEGIN STRING
+通风管道里面有东西在动
+> CONTEXT: Map090/events/16/pages/0/0/Dialogue
+> CONTEXT: Map090/events/37/pages/0/0/Dialogue
+통풍관 안에 무언가가 움직이고 있다.
+> END STRING
+
+> BEGIN STRING
+通风管道里面空空荡荡
+> CONTEXT: Map090/events/16/pages/1/0/Dialogue
+> CONTEXT: Map090/events/37/pages/1/0/Dialogue
+통풍관 안이 텅 비어 있다.
+> END STRING
+
+> BEGIN STRING
+不可以放置在这里
+> CONTEXT: Map090/events/23/pages/1/0/Dialogue
+> CONTEXT: Map090/events/24/pages/1/0/Dialogue
+> CONTEXT: Map090/events/25/pages/1/0/Dialogue
+> CONTEXT: Map090/events/26/pages/1/0/Dialogue
+> CONTEXT: Map090/events/27/pages/1/0/Dialogue
+> CONTEXT: Map090/events/28/pages/1/0/Dialogue
+> CONTEXT: Map090/events/29/pages/1/0/Dialogue
+> CONTEXT: Map090/events/30/pages/1/0/Dialogue
+> CONTEXT: Map090/events/31/pages/1/0/Dialogue
+> CONTEXT: Map090/events/32/pages/1/0/Dialogue
+> CONTEXT: Map090/events/33/pages/1/0/Dialogue
+> CONTEXT: Map090/events/34/pages/1/0/Dialogue
+> CONTEXT: Map090/events/35/pages/1/0/Dialogue
+> CONTEXT: Map090/events/36/pages/1/0/Dialogue
+여기에 둘 수는 없다.
+> END STRING
+
+> BEGIN STRING
+请消毒
+> CONTEXT: Map090/events/108/pages/0/0/Dialogue
+> CONTEXT: Map090/events/109/pages/0/0/Dialogue
+> CONTEXT: Map090/events/113/pages/0/0/Dialogue
+> CONTEXT: Map090/events/115/pages/0/0/Dialogue
+소독을 해야한다.
+> END STRING
+
+> BEGIN STRING
+步骤一：按下右侧按钮，等待消毒
+步骤二：通风管道打开，开始消毒
+步骤三：在房间内静待，消毒完成
+步骤四：最右侧门开启，离开房间
+> CONTEXT: Map090/events/121/pages/0/1/Dialogue
+단계 1 : 오른쪽 버튼을 누르고 소독 대기
+단계 2 : 통풍 배관이 열리고 소독이 시작됨
+단계 3 : 방안에서 대기, 소독 완료
+단계 4 : 맨 오른쪽 문이 열리고 방에서 나감
+> END STRING
+
+> BEGIN STRING
+警告
+> CONTEXT: Map090/events/123/pages/0/1/Dialogue
+경고
+> END STRING
+
+> BEGIN STRING
+按下后将进行一分钟的消毒流程
+> CONTEXT: Map090/events/123/pages/0/4/Dialogue
+누르면 1분간 소독 절차가 진행
+> END STRING
+
+> BEGIN STRING
+消毒流程期间将会打开通风管道
+> CONTEXT: Map090/events/123/pages/0/7/Dialogue
+소독 절차 동안 통풍관이 개방됩니다
+> END STRING
+
+> BEGIN STRING
+您确定要立即开始消毒流程吗？
+> CONTEXT: Map090/events/123/pages/0/10/Dialogue
+소독 절차를 즉시 시작하시겠습니까？
+> END STRING
+
+> BEGIN STRING
+是
+> CONTEXT: Map090/events/123/pages/0/12/Choice/0
+> CONTEXT: Map084/events/61/pages/0/4/Choice/0
+> CONTEXT: Map080/events/120/pages/0/8/Choice/0
+> CONTEXT: Map064/events/20/pages/0/3/Choice/0
+> CONTEXT: Map063/events/120/pages/0/8/Choice/0
+> CONTEXT: Map054/events/35/pages/0/3/Choice/0
+> CONTEXT: Map046/events/69/pages/0/2/Choice/0
+> CONTEXT: Map048/events/120/pages/0/8/Choice/0
+> CONTEXT: Map044/events/137/pages/0/2/Choice/0
+> CONTEXT: Map045/events/314/pages/3/69/Choice/0
+> CONTEXT: Map041/events/10/pages/0/2/Choice/0
+> CONTEXT: Map041/events/10/pages/1/2/Choice/0
+> CONTEXT: Map037/events/14/pages/0/4/Choice/0
+> CONTEXT: Map023/events/200/pages/0/4/Choice/0
+> CONTEXT: Map019/events/102/pages/0/4/Choice/0
+> CONTEXT: Map017/events/224/pages/0/4/Choice/0
+> CONTEXT: Map015/events/1/pages/1/2/Choice/0
+> CONTEXT: Map009/events/23/pages/0/2/Choice/0
+> CONTEXT: Map002/events/26/pages/0/4/Choice/0
+> CONTEXT: Map001/events/94/pages/0/2/Choice/0
+> CONTEXT: Map001/events/95/pages/0/2/Choice/0
+> CONTEXT: Map001/events/96/pages/0/2/Choice/0
+> CONTEXT: Map001/events/97/pages/0/2/Choice/0
+> CONTEXT: Map001/events/98/pages/0/2/Choice/0
+> CONTEXT: Map001/events/99/pages/0/2/Choice/0
+> CONTEXT: Map001/events/100/pages/0/2/Choice/0
+> CONTEXT: Map001/events/101/pages/0/2/Choice/0
+예
+> END STRING
+
+> BEGIN STRING
+否
+> CONTEXT: Map090/events/123/pages/0/12/Choice/1
+> CONTEXT: Map084/events/61/pages/0/4/Choice/1
+> CONTEXT: Map080/events/120/pages/0/8/Choice/1
+> CONTEXT: Map064/events/20/pages/0/3/Choice/1
+> CONTEXT: Map063/events/120/pages/0/8/Choice/1
+> CONTEXT: Map054/events/35/pages/0/3/Choice/1
+> CONTEXT: Map046/events/69/pages/0/2/Choice/1
+> CONTEXT: Map048/events/120/pages/0/8/Choice/1
+> CONTEXT: Map044/events/137/pages/0/2/Choice/1
+> CONTEXT: Map045/events/314/pages/3/69/Choice/1
+> CONTEXT: Map041/events/10/pages/0/2/Choice/1
+> CONTEXT: Map041/events/10/pages/1/2/Choice/1
+> CONTEXT: Map037/events/14/pages/0/4/Choice/1
+> CONTEXT: Map023/events/200/pages/0/4/Choice/1
+> CONTEXT: Map019/events/102/pages/0/4/Choice/1
+> CONTEXT: Map017/events/224/pages/0/4/Choice/1
+> CONTEXT: Map015/events/1/pages/1/2/Choice/1
+> CONTEXT: Map009/events/23/pages/0/2/Choice/1
+> CONTEXT: Map002/events/26/pages/0/4/Choice/1
+> CONTEXT: Map001/events/94/pages/0/2/Choice/1
+> CONTEXT: Map001/events/95/pages/0/2/Choice/1
+> CONTEXT: Map001/events/96/pages/0/2/Choice/1
+> CONTEXT: Map001/events/97/pages/0/2/Choice/1
+> CONTEXT: Map001/events/98/pages/0/2/Choice/1
+> CONTEXT: Map001/events/99/pages/0/2/Choice/1
+> CONTEXT: Map001/events/100/pages/0/2/Choice/1
+> CONTEXT: Map001/events/101/pages/0/2/Choice/1
+아니오
+> END STRING
+
+> BEGIN STRING
+已经操作过了
+> CONTEXT: Map090/events/123/pages/1/0/Dialogue
+이미 조작했다.
+> END STRING
+
+> BEGIN STRING
+消毒流程已完成，正在打开气密门
+> CONTEXT: Map090/events/127/pages/0/12/Dialogue
+소독 절차가 완료되어, 밀폐문을 열고 있습니다.
+> END STRING
+
+> BEGIN STRING
+一堆路障挡住了你的去路，但你应该拿的起来这些轻巧
+的塑料路障
+> CONTEXT: Map090/events/128/pages/0/24/Dialogue
+한 무더기의 바리케이트가 갈 길을 가로막았지만, 
+들고 옮길수 있는 가벼운 플라스틱 바리케이트다.
+> END STRING
+
+> BEGIN STRING
+是时候清理出一条路来了
+> CONTEXT: Map090/events/128/pages/0/27/Dialogue
+시간을 내 길을 만들어보자.
+> END STRING
