@@ -296,46 +296,67 @@
 > END STRING
 
 > BEGIN STRING
-                   本游戏纯属虚构
-              本游戏包含部分跳杀、裸露
-> CONTEXT: Map002/events/36/pages/0/6/Dialogue < UNTRANSLATED
-               이 게임은 픽션입니다.
-          공포, 노출 표현이 포함되어 있습니다.
+很抱歉，这个版本还在开发中，仅供测试，游戏内容不
+完整，您可以选择在本版本完成后再来体验
+> CONTEXT: Map002/events/36/pages/0/0/Dialogue
+죄송합니다, 이 버전은 아직 개발 중에 있으며,
+테스트용으로만 제공되며, 게임의 내용이 
+불완전하므로, 당신은 본 버전이 완성된 후에 
+다시 체험하는걸 선택할 수 있습니다.
+> END STRING
+
+> BEGIN STRING
+Sorry, this version is still under development,
+only for testing, the game content is incomplete,
+and only supports Chinese for the time being, but
+I will translate after this version is completed
+> CONTEXT: Map002/events/36/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+                 本游戏内容纯属虚构
+           游戏剧情内容请以原版剧情为基准
+     强烈推荐在完成原版游戏之后再体验此版本游戏
+> CONTEXT: Map002/events/36/pages/0/14/Dialogue
+                이 게임은 픽션입니다.
+           오리지널 게임을 클리어 한 후에 
+   이 버전의 게임을 체험하는 것을 강력히 추천합니다.
 > END STRING
 
 > BEGIN STRING
            检测到电力不足，总发电机已故障
 > CONTEXT: Map002/events/36/pages/0/30/Dialogue < UNTRANSLATED
-       [ 전력 부족이 감지됨. ]
-     [ 메인 발전기 고장 감지됨.]
+           [ 전력 부족이 감지됨. ]
+         [ 메인 발전기 고장 감지됨.]
 > END STRING
 
 > BEGIN STRING
            电梯电力已下线，办公区电力下线
 > CONTEXT: Map002/events/36/pages/0/33/Dialogue < UNTRANSLATED
-      [ 승강기 전원 공급을 중단. ]
-     [ 사무 구역 전원 공급을 중단. ]
+          [ 승강기 전원 공급을 중단. ]
+        [ 사무 구역 전원 공급을 중단. ]
 > END STRING
 
 > BEGIN STRING
            图书馆电力下线，维生舱即将下线
 > CONTEXT: Map002/events/36/pages/0/36/Dialogue < UNTRANSLATED
-     [ 도서실 구역 전원 공급을 중단. ]
-      [ 주거 구역 전원 공급을 중단. ]
+         [ 도서실 구역 전원 공급을 중단. ]
+          [ 주거 구역 전원 공급을 중단. ]
 > END STRING
 
 > BEGIN STRING
            为保证对象存活，紧急释出被验者
 > CONTEXT: Map002/events/36/pages/0/39/Dialogue < UNTRANSLATED
-         [ 생존자 확보를 위해,
-       피험자를 긴급 석방합니다. ]
+             [ 생존자 확보를 위해,
+          피험자를 긴급 석방합니다. ]
 > END STRING
 
 > BEGIN STRING
            备用电力上线中，请尽快寻求帮助
 > CONTEXT: Map002/events/36/pages/0/42/Dialogue < UNTRANSLATED
-          [ 예비 전력 연결됨. 
-     가능한 한 빨리 도움을 요청하세요. ]
+             [ 예비 전력 연결됨. 
+      가능한 한 빨리 도움을 요청하세요. ]
 > END STRING
 
 > BEGIN STRING
@@ -391,12 +412,6 @@
 很明显，你只有这一个选择了
 > CONTEXT: Map002/events/36/pages/0/86/Dialogue < UNTRANSLATED
 분명히, 이게 유일한 선택지인 듯 하다.
-> END STRING
-
-> BEGIN STRING
-'1/0'
-> CONTEXT: Map002/events/36/pages/0/90/InlineScript/2:23 < UNTRANSLATED
-
 > END STRING
 
 > BEGIN STRING
