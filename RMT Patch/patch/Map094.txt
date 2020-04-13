@@ -1,0 +1,238 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+现在你能够清楚的看到这栋建筑的副塔部分了
+> CONTEXT: Map093/events/9/pages/0/0/Dialogue
+> CONTEXT: Map093/events/10/pages/0/0/Dialogue
+> CONTEXT: Map093/events/11/pages/0/0/Dialogue
+> CONTEXT: Map093/events/12/pages/0/0/Dialogue
+> CONTEXT: Map093/events/13/pages/0/0/Dialogue
+> CONTEXT: Map093/events/14/pages/0/0/Dialogue
+> CONTEXT: Map093/events/15/pages/0/0/Dialogue
+> CONTEXT: Map093/events/16/pages/0/0/Dialogue
+> CONTEXT: Map093/events/17/pages/0/0/Dialogue
+> CONTEXT: Map093/events/18/pages/0/0/Dialogue
+> CONTEXT: Map093/events/19/pages/0/0/Dialogue
+> CONTEXT: Map093/events/20/pages/0/0/Dialogue
+> CONTEXT: Map093/events/21/pages/0/0/Dialogue
+> CONTEXT: Map093/events/22/pages/0/0/Dialogue
+> CONTEXT: Map093/events/23/pages/0/0/Dialogue
+> CONTEXT: Map093/events/24/pages/0/0/Dialogue
+> CONTEXT: Map093/events/25/pages/0/0/Dialogue
+> CONTEXT: Map093/events/26/pages/0/0/Dialogue
+> CONTEXT: Map093/events/27/pages/0/0/Dialogue
+> CONTEXT: Map093/events/28/pages/0/0/Dialogue
+> CONTEXT: Map093/events/29/pages/0/0/Dialogue
+> CONTEXT: Map093/events/30/pages/0/0/Dialogue
+> CONTEXT: Map093/events/31/pages/0/0/Dialogue
+> CONTEXT: Map093/events/32/pages/0/0/Dialogue
+> CONTEXT: Map093/events/33/pages/0/0/Dialogue
+> CONTEXT: Map093/events/34/pages/0/0/Dialogue
+> CONTEXT: Map093/events/35/pages/0/0/Dialogue
+> CONTEXT: Map093/events/36/pages/0/0/Dialogue
+> CONTEXT: Map093/events/37/pages/0/0/Dialogue
+> CONTEXT: Map093/events/38/pages/0/0/Dialogue
+> CONTEXT: Map093/events/39/pages/0/0/Dialogue
+> CONTEXT: Map093/events/40/pages/0/0/Dialogue
+> CONTEXT: Map093/events/41/pages/0/0/Dialogue
+> CONTEXT: Map093/events/42/pages/0/0/Dialogue
+이제 너는 이 탑의 일부분을
+똑똑히 볼 수 있다.
+> END STRING
+
+> BEGIN STRING
+极为巨大的水晶突破了混凝土，在阳光下闪耀
+> CONTEXT: Map093/events/9/pages/0/2/Dialogue
+> CONTEXT: Map093/events/10/pages/0/2/Dialogue
+> CONTEXT: Map093/events/11/pages/0/2/Dialogue
+> CONTEXT: Map093/events/12/pages/0/2/Dialogue
+> CONTEXT: Map093/events/13/pages/0/2/Dialogue
+> CONTEXT: Map093/events/14/pages/0/2/Dialogue
+> CONTEXT: Map093/events/15/pages/0/2/Dialogue
+> CONTEXT: Map093/events/16/pages/0/2/Dialogue
+> CONTEXT: Map093/events/17/pages/0/2/Dialogue
+> CONTEXT: Map093/events/18/pages/0/2/Dialogue
+> CONTEXT: Map093/events/19/pages/0/2/Dialogue
+> CONTEXT: Map093/events/20/pages/0/2/Dialogue
+> CONTEXT: Map093/events/21/pages/0/2/Dialogue
+> CONTEXT: Map093/events/22/pages/0/2/Dialogue
+> CONTEXT: Map093/events/23/pages/0/2/Dialogue
+> CONTEXT: Map093/events/24/pages/0/2/Dialogue
+> CONTEXT: Map093/events/25/pages/0/2/Dialogue
+> CONTEXT: Map093/events/26/pages/0/2/Dialogue
+> CONTEXT: Map093/events/27/pages/0/2/Dialogue
+> CONTEXT: Map093/events/28/pages/0/2/Dialogue
+> CONTEXT: Map093/events/29/pages/0/2/Dialogue
+> CONTEXT: Map093/events/30/pages/0/2/Dialogue
+> CONTEXT: Map093/events/31/pages/0/2/Dialogue
+> CONTEXT: Map093/events/32/pages/0/2/Dialogue
+> CONTEXT: Map093/events/33/pages/0/2/Dialogue
+> CONTEXT: Map093/events/34/pages/0/2/Dialogue
+> CONTEXT: Map093/events/35/pages/0/2/Dialogue
+> CONTEXT: Map093/events/36/pages/0/2/Dialogue
+> CONTEXT: Map093/events/37/pages/0/2/Dialogue
+> CONTEXT: Map093/events/38/pages/0/2/Dialogue
+> CONTEXT: Map093/events/39/pages/0/2/Dialogue
+> CONTEXT: Map093/events/40/pages/0/2/Dialogue
+> CONTEXT: Map093/events/41/pages/0/2/Dialogue
+> CONTEXT: Map093/events/42/pages/0/2/Dialogue
+아주 거대한 수정이
+콘크리트를 뚫고 햇빛에 반짝였다.
+> END STRING
+
+> BEGIN STRING
+粘液覆盖了门把手，你无法从这边打开这扇门
+> CONTEXT: Map093/events/43/pages/0/0/Dialogue
+> CONTEXT: Map093/events/44/pages/0/0/Dialogue
+> CONTEXT: Map017/events/1/pages/0/0/Dialogue
+> CONTEXT: Map017/events/2/pages/0/0/Dialogue
+> CONTEXT: Map016/events/23/pages/0/0/Dialogue
+> CONTEXT: Map016/events/24/pages/0/0/Dialogue
+점액이 문 손잡이를 덮어서, 
+이쪽에서 문을 열 수 없다!
+> END STRING
+
+> BEGIN STRING
+整栋高塔呈“W”形，在被改造为研究所之前是作为地上
+避难堡垒而建造的, 整个建筑分三部分，主塔与两个副
+塔，在其中一部分失守后，其他两个区域也还能正常保
+持运作
+> CONTEXT: Map093/events/52/pages/0/1/Dialogue
+전체 타워는 "W"모양으로 되어 있는데, 
+연구소로 개조되기 전에 지상 피난 보루로서 
+지어졌으며, 건물 전체를 메인 탑과 두 개의 
+보조탑, 세 부분으로 나누었다. 
+그 중 일부가 함락된 후에도 다른 
+두 구역은 그대로 유지되었다.
+> END STRING
+
+> BEGIN STRING
+好空旷的长廊
+> CONTEXT: Map093/events/59/pages/0/2/Dialogue
+참 길고 광활한 복도
+> END STRING
+
+> BEGIN STRING
+空旷到让你觉得有什么事情就要发生了
+> CONTEXT: Map093/events/59/pages/0/4/Dialogue
+무슨 일이 곧 일어날 것 같은 기분이
+들 정도로 텅텅 비어있다.
+> END STRING
+
+> BEGIN STRING
+在经历了那么多的事情之后你已经有了奇怪的直觉
+> CONTEXT: Map093/events/59/pages/0/6/Dialogue
+그렇게 많은 일을 겪은 후에 너는 이미 
+이상함을 알아채는 직감을 가지게 되었다.
+> END STRING
+
+> BEGIN STRING
+或许你已经开始习惯这个研究所了
+> CONTEXT: Map093/events/59/pages/0/8/Dialogue
+어쩌면 이 연구소에 익숙해지기 
+시작했을지도 모른다.
+> END STRING
+
+> BEGIN STRING
+巨型水晶立柱
+> CONTEXT: Map093/events/70/pages/0/0/Dialogue
+> CONTEXT: Map016/events/122/pages/0/0/Dialogue
+> CONTEXT: Map016/events/246/pages/0/0/Dialogue
+> CONTEXT: Map016/events/247/pages/0/0/Dialogue
+거대한 수정 기둥
+> END STRING
+
+> BEGIN STRING
+一只巨大的手砸穿了天花板，冲着你来了！
+> CONTEXT: Map093/events/71/pages/0/61/Dialogue
+커다란 손이 천장을 뚫고, 
+너를 향에 다가왔다!
+> END STRING
+
+> BEGIN STRING
+充满能量的结晶体
+> CONTEXT: Map093/events/105/pages/0/0/Dialogue
+> CONTEXT: Map093/events/111/pages/0/0/Dialogue
+> CONTEXT: Map093/events/116/pages/0/0/Dialogue
+> CONTEXT: Map093/events/119/pages/0/0/Dialogue
+> CONTEXT: Map093/events/121/pages/0/0/Dialogue
+> CONTEXT: Map093/events/124/pages/0/0/Dialogue
+> CONTEXT: Map093/events/127/pages/0/0/Dialogue
+> CONTEXT: Map093/events/129/pages/0/0/Dialogue
+> CONTEXT: Map093/events/130/pages/0/0/Dialogue
+> CONTEXT: Map093/events/131/pages/0/0/Dialogue
+> CONTEXT: Map093/events/132/pages/0/0/Dialogue
+> CONTEXT: Map093/events/135/pages/0/0/Dialogue
+> CONTEXT: Map093/events/137/pages/0/0/Dialogue
+> CONTEXT: Map093/events/138/pages/0/0/Dialogue
+> CONTEXT: Map093/events/139/pages/0/0/Dialogue
+> CONTEXT: Map093/events/140/pages/0/0/Dialogue
+> CONTEXT: Map093/events/141/pages/0/0/Dialogue
+> CONTEXT: Map093/events/142/pages/0/0/Dialogue
+> CONTEXT: Map093/events/143/pages/0/0/Dialogue
+> CONTEXT: Map093/events/144/pages/0/0/Dialogue
+> CONTEXT: Map093/events/147/pages/0/0/Dialogue
+> CONTEXT: Map093/events/149/pages/0/0/Dialogue
+> CONTEXT: Map093/events/152/pages/0/0/Dialogue
+> CONTEXT: Map093/events/153/pages/0/0/Dialogue
+에너지가 가득 넘치는 결정체
+> END STRING
+
+> BEGIN STRING
+那只手放弃了
+> CONTEXT: Map093/events/154/pages/0/11/Dialogue
+그 손은 포기한듯 하다.
+> END STRING
+
+> BEGIN STRING
+呀，真不好意思，这就是当前版本的尽头了
+> CONTEXT: Map093/events/155/pages/0/0/Dialogue
+> CONTEXT: Map093/events/156/pages/0/0/Dialogue
+아, 정말 죄송합니다, 
+이게 지금 버전의 끝입니다.
+> END STRING
+
+> BEGIN STRING
+感谢您的支持，您可以通过steam论坛，或
+私信新浪微博“@兽屋之龙”来进行反馈
+> CONTEXT: Map093/events/155/pages/0/2/Dialogue
+당신의 지원에 감사드리며, 
+당신은 steam 포럼이나, 메일, 
+웨이보 “@兽屋之龙”을 통해 
+피드백을 할 수 있습니다.
+> END STRING
+
+> BEGIN STRING
+Thank you for your support, you can use
+the steam forum or private message on
+Twitter "@ SnowDragon8"
+> CONTEXT: Map093/events/155/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我要什么时候才能出场呢？
+> CONTEXT: Map093/events/155/pages/0/9/Dialogue
+> CONTEXT: Map093/events/156/pages/0/8/Dialogue
+…나는 언제 등장할까?
+> END STRING
+
+> BEGIN STRING
+或许，下次吧
+> CONTEXT: Map093/events/155/pages/0/12/Dialogue
+> CONTEXT: Map093/events/156/pages/0/11/Dialogue
+아마, 다음에 하자
+> END STRING
+
+> BEGIN STRING
+感谢您的支持，您可以通过steam论坛，或私信新浪微博
+“@兽屋之龙”来进行反馈
+> CONTEXT: Map093/events/156/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Thank you for your support, you can use the steam
+forum or private message on Twitter @SnowDragon8
+> CONTEXT: Map093/events/156/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
