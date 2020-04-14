@@ -2,26 +2,26 @@
 > BEGIN STRING
 不要再继续走了
 > CONTEXT: Map083/events/53/pages/1/0/Dialogue < UNTRANSLATED
-더 이상 가지마세요
+멈추세요.
 > END STRING
 
 > BEGIN STRING
 我说了不要再继续向前走了
 > CONTEXT: Map083/events/53/pages/1/14/Dialogue < UNTRANSLATED
-더 이상 앞으로 나가지 말라고 했습니다
+더 이상 앞으로 나가지 말라고 했습니다.
 > END STRING
 
 > BEGIN STRING
 你是因为刚才的停电才醒来的吗
 > CONTEXT: Map083/events/53/pages/1/16/Dialogue < UNTRANSLATED
-당신, 방금 정전으로 깨어났습니까
+당신, 방금 정전으로 깨어났습니까?
 > END STRING
 
 > BEGIN STRING
 维生舱室在断电时会自动释出被验者
 > CONTEXT: Map083/events/53/pages/1/18/Dialogue
-전기가 차단되면 자동으로
-위생실에서 피험자를 풀어준다니
+'전원이 차단되면 자동으로
+위생실에서 피험자를 석방한다...'
 > END STRING
 
 > BEGIN STRING
@@ -33,13 +33,13 @@
 > BEGIN STRING
 现在好了
 > CONTEXT: Map083/events/53/pages/1/22/Dialogue
-이제 됐습니다.
+뭐, 상관 없습니다.
 > END STRING
 
 > BEGIN STRING
 一个潜在的隐患开始在研究所里乱跑
 > CONTEXT: Map083/events/53/pages/1/24/Dialogue
-잠재적 위험이 연구소에서 
+잠재적인 위협이 연구소 안을
 돌아다니기 시작했군요.
 > END STRING
 
@@ -53,7 +53,7 @@
 > BEGIN STRING
 所以你最好就待在那里别动
 > CONTEXT: Map083/events/53/pages/1/28/Dialogue
-그러니 거기 가만히 있는게 좋을 껍니다.
+그러니, 거기 가만히 있는 게 좋을 겁니다.
 > END STRING
 
 > BEGIN STRING
@@ -66,53 +66,54 @@
 > BEGIN STRING
 但我并不想回答你的任何问题
 > CONTEXT: Map083/events/53/pages/1/32/Dialogue
-그러나 전 결코 당신의 어떤 질문도 
+그러나 결코 당신의 어떤 질문에도 
 대답하고 싶지 않습니다.
 > END STRING
 
 > BEGIN STRING
 我现在只想要解决我自己的一个问题
 > CONTEXT: Map083/events/53/pages/1/34/Dialogue
-전 이제 저만의 문제 하나를
-해결하려고 합니다.
+저만의 문제 하나를
+해결하려 하니까요.
 > END STRING
 
 > BEGIN STRING
 而那个问题就是你
 > CONTEXT: Map083/events/53/pages/1/36/Dialogue
-그 문제는 바로 당신입니다.
+그리고.. 그 문제는 바로
+당신입니다.
 > END STRING
 
 > BEGIN STRING
 对了
 > CONTEXT: Map083/events/53/pages/1/41/Dialogue
-맞아
+맞아,
 > END STRING
 
 > BEGIN STRING
 我只需要把那个东西开启就可以了
 > CONTEXT: Map083/events/53/pages/1/43/Dialogue
-그걸 켜놓기만 하면 되겠군
+그걸 깜빡하고 있었군.
 > END STRING
 
 > BEGIN STRING
 检测到在逃被验者信号，启动最终安全模式
 > CONTEXT: Map083/events/53/pages/1/47/Dialogue
-피험자 신호가 감지되어 최종 안전 모드 작동
+[ 피험자 신호가 감지되어 최종 안전 모드를 작동합니다. ]
 > END STRING
 
 > BEGIN STRING
 严禁被验者离开仓库保管区，违反者将被采取强制措施
 > CONTEXT: Map083/events/53/pages/1/54/Dialogue
-피험자가 창고 보관 구역을 떠나는것을 엄금하며,
-위반자는 강제 조치를 취할 것입니다.
+[ 이 조치는 피험자의 창고 구역 이탈을 방지하며,
+위반 시 가차없이 해당 인원을 처분합니다. ]
 > END STRING
 
 > BEGIN STRING
 那个混蛋居然用胶带把射线投射器封住了
 > CONTEXT: Map083/events/53/pages/1/66/Dialogue
-그 빌어먹을 녀석이 뜻밖에도 테이프로 방사선 
-투과기를 막았나보군요.
+..그 빌어먹을 녀석이 테이프로 방사선 
+투과기를 막았나 보군요.
 > END STRING
 
 > BEGIN STRING
@@ -125,14 +126,14 @@
 > BEGIN STRING
 但仅剩的这些也足够困住你了
 > CONTEXT: Map083/events/53/pages/1/70/Dialogue
-하지만 남은 것 만으로도 충분히 당신의 
-발을 묶을 수 있습니다.
+하지만 남은 것들만으로도 충분히
+당신 하나쯤은 막을 수 있습니다.
 > END STRING
 
 > BEGIN STRING
 正在检测被验者生命体活动信号
 > CONTEXT: Map083/events/53/pages/1/74/Dialogue
-피험자 생명체 활동 신호를 검출하고 있습니다.
+[ 피험자 생명체 활동 신호를 검출하고 있습니다. ]
 > END STRING
 
 > BEGIN STRING
@@ -152,7 +153,7 @@
 > BEGIN STRING
 你就在那里待着别动吧
 > CONTEXT: Map083/events/53/pages/1/81/Dialogue
-거기 있어주세요 꼼짝말고
+꼼짝 말고 거기서 기다려주십시오.
 > END STRING
 
 > BEGIN STRING
@@ -165,18 +166,17 @@
 这些红外射线看上去会随着你的移动而移动，你只能想
 想办法找出红外射线的移动规律来绕过这些红外射线了
 > CONTEXT: Map083/events/53/pages/1/89/Dialogue
-이 적외선은 당신의 움직임에 따라 움직이는 것처럼 
-보인다. 적외선의 이동 법칙을 찾아 방법을 생각하여
-우회해야 할 것 같다.
+이 적외선은 당신의 움직임에 따라 움직이는 것 같다.
+적외선의 이동 패턴을 분석하여 피할 방법을 찾아보자.
 > END STRING
 
 > BEGIN STRING
 那个在监视着你的人是谁？那个在暗中帮助你的神秘人
 又是谁？只有继续前进才能找到答案了
 > CONTEXT: Map083/events/53/pages/1/92/Dialogue
-당신을 감시하는 사람은 누구인지？은밀하게 
-당신을 돕고 있는 신비한 사람은 또 누구인지？
-계속 전진해야만 답을 찾을 수 있을것같다.
+당신을 감시하는 사람은 누구일까?
+그리고 당신을 은밀하게 돕는 그 자는..?
+일단 이 앞으로 나아가야 답을 찾을 수 있을 것 같다.
 > END STRING
 
 > BEGIN STRING
@@ -188,6 +188,6 @@
 > BEGIN STRING
 未检测到在逃被验者，因电力不足，模式自动关闭
 > CONTEXT: Map083/events/57/pages/0/1/Dialogue < UNTRANSLATED
-피험자가 감지되지 않음, 전력 부족으로, 
-모드가 자동으로 꺼집니다.
+[ 생명 신호가 감지되지 않습니다.
+전력 보존을 위해 시스템을 종료합니다. ]
 > END STRING
