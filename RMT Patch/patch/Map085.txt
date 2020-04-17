@@ -3,7 +3,9 @@
 直到今天为纸，还是没有仁来图书馆…求你…给我一些
 回应好吗…那怕只是告诉我你还活着就可以了…
 > CONTEXT: Map085/events/14/pages/0/1/Dialogue < UNTRANSLATED
-<번역 좀 해주세요>
+오늘도 너는 도사관에 안 왔구나… 부탁할게… 
+네가 사라있다는 소식만이라도 좋으니까, 
+뭐라도 대답해줘…
 > END STRING
 
 > BEGIN STRING
