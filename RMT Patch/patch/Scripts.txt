@@ -80,19 +80,19 @@
 > BEGIN STRING
 "储存到第几个档位？"
 > CONTEXT: Scripts/Vocab/20:21 < UNTRANSLATED
-
+"몇번위치에저장합니까?"
 > END STRING
 
 > BEGIN STRING
 "从第几个档位载入？"
 > CONTEXT: Scripts/Vocab/21:21 < UNTRANSLATED
-
+"몇번위치를불러옵니까?"
 > END STRING
 
 > BEGIN STRING
 "档案"
 > CONTEXT: Scripts/Vocab/22:21 < UNTRANSLATED
-
+"파일"
 > END STRING
 
 > BEGIN STRING
