@@ -46,7 +46,8 @@
 > BEGIN STRING
 我的红色记号笔佣光了…锁以我改用了绿色的！
 > CONTEXT: Map023/events/13/pages/0/1/Dialogue < UNTRANSLATED
-<푸로대사\>
+빨간색 마커를 다 썻서… 
+그래서 조록색으로 바꿨어!
 > END STRING
 
 > BEGIN STRING
@@ -312,7 +313,11 @@
 知道措别字很多，但你一定要看看我的键议，拜托了，
 请你一定要来…我相信我的努力一定会梆助到你的！
 > CONTEXT: Map023/events/242/pages/0/1/Dialogue < UNTRANSLATED
-<푸로대사\>
+내가 찾을 수 있는 연구자료들은 점부 길가에 붙여놨어. 
+네가 사라남도록 도와줄 수 있는 조언도 최대한 써놨고. 
+나도 틀린 글자가 많다는 건 알아. 그래도 제발 화긴해줘. 
+부탁해, 꼭 와야 해… 
+내가 해놓은 것들이 너한테 분명 도우미 될 거야!
 > END STRING
 
 > BEGIN STRING
