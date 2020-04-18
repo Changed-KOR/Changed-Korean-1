@@ -106,7 +106,7 @@
 > BEGIN STRING
 这只小小的黑色胶兽睡得死死的
 > CONTEXT: Map084/events/61/pages/0/0/Dialogue < UNTRANSLATED
-이 작은 점은 짐승은
+이 작은 검은 점액짐승은
 죽은 듯이 자고 있다.
 > END STRING
 
