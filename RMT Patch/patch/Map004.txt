@@ -1,70 +1,70 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 合金外壳
-> CONTEXT: Map004/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/1/pages/0/0/Dialogue
+> CONTEXT: Map004/events/9/pages/0/0/Dialogue
 합금 스틸 케이스다.
 > END STRING
 
 > BEGIN STRING
 如你所见，空了
-> CONTEXT: Map004/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/10/pages/0/0/Dialogue
 보다시피, 텅 비었다..
 > END STRING
 
 > BEGIN STRING
 你可以不费吹灰之力的把这箱子踢开
-> CONTEXT: Map004/events/28/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/59/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/28/pages/0/0/Dialogue
+> CONTEXT: Map004/events/59/pages/0/0/Dialogue
 별 힘을 들이지 않고,
 이 상자를 차 버릴 수 있을 것 같아.
 > END STRING
 
 > BEGIN STRING
 是的，但现在绝对不行
-> CONTEXT: Map004/events/28/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/42/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/51/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/59/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/28/pages/0/2/Dialogue
+> CONTEXT: Map004/events/42/pages/0/2/Dialogue
+> CONTEXT: Map004/events/51/pages/0/2/Dialogue
+> CONTEXT: Map004/events/59/pages/0/2/Dialogue
 ...물론, 지금은 안 되겠지.
 > END STRING
 
 > BEGIN STRING
 深邃的下水道
-> CONTEXT: Map004/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/35/pages/0/0/Dialogue
 깊고 어두운 하수도.
 > END STRING
 
 > BEGIN STRING
 我想我可以不费吹灰之力的把这的箱子踢开
-> CONTEXT: Map004/events/42/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/42/pages/0/0/Dialogue
 별 힘을 들이지 않고,
 이 상자를 차 버릴 수 있을 것 같아.
 > END STRING
 
 > BEGIN STRING
 你想你可以不费吹灰之力的把这的箱子踢开
-> CONTEXT: Map004/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/51/pages/0/0/Dialogue
 별 힘을 들이지 않고,
 이 상자를 차 버릴 수 있을 것 같아.
 > END STRING
 
 > BEGIN STRING
 那个混蛋又上楼来找那位被验者
-> CONTEXT: Map004/events/79/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/3/Dialogue
 그 빌어먹을 녀석은 위층으로 올라가서
 다른 피험자를 찾았다.
 > END STRING
 
 > BEGIN STRING
 但他也没能打开那道门
-> CONTEXT: Map004/events/79/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/5/Dialogue
 하지만 그 녀석도, 문을 열지 못했다.
 > END STRING
 
 > BEGIN STRING
 很明显那混蛋是知道幸存的被验者的事的
-> CONTEXT: Map004/events/79/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/7/Dialogue
 아무래도 그 놈, 살아남은 피험자에
 대해 알고 있는 것 같다.
 위험해.
@@ -72,26 +72,26 @@
 
 > BEGIN STRING
 我曾经数次想要抓住他
-> CONTEXT: Map004/events/79/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/9/Dialogue
 난 일찍이 그 녀석을 잡으려고 했다.
 > END STRING
 
 > BEGIN STRING
 但那混蛋实在太聪明了
-> CONTEXT: Map004/events/79/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/11/Dialogue
 하지만 그 빌어먹을 녀석은...
 너무 똑똑해져서 잡을 수 없었다.
 > END STRING
 
 > BEGIN STRING
 我之后会把上楼的通道全都封死
-> CONTEXT: Map004/events/79/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/13/Dialogue
 이후에 위층으로 올라가는 모든 통로를
 폐쇄해야 할 것 같다.
 > END STRING
 
 > BEGIN STRING
 别想再耍什么花样
-> CONTEXT: Map004/events/79/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/79/pages/0/15/Dialogue
 더 이상 무슨 수작을 부리지 못하도록
 > END STRING
