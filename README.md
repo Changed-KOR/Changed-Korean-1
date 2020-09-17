@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/55882406/73129366-4db69380-4025-11ea-8085-437a513fc6b9.png)
+![Header](https://user-images.githubusercontent.com/55882406/73129366-4db69380-4025-11ea-8085-437a513fc6b9.png)_
 
 # Changed-Korean - 체인지드 한글 번역 프로젝트
 
